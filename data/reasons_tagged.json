@@ -1,0 +1,4747 @@
+[
+  {
+    "id": 1,
+    "text": "In a different season of life, I might say yes — but not right now.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 2,
+    "text": "While I appreciate it, pursuing this isn't something I can commit to.",
+    "tags": ["professional", "kind"]
+  },
+  {
+    "id": 3,
+    "text": "Every time I think about it, I hear a tiny ‘nope’ in the wind.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 4,
+    "text": "My future self wrote me a note: ‘Please don’t do this again.’",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 5,
+    "text": "It sounds interesting, but I’m not the best person for this.",
+    "tags": ["professional", "kind"]
+  },
+  {
+    "id": 6,
+    "text": "I appreciate the thought, but it’s not the right fit for me right now.",
+    "tags": ["kind", "professional"]
+  },
+  {
+    "id": 7,
+    "text": "I'd love to say yes, but I just made a commitment to do less questionable things this week.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 8,
+    "text": "While I appreciate it, volunteering for this isn't something I can commit to.",
+    "tags": ["professional", "kind"]
+  },
+  {
+    "id": 9,
+    "text": "I'm trying to be more intentional with what I agree to, and this doesn’t quite fit.",
+    "tags": ["professional", "kind"]
+  },
+  {
+    "id": 10,
+    "text": "I want to be honest with you — I don’t feel comfortable committing to this.",
+    "tags": ["kind", "professional"]
+  },
+  {
+    "id": 11,
+    "text": "I have to trust my gut — and it's gently suggesting a no.",
+    "tags": []
+  },
+  {
+    "id": 12,
+    "text": "Saying no to this helps me say yes to something that matters more to me.",
+    "tags": []
+  },
+  {
+    "id": 13,
+    "text": "If I said yes, I'd be lying to both of us — and my therapist said to stop doing that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 14,
+    "text": "I’m going to respectfully decline. It doesn’t align with where I’m heading.",
+    "tags": ["professional"]
+  },
+  {
+    "id": 15,
+    "text": "This opportunity deserves more than I can give it right now.",
+    "tags": ["kind", "professional"]
+  },
+  {
+    "id": 16,
+    "text": "I don’t hate the idea — but I also don’t want to do it.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 17,
+    "text": "I’m not in a position to commit to this right now.",
+    "tags": ["professional", "kind"]
+  },
+  {
+    "id": 18,
+    "text": "I’ve made peace with declining things that don’t energize me.",
+    "tags": []
+  },
+  {
+    "id": 19,
+    "text": "Even my calendar laughed when I tried to squeeze this in.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 20,
+    "text": "I’ve decided to hold off on new engagements for the time being.",
+    "tags": ["professional", "kind"]
+  },
+  {
+    "id": 21,
+    "text": "This feels like something Future Me would yell at Present Me for agreeing to.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 22,
+    "text": "I’ve tried doing too much before, and this feels like déjà vu.",
+    "tags": []
+  },
+  {
+    "id": 23,
+    "text": "You’ve put great energy into this, and I hope you understand my decision to step back.",
+    "tags": ["kind", "professional"]
+  },
+  {
+    "id": 24,
+    "text": "This is a great idea — for someone else to take on.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 25,
+    "text": "The version of me who says yes to this doesn’t exist anymore.",
+    "tags": []
+  },
+  {
+    "id": 26,
+    "text": "Even my coffee said, ‘Not today.’",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 27,
+    "text": "My inner peace committee vetoed this idea unanimously.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 28,
+    "text": "I know how much this matters, but I can’t give it the attention it deserves.",
+    "tags": ["kind", "professional"]
+  },
+  {
+    "id": 29,
+    "text": "I had a vision of doing this — and then promptly fell asleep in it.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 30,
+    "text": "Mentally, I’ve already left the room where this would happen.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 31,
+    "text": "This doesn’t align with my values or current focus.",
+    "tags": ["professional"]
+  },
+  {
+    "id": 32,
+    "text": "Please know that my decision isn’t a reflection of you — just my own boundaries.",
+    "tags": ["kind", "professional"]
+  },
+  {
+    "id": 33,
+    "text": "I respect the opportunity, but I know my limits — and this would stretch them too far.",
+    "tags": ["professional", "kind"]
+  },
+  {
+    "id": 34,
+    "text": "If I took this on, I’d be betraying the time I promised myself.",
+    "tags": []
+  },
+  {
+    "id": 35,
+    "text": "I once made a similar decision and my cat hasn’t looked me in the eye since. Let’s not repeat history.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 36,
+    "text": "If I agree, I’d need to clone myself. And I don't trust him.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 37,
+    "text": "This one doesn’t feel quite right, so I’ll have to pass.",
+    "tags": ["professional", "kind"]
+  },
+  {
+    "id": 38,
+    "text": "I'd rather say no with honesty than yes with resentment.",
+    "tags": []
+  },
+  {
+    "id": 39,
+    "text": "Thanks for thinking of me, but I’ll have to pass on this one.",
+    "tags": ["kind", "professional"]
+  },
+  {
+    "id": 40,
+    "text": "I’ve taken some time to reflect, and I believe passing on this is the right call for now.",
+    "tags": ["kind", "professional"]
+  },
+  {
+    "id": 41,
+    "text": "I truly value our connection, and I hope my no doesn’t change that.",
+    "tags": ["kind", "professional"]
+  },
+  {
+    "id": 42,
+    "text": "It’s not a no forever, but it’s a no for now.",
+    "tags": ["professional"]
+  },
+  {
+    "id": 43,
+    "text": "My enthusiasm is sincere, but my availability is imaginary.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 44,
+    "text": "At this point, I don’t have the bandwidth to do this justice.",
+    "tags": ["professional"]
+  },
+  {
+    "id": 45,
+    "text": "I’ve learned to protect my time, and this doesn’t align with how I want to spend it.",
+    "tags": []
+  },
+  {
+    "id": 46,
+    "text": "That’s not something I can prioritize at the moment.",
+    "tags": ["professional", "kind"]
+  },
+  {
+    "id": 47,
+    "text": "If I said yes, the universe might collapse from the shock.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 48,
+    "text": "If I agree, it could break the space-time continuum.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 49,
+    "text": "Helping you now could create a time paradox — better not risk it.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 50,
+    "text": "I can't, I'm busy preventing a future where I actually say yes.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 51,
+    "text": "My calendar is aligned with Jupiter, and the stars say no.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 52,
+    "text": "I'm pretty sure saying yes is forbidden in this galaxy.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 53,
+    "text": "The multiverse would never forgive me if I complied.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 54,
+    "text": "Any timeline where I say yes ends in chaos, so I'm choosing wisely.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 55,
+    "text": "Me agreeing? That's like dividing by zero — dangerous and not allowed.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 56,
+    "text": "Accepting that offer would cause a glitch in the Matrix.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 57,
+    "text": "I'm currently booked for the next decade in pretending to be productive.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 58,
+    "text": "I’d love to, but I'm swamped with counting the ceiling tiles.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 59,
+    "text": "Sorry, I'm too busy rearranging my sock drawer by color and mood.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 60,
+    "text": "I have a meeting with my couch and it won’t take no for an answer.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 61,
+    "text": "I've got a calendar alert to sit and stare into space at that exact time.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 62,
+    "text": "My schedule is full: I'm alphabetizing my snacks.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 63,
+    "text": "I need to finish an intense session of doing nothing at all.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 64,
+    "text": "I've a prior commitment to binge-watching paint dry.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 65,
+    "text": "I'm in the middle of a very important procrastination marathon.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 66,
+    "text": "I can't; I'm attending the opening of my refrigerator.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 67,
+    "text": "I'd help, but my imaginary friend needs me more.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 68,
+    "text": "I can't; my pet rock is having an emotional crisis.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 69,
+    "text": "My goldfish is getting married that day, I have to attend.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 70,
+    "text": "I promised my imaginary cat I'd stay home tonight.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 71,
+    "text": "My guardian unicorn says I shouldn't.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 72,
+    "text": "I have to babysit my imaginary friend's imaginary kids.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 73,
+    "text": "Unfortunately, I'm volunteering as a taste-tester for my pet's new diet.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 74,
+    "text": "My pet dragon has a vet appointment, can't miss it.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 75,
+    "text": "I'm grounded by my pet parrot for bad behavior, so I can't go.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 76,
+    "text": "I lent my time machine to a friend and now I can't go back and free up this afternoon.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 77,
+    "text": "I've made a vow to avoid any form of productivity.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 78,
+    "text": "It's against my personal religion to do anything useful today.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 79,
+    "text": "My psychiatrist advised me to avoid potentially fun activities.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 80,
+    "text": "I swore an oath that I must decline all requests on a whim.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 81,
+    "text": "I only function on coffee and denial, and I'm out of coffee.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 82,
+    "text": "I'm allergic to any form of responsibility.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 83,
+    "text": "I have a doctor's note that specifically forbids me from helping.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 84,
+    "text": "I'd love to help, but I'm trying to break my streak of helpfulness.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 85,
+    "text": "My procrastination coach said I'm not ready for actual tasks yet.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 86,
+    "text": "I gave up saying yes for Lent, and it hasn't ended yet.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 87,
+    "text": "I have a personal policy of saying no on days ending in 'y'.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 88,
+    "text": "My phone's calendar just facepalmed at me for even considering it.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 89,
+    "text": "I have to update my social media status to 'busy not doing that'.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 90,
+    "text": "I'm currently trending towards 'no'.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 91,
+    "text": "I can't — I promised Netflix I'd stay in and watch movies.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 92,
+    "text": "My Wi-Fi of motivation has lost connection.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 93,
+    "text": "I'm waiting for my phone to recharge — can't do anything until it's at 100%.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 94,
+    "text": "My bio on Twitter says 'Often says no', gotta stay on brand.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 95,
+    "text": "I'm busy searching for motivation on Google; no results found.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 96,
+    "text": "I'm stuck in an internet rabbit hole and I can't find the exit.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 97,
+    "text": "I can't come; I'm on a Zoom call with my couch.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 98,
+    "text": "I would love to, but I'd rather not.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 99,
+    "text": "My answer is a no — freshly baked, just for you.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 100,
+    "text": "I've considered it thoroughly, and I'm going with a hard no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 101,
+    "text": "Not even if there were free donuts.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 102,
+    "text": "This is the part where I say 'no' and we both move on.",
+    "tags": []
+  },
+  {
+    "id": 103,
+    "text": "Let me check my schedule... oh look, it's a permanent no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 104,
+    "text": "I'm flattered you asked, but I'll pass with flying colors.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 105,
+    "text": "I've reached my quota of saying yes for the year.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 106,
+    "text": "I'm too cool to say yes to that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 107,
+    "text": "As the saying goes, 'Nope, nope, nope.'",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 108,
+    "text": "You don't want me to say yes — trust me, it's for the greater good.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 109,
+    "text": "The last time I said yes, it rained for 40 days. Not doing that again.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 110,
+    "text": "I promised my future self I'd say no to this one.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 111,
+    "text": "If I agreed, I'd have to explain it to my therapist.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 112,
+    "text": "My past experiences with yes have been traumatic.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 113,
+    "text": "Saying yes is on my list of things to quit.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 114,
+    "text": "I would, but then I'd have to admit I was wrong about hating everything.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 115,
+    "text": "The universe gave me a sign to say no (it was a neon sign, very clear).",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 116,
+    "text": "I once said yes. It didn't end well. There were llamas involved.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 117,
+    "text": "My gut feeling and I unanimously voted no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 118,
+    "text": "That sounds like an amazing opportunity... for someone else.",
+    "tags": ["professional", "sarcastic"]
+  },
+  {
+    "id": 119,
+    "text": "What a great idea! I'm sad I can't be part of it. Well, not that sad.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 120,
+    "text": "I envy the people who will say yes to you, truly.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 121,
+    "text": "I absolutely adore the concept, but I'll have to sit this one out.",
+    "tags": ["professional", "kind"]
+  },
+  {
+    "id": 122,
+    "text": "Brilliant plan! Unfortunately, I'm in witness protection from good ideas.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 123,
+    "text": "That would be a dream come true. Too bad I'm awake and saying no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 124,
+    "text": "You've painted such a lovely picture, I'll admire it from afar.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 125,
+    "text": "Such a generous offer! I'm going to generously decline.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 126,
+    "text": "I'm sure it'll be a resounding success, but I'll be a distant admirer.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 127,
+    "text": "Sounds thrilling! I'm already tired just thinking about it.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 128,
+    "text": "I've already changed into my pajamas, so it's a no.",
+    "tags": []
+  },
+  {
+    "id": 129,
+    "text": "My couch has declared a no-travel zone and I'm abiding.",
+    "tags": ["sarcastic", "absurd"]
+  },
+  {
+    "id": 130,
+    "text": "I can't be bothered to change out of my comfortable blanket burrito.",
+    "tags": []
+  },
+  {
+    "id": 131,
+    "text": "I'm saving my energy for an epic nap.",
+    "tags": []
+  },
+  {
+    "id": 132,
+    "text": "I'm too lazy to even come up with a good excuse, so just no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 133,
+    "text": "Moving from this spot requires 24-hour notice.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 134,
+    "text": "I'm conserving energy today for no particular reason.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 135,
+    "text": "I would, but that sounds like effort and I'm allergic.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 136,
+    "text": "I'm currently experiencing technical difficulties with moving.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 137,
+    "text": "I'm practicing for a marathon of not moving.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 138,
+    "text": "I have to wash my hair that decade.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 139,
+    "text": "I've got to defrost the iceberg in my freezer.",
+    "tags": []
+  },
+  {
+    "id": 140,
+    "text": "Sorry, I need to iron my underwear that night.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 141,
+    "text": "I must attend to my garden of plastic flowers.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 142,
+    "text": "My fish needs a walk and it takes priority.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 143,
+    "text": "Sorry, I have to rotate the tires on my office chair.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 144,
+    "text": "I'm marathoning a series of doing household chores in my head.",
+    "tags": []
+  },
+  {
+    "id": 145,
+    "text": "The dishes threatened to revolt if I leave them again.",
+    "tags": []
+  },
+  {
+    "id": 146,
+    "text": "My fridge and I have couples therapy at that time.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 147,
+    "text": "I need to sit this one out while I sort my sock zoo.",
+    "tags": []
+  },
+  {
+    "id": 148,
+    "text": "In an alternate universe, I totally did that. Just not in this one.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 149,
+    "text": "Maybe in my next life I'll consider it, but current me says no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 150,
+    "text": "In a parallel dimension I'm already on it — too bad we're here.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 151,
+    "text": "I consulted my alternate self; they also declined.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 152,
+    "text": "If I clone myself, I'll send the clone. Until then, no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 153,
+    "text": "I checked with future me, and they rolled their eyes, so I'll pass.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 154,
+    "text": "I'm stuck in a time loop of saying no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 155,
+    "text": "In an alternate timeline I said yes, and it caused a zombie apocalypse.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 156,
+    "text": "My evil twin might be interested; too bad they're busy too.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 157,
+    "text": "Somewhere in a parallel universe I’m more helpful. This isn’t that universe.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 158,
+    "text": "I would, but that sounds dangerously close to work.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 159,
+    "text": "My desire to do that is currently in a coma.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 160,
+    "text": "I'm sure I'd mess it up spectacularly, so better not.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 161,
+    "text": "I could participate, but then who would hold up the wall over here?",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 162,
+    "text": "That request is above my pay grade of zero.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 163,
+    "text": "The spirit is willing, but the schedule says nope.",
+    "tags": ["professional"]
+  },
+  {
+    "id": 164,
+    "text": "I'd rather not tempt fate by trying something new today.",
+    "tags": ["professional", "sarcastic"]
+  },
+  {
+    "id": 165,
+    "text": "If I join, I'd just bring down the average.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 166,
+    "text": "Me doing that? That's the plot twist no one wants.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 167,
+    "text": "I'm practicing social distancing from that idea.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 168,
+    "text": "I have a condition that prevents me from saying yes (it's called sanity).",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 169,
+    "text": "My doctor said I need more vitamin 'No'.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 170,
+    "text": "I just came down with a severe case of Not-Today-itis.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 171,
+    "text": "Mentally, I'm already on vacation.",
+    "tags": ["professional"]
+  },
+  {
+    "id": 172,
+    "text": "I'm on bedrest until further notice, doctor's orders (my doctor is Dr. Seuss).",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 173,
+    "text": "I've got chronic commitment-phobia.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 174,
+    "text": "I'm coming down with something; it's called laziness.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 175,
+    "text": "I have an appointment with a pillow and a blanket.",
+    "tags": []
+  },
+  {
+    "id": 176,
+    "text": "My therapist said I should avoid things that make me miserable; I assume this qualifies.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 177,
+    "text": "I'm having a 'me' time emergency.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 178,
+    "text": "I have to save the world from boredom by staying home.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 179,
+    "text": "I'm in the middle of negotiating world peace (in a video game).",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 180,
+    "text": "My superhero alter ego needs a day off, and so do I.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 181,
+    "text": "I'm on a secret mission to avoid anything you just asked.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 182,
+    "text": "I'd love to, but then who will save the world while I'm gone?",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 183,
+    "text": "I'm busy orchestrating a global nap time.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 184,
+    "text": "I have to keep the couch from floating away, it's an important job.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 185,
+    "text": "The fate of the potato chip I'm about to eat is in my hands, I can't abandon it.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 186,
+    "text": "I have been chosen as the guardian of my living room today.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 187,
+    "text": "I'm fighting an invisible dragon at home. It's taking longer than expected.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 188,
+    "text": "You really don't want me on this – my specialty is ruining things.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 189,
+    "text": "I'm like a black cat of projects; it's safer if I stay away.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 190,
+    "text": "Trust me, I'm doing you a favor by saying no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 191,
+    "text": "My participation comes with a warning label, so I'll spare you.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 192,
+    "text": "I'd join, but I'm only here to provide witty refusals.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 193,
+    "text": "I'm actually terrible at that, unless you need an example of how not to do it.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 194,
+    "text": "You deserve someone who will say yes without giving three excuses first.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 195,
+    "text": "My track record suggests I should sit this one out.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 196,
+    "text": "I'm the wrong person for the job; I'm the right person for saying no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 197,
+    "text": "If you need someone to sabotage it, I'd be perfect. Otherwise, I'll pass.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 198,
+    "text": "The fortune cookie said 'No' just last night.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 199,
+    "text": "The prophecy foretold I would decline this.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 200,
+    "text": "My tarot cards all just collectively sighed.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 201,
+    "text": "I checked my crystal ball, and it said 'nah'.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 202,
+    "text": "The spirit world recommends I stay home.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 203,
+    "text": "I threw some runes and they spelled out N-O.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 204,
+    "text": "My magic 8-ball said 'Outlook not so good'.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 205,
+    "text": "I was reading tea leaves and they said to avoid this at all costs.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 206,
+    "text": "A psychic warned me about requests like these.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 207,
+    "text": "I'm in a committed relationship with my bed at that time.",
+    "tags": []
+  },
+  {
+    "id": 208,
+    "text": "Sleep and I have a standing date, can't break it.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 209,
+    "text": "I would, but I'm trying this new thing called sleeping.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 210,
+    "text": "I already took a melatonin. It's lights out for me.",
+    "tags": []
+  },
+  {
+    "id": 211,
+    "text": "I'm saving all my energy to blink and breathe.",
+    "tags": []
+  },
+  {
+    "id": 212,
+    "text": "I have an early morning of sleeping in.",
+    "tags": []
+  },
+  {
+    "id": 213,
+    "text": "If it's not a nap, I'm not interested.",
+    "tags": []
+  },
+  {
+    "id": 214,
+    "text": "I can't; my pillow needs me.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 215,
+    "text": "Count me out, I'm counting sheep instead.",
+    "tags": []
+  },
+  {
+    "id": 216,
+    "text": "I'll be in the middle of my power nap (which might last all day).",
+    "tags": []
+  },
+  {
+    "id": 217,
+    "text": "Disclaimer: Any agreement on my part is void where fun is prohibited.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 218,
+    "text": "Fine print: My 'yes' comes with 0% enthusiasm.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 219,
+    "text": "I checked the terms and conditions of my life, and it says 'nope'.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 220,
+    "text": "By agreeing, I might violate several personal bylaws.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 221,
+    "text": "According to the unwritten rules I just wrote, I must decline.",
+    "tags": ["professional", "sarcastic"]
+  },
+  {
+    "id": 222,
+    "text": "My user agreement strictly prohibits me from doing that.",
+    "tags": ["professional", "sarcastic"]
+  },
+  {
+    "id": 223,
+    "text": "I would violate the Geneva Convention of Introverts if I agreed.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 224,
+    "text": "I ran this request through my internal compliance, and it failed.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 225,
+    "text": "My lawyer (who is imaginary) advises against it.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 226,
+    "text": "The contract I signed with my bed doesn't allow me to do anything else.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 227,
+    "text": "My plate is full, and I already ate the portion of doing favors.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 228,
+    "text": "I'm overbooked, overwhelmed, and overjoyed to say no.",
+    "tags": []
+  },
+  {
+    "id": 229,
+    "text": "My schedule spontaneously combusted from too many tasks.",
+    "tags": ["professional"]
+  },
+  {
+    "id": 230,
+    "text": "I'm currently managing too many crises — adding another might cause a meltdown.",
+    "tags": []
+  },
+  {
+    "id": 231,
+    "text": "I have too much on my plate, and I'm on a no-carb diet (no extra tasks).",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 232,
+    "text": "I'm drowning in tasks, and I didn't bring a snorkel.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 233,
+    "text": "I would, but I'm already in over my head with other regrets.",
+    "tags": ["professional"]
+  },
+  {
+    "id": 234,
+    "text": "My to-do list and I aren't on speaking terms, it's so long.",
+    "tags": ["professional"]
+  },
+  {
+    "id": 235,
+    "text": "I'm way too popular with tasks I haven't done yet.",
+    "tags": ["professional"]
+  },
+  {
+    "id": 236,
+    "text": "The hamster running my life wheel is on strike due to overwork.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 237,
+    "text": "'No' is just 'on' spelled backwards, and I'm off.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 238,
+    "text": "Spell check suggests I say N-O.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 239,
+    "text": "I wrote you a poem: Roses are red, violets are blue, my answer is no, no can do.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 240,
+    "text": "The only thing I'm inclined to say is a decline.",
+    "tags": ["professional", "sarcastic"]
+  },
+  {
+    "id": 241,
+    "text": "Let me put it in a language you understand: No.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 242,
+    "text": "I'm fluent in 5 languages, and in all of them, the answer is no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 243,
+    "text": "'Yes' and I aren't on speaking terms at the moment.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 244,
+    "text": "I would respond with a fancy Latin phrase for no, but plain 'no' will suffice.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 245,
+    "text": "As an acronym, my answer is N.O.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 246,
+    "text": "If you rearrange the letters of 'yes', you get 'sye' — which is exactly how much sense it would make for me to do this.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 247,
+    "text": "I'm booked until the heat death of the universe.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 248,
+    "text": "My calendar is filled up through the next century, sorry.",
+    "tags": ["professional"]
+  },
+  {
+    "id": 249,
+    "text": "I have a scheduling conflict with the rest of my life.",
+    "tags": []
+  },
+  {
+    "id": 250,
+    "text": "I'm not free until the sun rises in the west and sets in the east.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 251,
+    "text": "Check back with me in a million years, I might have time then.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 252,
+    "text": "I'm on hold with life right now; expect a long wait.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 253,
+    "text": "My availability is currently in a state of quantum uncertainty, leaning towards no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 254,
+    "text": "I've pre-booked my next thousand refusals; you're just one of them.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 255,
+    "text": "My schedule is tighter than my jeans after the holidays.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 256,
+    "text": "I looked at my calendar, and it laughed at me for even asking.",
+    "tags": ["sarcastic", "professional"]
+  },
+  {
+    "id": 257,
+    "text": "Thank you for thinking of me, but I'm going to decline hilariously.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 258,
+    "text": "I appreciate the offer, but I'll have to decline, mainly out of laziness.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 259,
+    "text": "Much obliged that you asked, but no can do, buckaroo.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 260,
+    "text": "I'm honored you thought of me, but I must respectfully and comically decline.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 261,
+    "text": "Please accept my sincerest apologies as I laugh and say no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 262,
+    "text": "Regretfully, I'll have to pass, but I'll do it with a smile.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 263,
+    "text": "It's not you, it's me. I'm just allergic to doing things.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 264,
+    "text": "Respectfully, I'm going to ghost this opportunity.",
+    "tags": ["professional"]
+  },
+  {
+    "id": 265,
+    "text": "I'm truly touched you asked. Truly. Still no, though.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 266,
+    "text": "With all due respect, no way, José.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 267,
+    "text": "I forgot how to say yes.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 268,
+    "text": "I have short-term memory loss when it comes to responsibilities.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 269,
+    "text": "I'd agree, but I just forgot what you asked, so... no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 270,
+    "text": "My brain auto-deletes requests like that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 271,
+    "text": "I've got selective amnesia for favors.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 272,
+    "text": "I was going to help, but I forgot to care.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 273,
+    "text": "I'm sorry, I suffer from CRS (Can't Remember Saying yes).",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 274,
+    "text": "I can't remember the last time I said yes, and I won't start now.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 275,
+    "text": "What was that? Did you ask something? No? Great.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 276,
+    "text": "I put your request in my mental shredder.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 277,
+    "text": "I can't; I'm busy teaching my goldfish to play fetch for charity.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 278,
+    "text": "I'm devoting that time slot to contemplating the meaning of life. It's a charity case really.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 279,
+    "text": "I've donated all my free time to non-doing causes.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 280,
+    "text": "I'm working on a petition to ban requests like this.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 281,
+    "text": "My calendar is filled with volunteer work at the Society of Professional Naysayers.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 282,
+    "text": "I'm training for a charity event: a marathon of saying no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 283,
+    "text": "I'm raising awareness for the endangered word 'no' by using it frequently.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 284,
+    "text": "I auctioned off my time slot for that day to the highest bidder of nothing.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 285,
+    "text": "I'm doing a silent retreat away from responsibilities.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 286,
+    "text": "I gave all my free time to someone else; I'm running a deficit.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 287,
+    "text": "I'm on a strict no-social-interaction diet.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 288,
+    "text": "I have to cancel; I've exceeded my people-ing quota for the week.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 289,
+    "text": "I'm introverting so hard right now, I can't stop to do that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 290,
+    "text": "My social battery is at 0%, and my charger is missing.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 291,
+    "text": "I'm away on an introvert adventure (indoors, alone).",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 292,
+    "text": "I can't come out; I've recently taken up hermit life.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 293,
+    "text": "Socializing is off the table, literally, I flipped the table.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 294,
+    "text": "I'm allergic to crowds, and even one person counts sometimes.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 295,
+    "text": "I'm practicing social distancing... from everyone.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 296,
+    "text": "Public me is out of office; please contact me never.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 297,
+    "text": "I accidentally glued myself to the couch.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 298,
+    "text": "My legs have filed a complaint about excessive walking.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 299,
+    "text": "My get-up-and-go got up and went without me.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 300,
+    "text": "I'm having an out-of-body experience and I'm not back yet.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 301,
+    "text": "My energy and I are currently in a long-distance relationship.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 302,
+    "text": "I woke up with a serious case of gravity today; can't get up.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 303,
+    "text": "I have an acute case of Couch Magnetism.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 304,
+    "text": "My limbs have gone on strike until further notice.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 305,
+    "text": "I'm feeling as active as a sloth on vacation.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 306,
+    "text": "I'm under house arrest by my own laziness.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 307,
+    "text": "I'd rather bathe in week-old soup than do that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 308,
+    "text": "I prefer to juggle chainsaws blindfolded — seems safer than saying yes.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 309,
+    "text": "I would climb Mount Everest barefoot before I'd agree to that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 310,
+    "text": "I'd rather be the sole target in a paintball match than participate.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 311,
+    "text": "Honestly, chewing glass sounds more fun than saying yes to this.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 312,
+    "text": "I'd rather do my own dental surgery with no anesthesia.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 313,
+    "text": "Saying yes? I'd sooner challenge a kangaroo to a boxing match.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 314,
+    "text": "I'd rather walk on Lego bricks for an hour straight.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 315,
+    "text": "I prefer the thrill of not doing it, thanks.",
+    "tags": ["professional"]
+  },
+  {
+    "id": 316,
+    "text": "I'd accept, but I have a strict policy of not walking into obvious traps.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 317,
+    "text": "I would, but my bank account said I can't afford the gas to get there.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 318,
+    "text": "Unless there's a cash prize for me, I'll have to decline.",
+    "tags": ["professional"]
+  },
+  {
+    "id": 319,
+    "text": "I only work on commission, and this request doesn't pay in pizza.",
+    "tags": ["professional", "sarcastic"]
+  },
+  {
+    "id": 320,
+    "text": "If you pay me in gold bars, I'll reconsider. Otherwise, no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 321,
+    "text": "My accountant advised me that saying yes doesn't balance my books.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 322,
+    "text": "I'm waiting for a rich benefactor to fund my yeses.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 323,
+    "text": "I can't fit that into my budget of time and energy.",
+    "tags": ["professional"]
+  },
+  {
+    "id": 324,
+    "text": "I'm in a bit of a financial bind: low on funds and on yeses.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 325,
+    "text": "Unless I get stock options for this, I'm out.",
+    "tags": ["professional"]
+  },
+  {
+    "id": 326,
+    "text": "I require a down payment just to think about saying yes.",
+    "tags": ["professional"]
+  },
+  {
+    "id": 327,
+    "text": "I'm waiting for a sign from the universe... oh, there it is: it says no.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 328,
+    "text": "I need to conserve my remaining brain cell.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 329,
+    "text": "My existential dread and I have plans.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 330,
+    "text": "I'm on strike until further notice, and I'm the union leader.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 331,
+    "text": "I've got a hot date with a pizza and a TV show.",
+    "tags": []
+  },
+  {
+    "id": 332,
+    "text": "I'm currently observing National No Day, it's a personal holiday.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 333,
+    "text": "I have a policy to not leap into volcanoes, and this feels similarly dangerous.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 334,
+    "text": "Can't come, I've made other plans with my bed and pillow.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 335,
+    "text": "I must decline, for science!",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 336,
+    "text": "I'm trying to see how long I can go without doing anything productive.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 337,
+    "text": "My mom said I have to stay home and, um, alphabetize the pantry.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 338,
+    "text": "My family booked me for a game of hide-and-seek and I'm the missing piece.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 339,
+    "text": "My kids grounded me for trying to have a life.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 340,
+    "text": "I can't; my ancestors' spirits would be displeased if I did.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 341,
+    "text": "My dog will only let me out of the house if it's for walks, not work.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 342,
+    "text": "My spouse already made dinner plans with me and Netflix.",
+    "tags": []
+  },
+  {
+    "id": 343,
+    "text": "It's family night and by family, I mean me and my snacks.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 344,
+    "text": "I have to attend a family tradition of doing nothing tonight.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 345,
+    "text": "My cat is giving me the 'don't you dare go out' look.",
+    "tags": []
+  },
+  {
+    "id": 346,
+    "text": "My goldfish family reunion is happening in my fish tank.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 347,
+    "text": "NO is just YES suffering from oppositional defiant disorder.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 348,
+    "text": "N-O: two letters that, when combined, describe my plans perfectly.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 349,
+    "text": "I'm going to turn that invitation into an inviti-NOPE.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 350,
+    "text": "'No' is my spirit animal.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 351,
+    "text": "I can't spell 'nope' without N-O.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 352,
+    "text": "They say double negatives make a positive, but my single negative stands firm.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 353,
+    "text": "I'm consonantly refusing and vowel-ing out of this one.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 354,
+    "text": "Just in case you missed it: N as in No, O as in Oh-no-not-today.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 355,
+    "text": "My motto is 'Just say no', and I'm very loyal to my motto.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 356,
+    "text": "I signed up for a course on saying no, and I'm just practicing my homework.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 357,
+    "text": "I prefer to watch the grass grow at that time, sorry.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 358,
+    "text": "Actually, I was planning to count sand grains, which sounds more fun.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 359,
+    "text": "I've been looking forward to reorganizing my button collection instead.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 360,
+    "text": "I scheduled some quality time with my ceiling fan.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 361,
+    "text": "I have a thrilling date with doing absolutely nothing.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 362,
+    "text": "I'm engaged in a passionate affair with free time, and I can't cheat on it.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 363,
+    "text": "I have front row seats to my couch and I intend to use them.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 364,
+    "text": "There's a rerun of a show I've never seen that I just can't miss.",
+    "tags": []
+  },
+  {
+    "id": 365,
+    "text": "I already promised to spend that time twiddling my thumbs.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 366,
+    "text": "I have to decline; I wouldn't want to outshine everyone with my presence.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 367,
+    "text": "My greatness is just too much for that event to handle.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 368,
+    "text": "I'd say yes, but then it wouldn't be fair to the others when I excel effortlessly.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 369,
+    "text": "I can't make it; the paparazzi might swarm your event if I do.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 370,
+    "text": "I'm doing you a favor by not coming and stealing the spotlight.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 371,
+    "text": "I would attend, but I'm kind of a big deal in my own mirror.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 372,
+    "text": "I'm too cool for that (and by too cool, I mean too lazy).",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 373,
+    "text": "Allow me to gracefully decline, so you can have fun without my overwhelming awesomeness.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 374,
+    "text": "I'll have to decline; I'm too busy being fabulous elsewhere.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 375,
+    "text": "I must humbly decline because my perfection is exhausting.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 376,
+    "text": "I have to return the One Ring to Mordor that day.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 377,
+    "text": "Sorry, I'm scheduled to fight Darth Vader then.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 378,
+    "text": "I need to sit by the phone in case Hogwarts calls.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 379,
+    "text": "I would but I've already volunteered as tribute elsewhere.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 380,
+    "text": "My Bat-Signal just lit up, gotta go save Gotham instead.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 381,
+    "text": "I can't — my flux capacitor is on the fritz and I can't make it in time.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 382,
+    "text": "That night is my scheduled trip back to the future.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 383,
+    "text": "Zombies may attack if I leave the house, I saw it in a documentary (okay, it was a zombie movie).",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 384,
+    "text": "I'm busy negotiating with some minions; world domination can't wait.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 385,
+    "text": "I have to consult Doctor Strange about attending (he foresaw that I don't).",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 386,
+    "text": "My boss told me to only say yes to salary raises, so no to everything else.",
+    "tags": ["professional", "sarcastic"]
+  },
+  {
+    "id": 387,
+    "text": "I've used up all my sick days, so I'm calling in well and staying home.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 388,
+    "text": "My teacher said I need to focus on not overcommitting.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 389,
+    "text": "I have a work thing... it's called avoiding work.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 390,
+    "text": "My calendar at work has a big red 'NOPE' on that date.",
+    "tags": ["professional"]
+  },
+  {
+    "id": 391,
+    "text": "I can't, I have an important meeting to stare at a spreadsheet and contemplate life.",
+    "tags": []
+  },
+  {
+    "id": 392,
+    "text": "I'm taking a personal day to avoid persons.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 393,
+    "text": "Got a conference call with myself, and it's very time-consuming.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 394,
+    "text": "My overtime got into a fight with my free time, and free time lost.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 395,
+    "text": "My PTO (Permission To Opt-out) is in effect.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 396,
+    "text": "If I go, it might trigger the apocalypse. Better not risk it.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 397,
+    "text": "I have to stay put to prevent the zombie outbreak from starting (long story).",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 398,
+    "text": "I'd come, but Nostradamus predicted I'd say no.",
+    "tags": ["sarcastic", "absurd"]
+  },
+  {
+    "id": 399,
+    "text": "It's one of the signs of the apocalypse if I say yes, let's avoid that.",
+    "tags": ["sarcastic", "absurd"]
+  },
+  {
+    "id": 400,
+    "text": "My attendance is the last seal before the apocalypse, so hard pass.",
+    "tags": ["sarcastic", "absurd"]
+  },
+  {
+    "id": 401,
+    "text": "I fear my yes would summon Cthulhu or something.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 402,
+    "text": "I'm avoiding causing a butterfly effect that ends the world.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 403,
+    "text": "Legend says if I ever agree, the world will end in a spectacular musical number.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 404,
+    "text": "I made a deal with a demon to never say yes, and I hate to break a contract.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 405,
+    "text": "The doomsday clock ticks faster every time I consider agreeing.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 406,
+    "text": "Yes, you may interpret my silence as a no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 407,
+    "text": "I’m nodding yes in spirit, but physically I’m shaking my head no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 408,
+    "text": "Sure...ly you can find someone else?",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 409,
+    "text": "Yes is in my vocabulary, just not today.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 410,
+    "text": "On a scale of yes to no, I'm at a 'not in a million years'.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 411,
+    "text": "I meant to say yes, but all that came out was no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 412,
+    "text": "Consider my 'yes' lost in the mail.",
+    "tags": ["professional", "sarcastic"]
+  },
+  {
+    "id": 413,
+    "text": "Y-E-S are letters you'll not hear from me today.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 414,
+    "text": "Picture me enthusiastically not doing that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 415,
+    "text": "Imagining me helping? Now imagine the opposite. There you go.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 416,
+    "text": "I'm feeling unlucky, so I better not risk saying yes.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 417,
+    "text": "I rolled the dice and it came up 'no'.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 418,
+    "text": "I consulted Lady Luck; she told me to stay home.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 419,
+    "text": "If I had a lucky penny for every time I said no, I'd be rich. Speaking of which, no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 420,
+    "text": "I'd join but I accidentally walked under a ladder and broke a mirror. Not chancing it.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 421,
+    "text": "My fortune teller said 'not in your stars', I trust that.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 422,
+    "text": "I pulled a card from a deck; it said 'Do Not Pass Go, Do Not Say Yes'.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 423,
+    "text": "Fate decided to swipe left on this one.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 424,
+    "text": "The stars aligned... to form a big 'NO'.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 425,
+    "text": "I can't; the weather forecast said there's a 100% chance of me staying home.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 426,
+    "text": "It's raining 'no's and I'm soaking wet in them.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 427,
+    "text": "I only go out in perfect weather conditions, which this clearly isn't (for me).",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 428,
+    "text": "I'm experiencing a heavy downpour of laziness.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 429,
+    "text": "The winds of fate blew and I got hit in the face with a 'no'.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 430,
+    "text": "There’s a storm brewing and it's named My Reluctance.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 431,
+    "text": "I suspect a sudden tornado of responsibilities will keep me inside.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 432,
+    "text": "I'm under the weather, specifically a cloud of nope.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 433,
+    "text": "The forecast for that day is me with a high chance of not showing up.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 434,
+    "text": "I’d hate to step out and melt; I'm made of sugar and sarcasm.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 435,
+    "text": "I could say yes, but that would be a lie.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 436,
+    "text": "My heart says yes, but my soul says 'are you kidding?'",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 437,
+    "text": "I'm physically capable of doing it, just morally opposed (to effort).",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 438,
+    "text": "I have an inner conflict: Part of me says 'no'. The other part also says 'no'.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 439,
+    "text": "I’ve reached an age where I just say no to things I hate. And I hate this.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 440,
+    "text": "My willpower to do that got stuck in traffic and won't make it.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 441,
+    "text": "I gave it some thought. The thought was 'no'.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 442,
+    "text": "In theory I could, but let's stick to reality where I won't.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 443,
+    "text": "I'm trying to be less of a people-pleaser, starting now.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 444,
+    "text": "I just looked in the mirror and practiced saying 'no' and it felt right.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 445,
+    "text": "I can't say yes before I've had my coffee. And I never plan to have coffee.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 446,
+    "text": "No caffeine, no can-do.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 447,
+    "text": "My coffee and I have a pact: no important decisions without it, and it’s not available.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 448,
+    "text": "I would say yes, but I haven't met my daily coffee quota to deal with the consequences.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 449,
+    "text": "I'm in a decaffeinated state of no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 450,
+    "text": "My brain is only powered by caffeine, and we're experiencing a power outage.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 451,
+    "text": "The coffee machine called in sick, so I'm incapable of agreeing to anything.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 452,
+    "text": "I promised myself I'd only decide things after coffee; too bad it's already no-o'clock.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 453,
+    "text": "My morning coffee and I decided this isn't worth the caffeine it would take.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 454,
+    "text": "I'm too busy plotting world domination to attend.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 455,
+    "text": "If I said yes, it might ruin my evil plan.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 456,
+    "text": "My secret lair needs tending to at that time.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 457,
+    "text": "I'm in the middle of a devious scheme and can't break away.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 458,
+    "text": "I can't help you; I'm a supervillain in training and this would mess up my cred.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 459,
+    "text": "I would join, but then I'd have to recruit you into my plans and you wouldn't like that.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 460,
+    "text": "I'm brainstorming how to take over the world, and I need full concentration.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 461,
+    "text": "My minions scheduled a revolt for that day, and I need to be present.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 462,
+    "text": "I must regretfully decline as I have many diabolical laughs to practice.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 463,
+    "text": "Evil never sleeps, and apparently neither do I, except I'm definitely not going out.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 464,
+    "text": "I'm trying to align my chakras by not stressing, so I'll say no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 465,
+    "text": "To maintain balance in the Force, I must decline.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 466,
+    "text": "My yin and yang are telling me not to do it.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 467,
+    "text": "For the sake of cosmic balance, I can't agree.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 468,
+    "text": "I'm in the middle of a feng shui adjustment to my life that forbids new commitments.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 469,
+    "text": "I must refuse, or the delicate equilibrium of my laziness will be disrupted.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 470,
+    "text": "Saying yes would throw off the balance of my weekly yes-to-no ratio.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 471,
+    "text": "I need to keep my karma clear, and I sense a yes would muddy it.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 472,
+    "text": "I must achieve inner peace, which means not complicating my day with this.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 473,
+    "text": "I'm afraid if I enjoy myself, it will become a bad habit.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 474,
+    "text": "If I end up liking it, then I'll have to do it again, so no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 475,
+    "text": "I'm scared of success, so I must decline anything that might work out.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 476,
+    "text": "I'm afraid I'll set the bar too high if I say yes and do a good job.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 477,
+    "text": "Fun? I'm not sure I remember what that is, better not risk it.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 478,
+    "text": "I avoid anything that might make me smile too much.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 479,
+    "text": "I'm trying to remain mysterious and saying yes would make me too accessible.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 480,
+    "text": "I like to keep my expectations low by not doing anything.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 481,
+    "text": "I'm avoiding fun until further notice.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 482,
+    "text": "Asking me to do that is like asking a fish to climb a tree.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 483,
+    "text": "Me doing that would be like a chicken trying to do algebra.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 484,
+    "text": "Saying yes would be as unusual as a cat becoming a vegan.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 485,
+    "text": "That idea and I go together like oil and water.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 486,
+    "text": "Me participating is like a square peg in a round hole — just not fitting.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 487,
+    "text": "My motivation and that task are like two magnets repelling each other.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 488,
+    "text": "It would be like expecting a sloth to win a 100m dash.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 489,
+    "text": "Me saying yes is about as likely as pigs piloting a spaceship.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 490,
+    "text": "That request is the peanut butter to my allergy.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 491,
+    "text": "I just realized it's a holiday: National Not Gonna Do It Day.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 492,
+    "text": "I'm observing a personal holiday called Nope-vember.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 493,
+    "text": "I can't; I've got Festivus grievances to air that day.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 494,
+    "text": "I'm booked that day celebrating the Festival of No.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 495,
+    "text": "I'm already committed to the Anti-Work Holiday.",
+    "tags": ["professional", "sarcastic"]
+  },
+  {
+    "id": 496,
+    "text": "I celebrate Opposite Day by doing the opposite of what you ask.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 497,
+    "text": "Sorry, it's my annual day of rest... like the Sabbath, but for laziness.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 498,
+    "text": "I only celebrate events that involve cake, so unless there's cake, no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 499,
+    "text": "That date conflicts with my extended celebration of Chillmas.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 500,
+    "text": "It's my pet rock's birthday, which is basically a global holiday to me.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 501,
+    "text": "I want to say yes, but my common sense is yelling 'no' repeatedly.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 502,
+    "text": "My heart says maybe, but my brain threw a giant red flag.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 503,
+    "text": "My gut feeling started doing the Macarena when you asked (that's a no dance).",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 504,
+    "text": "Every fiber of my being is currently doing the wave in honor of saying no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 505,
+    "text": "The tiny responsible voice in my head and the loud lazy one both agree: no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 506,
+    "text": "I asked my better judgment, and it laughed hysterically.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 507,
+    "text": "My brain highlighted that request and hit the delete key.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 508,
+    "text": "My conscience would haunt me if I said yes.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 509,
+    "text": "Even the angel on my shoulder is like, 'nah, dude'.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 510,
+    "text": "My inner voice is just screaming 'NOOOO' Darth Vader-style.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 511,
+    "text": "I'm not procrastinating; I'm proactively saying no in advance.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 512,
+    "text": "I'm delaying my decision until the end of time — spoiler: it's no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 513,
+    "text": "Why do today what I can avoid indefinitely?",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 514,
+    "text": "My planner just says 'Nope' on every page this week.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 515,
+    "text": "I'll put this request on my to-do list right after 'learn teleportation'.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 516,
+    "text": "I'm in the process of rescheduling my procrastination for later.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 517,
+    "text": "I'm waiting for the last minute, and it hasn't arrived for this.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 518,
+    "text": "I thought about doing it later, then realized later is fully booked as well.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 519,
+    "text": "I'm on a procrastination roll, can't stop now.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 520,
+    "text": "I'm deferring my yes until a year that doesn't exist.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 521,
+    "text": "I would help, but then you'd have two of us needing help.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 522,
+    "text": "I'm not sure you can afford the damage I'd do by trying.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 523,
+    "text": "My help comes with a money-back guarantee, but you don't want it.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 524,
+    "text": "I'm the last person who should do that — literally, I'm last in line.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 525,
+    "text": "I tried doing something similar once; let's just say the fire department got involved.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 526,
+    "text": "If I do it, you'll spend more time fixing my mistakes.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 527,
+    "text": "My competence is on vacation right now.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 528,
+    "text": "I excel at procrastinating, not at actually doing things.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 529,
+    "text": "I'd volunteer, but the incompetence fee I charge is quite high.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 530,
+    "text": "I would assist, but then I'd have to legally disclaim any results.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 531,
+    "text": "It doesn't really spark joy in me, so I'll pass.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 532,
+    "text": "That idea doesn't pass the vibe check for me.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 533,
+    "text": "I'm not feeling a strong gravitational pull towards doing that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 534,
+    "text": "My interest level is somewhere between zero and negative.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 535,
+    "text": "If I had any less interest, I'd be in a coma.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 536,
+    "text": "My curiosity just left the room when I heard that idea.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 537,
+    "text": "I'm sure it's fascinating, but my attention span thinks otherwise.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 538,
+    "text": "I'm saving my enthusiasm for something duller.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 539,
+    "text": "I fell asleep halfway through considering it.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 540,
+    "text": "I tried to get excited about it and pulled a muscle.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 541,
+    "text": "The government has me in a witness protection program against events like this.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 542,
+    "text": "My parole officer said I'm only allowed to work on being lazy.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 543,
+    "text": "The FBI called; they said me saying yes would be a national security risk.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 544,
+    "text": "I would come, but the judge of my life sentenced me to staying home.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 545,
+    "text": "My license to have fun was revoked.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 546,
+    "text": "I'd love to comply, but I'm under strict orders from myself not to.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 547,
+    "text": "The Queen of England ghost-told me to stay home (I only take royal commands).",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 548,
+    "text": "The island I'm exiled on doesn't allow me to leave for events.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 549,
+    "text": "I'm contractually obligated to decline under the terms of my life choices.",
+    "tags": ["professional", "sarcastic"]
+  },
+  {
+    "id": 550,
+    "text": "The police told me I'm too interesting to attend normal gatherings.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 551,
+    "text": "I'm too old for this kind of commitment to things.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 552,
+    "text": "I think I'm at an age where I just say no to stuff like this.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 553,
+    "text": "At my age, my give-a-darn is busted.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 554,
+    "text": "I'm having a midlife crisis and saying yes isn't part of it.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 555,
+    "text": "I'm in my rebellious phase of only doing what I want, so no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 556,
+    "text": "I'm channeling my inner grumpy old person and staying home.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 557,
+    "text": "I'm revisiting my teenage rebellion by saying no to everything.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 558,
+    "text": "In my day, we didn't have to do things we didn't want to (and I'm keeping it that way).",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 559,
+    "text": "I'm practicing for my future as a crotchety old hermit.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 560,
+    "text": "I'm aging like fine wine, which means getting more stubborn about saying no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 561,
+    "text": "My fairy godmother said I should stay home or I'll turn into a pumpkin.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 562,
+    "text": "Cinderella left one shoe here and I need to help find the other instead of going out.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 563,
+    "text": "I'm awaiting Prince Charming with pizza, so I can't go anywhere.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 564,
+    "text": "I can't come; the Big Bad Wolf is at my door (selling insurance, apparently).",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 565,
+    "text": "I have to keep an eye on my gingerbread house, you know how it is.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 566,
+    "text": "The seven dwarves warned me about overextending myself.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 567,
+    "text": "I'm under a sleeping spell that only time (and not doing that) can break.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 568,
+    "text": "I lost my glass slipper and can't go out without proper footwear.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 569,
+    "text": "The frog I was supposed to kiss to become a prince gave me a rain check.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 570,
+    "text": "I'm stuck in a fairy tale, and agreeing to that isn't part of the plot.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 571,
+    "text": "I have to guard the refrigerator tonight; snacks are counting on me.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 572,
+    "text": "I've dedicated that time to an ice cream in need of company.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 573,
+    "text": "I'm carb loading for a marathon of not doing that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 574,
+    "text": "I have a dinner date with a pizza and it would be jealous if I cancel.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 575,
+    "text": "I can't go out; my fridge just opened a bottle of wine and it'd be rude not to join.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 576,
+    "text": "I'm testing a theory that I can survive on chips alone, can't interrupt that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 577,
+    "text": "My oven and I have plans to bake and eat an entire cake.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 578,
+    "text": "I promised to help my popcorn pop — it's a very involved process.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 579,
+    "text": "I would, but I just started cooking a five-course meal for one (me).",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 580,
+    "text": "I'm learning to cook invisible meals; it's very time-consuming.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 581,
+    "text": "I have to be on standby in case Netflix needs me to watch something.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 582,
+    "text": "I'm on call as the family couch potato.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 583,
+    "text": "I'm the designated stay-at-home person this week.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 584,
+    "text": "I'm serving jury duty in the court of my own laziness.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 585,
+    "text": "I'm on a secret standby mission – can't disclose, just know I can't come.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 586,
+    "text": "I'm the emergency contact for my TV, so I must remain available.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 587,
+    "text": "I'm committed to staying home in case of a snack emergency.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 588,
+    "text": "I signed up to be a test subject for sleeping in, and I have a session then.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 589,
+    "text": "I'm part of a top-secret project called Project No.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 590,
+    "text": "I have a duty to uphold: keep my couch from feeling lonely.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 591,
+    "text": "My car decided to take a personal day off.",
+    "tags": []
+  },
+  {
+    "id": 592,
+    "text": "The public transportation in my living room is currently not operational.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 593,
+    "text": "I tried to leave, but my door wouldn't let me (we negotiated, and I stayed).",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 594,
+    "text": "My GPS recommended I stay home to avoid bad decisions.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 595,
+    "text": "My carpool pony is sick. Yes, it's a pony, don't ask.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 596,
+    "text": "I would bike there, but my bike just laughed at me.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 597,
+    "text": "Uber doesn't deliver me to bad ideas.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 598,
+    "text": "I missed the train of thought that would make me go.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 599,
+    "text": "My broomstick is in the shop (you know how unreliable those are).",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 600,
+    "text": "All roads lead to me staying home.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 601,
+    "text": "My insurance doesn't cover acts of me doing that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 602,
+    "text": "I need to stay in a safe environment, and that event sounds risky (to my sanity).",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 603,
+    "text": "Occupational Health and Safety flagged that activity as a hazard for me.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 604,
+    "text": "I'm waiting for my bubble wrap suit to arrive before I attempt such things.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 605,
+    "text": "That sounds dangerous for my well-being (mostly my mental well-being).",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 606,
+    "text": "I only operate heavy machinery (like my couch) under supervision, so I can't go.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 607,
+    "text": "The last time I tried, I got a papercut on my soul.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 608,
+    "text": "For safety reasons, I'm required to stay away from that kind of excitement.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 609,
+    "text": "My guardian angel submitted a restraining order against that plan.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 610,
+    "text": "I'd prefer not to injure my will to live by saying yes.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 611,
+    "text": "I've transcended the need for activities like that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 612,
+    "text": "I'm focusing on the journey of doing nothing, not the destination of that task.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 613,
+    "text": "My existential crisis and I decided against it.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 614,
+    "text": "In the grand tapestry of life, I'm the thread that sits this one out.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 615,
+    "text": "I've realized the meaning of life isn't doing that, so I'm good.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 616,
+    "text": "I'd rather search for the purpose of life than attend.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 617,
+    "text": "I think, therefore I am... not going to do that.",
+    "tags": ["professional", "sarcastic"]
+  },
+  {
+    "id": 618,
+    "text": "My current philosophy: if it requires pants, it's a no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 619,
+    "text": "I'm practicing wu wei (doing nothing) as per Taoism, so I must decline.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 620,
+    "text": "To do or not to do? That is the question, and I've answered 'not to do.'",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 621,
+    "text": "I trained for years under a master of saying no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 622,
+    "text": "I got a black belt in No-jitsu.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 623,
+    "text": "I've been preparing my whole life to say no to this exact request.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 624,
+    "text": "I took a seminar on assertiveness and I'm itching to use what I learned: No.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 625,
+    "text": "My reflexes are honed to automatically decline invites.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 626,
+    "text": "I signed up for a 'Just Say No' workshop and I need to practice.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 627,
+    "text": "I'm part of a secret society where we only communicate via refusals.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 628,
+    "text": "My knee-jerk reaction is no, and my knee is feeling particularly jerky.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 629,
+    "text": "Saying no is my cardio.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 630,
+    "text": "I've been rehearsing my 'no' all week for just such an occasion.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 631,
+    "text": "No is my middle name. Well, not legally, but spiritually.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 632,
+    "text": "I come from a long line of expert decliners.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 633,
+    "text": "My DNA test came back: I'm 100% not doing that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 634,
+    "text": "I'm genetically predisposed to say no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 635,
+    "text": "I was born to say no — first word I ever said and never stopped.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 636,
+    "text": "I have a rare genetic disorder where I break out in refusals.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 637,
+    "text": "My spirit animal is a sloth, and it's telling me to stay put.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 638,
+    "text": "Astrologically, I'm a No-rgo or a Libra-thinks-not (one of those).",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 639,
+    "text": "I took an oath as a kid to avoid anything resembling this.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 640,
+    "text": "My life coach advised me to eliminate stressors, starting with this.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 641,
+    "text": "My friends would have a heart attack if I suddenly said yes to things.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 642,
+    "text": "It would set a bad precedent if I started agreeing to reasonable requests.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 643,
+    "text": "If I start saying yes now, where will it end? World domination? Better not.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 644,
+    "text": "Saying yes once might give me a reputation for being helpful — can't have that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 645,
+    "text": "I can't shock my system with responsibility like that; doctor’s orders.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 646,
+    "text": "Yes is such a small word for such a life-changing event, I'm not ready.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 647,
+    "text": "I'm afraid saying yes now will open floodgates of expectations.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 648,
+    "text": "If I said yes, people might expect me to do it again. Perish the thought.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 649,
+    "text": "Agreeing to this would confuse everyone who knows me as a professional avoider.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 650,
+    "text": "My brand is 'reliable disappointment', and I have to stay consistent.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 651,
+    "text": "Can I take a rain check and then lose it forever?",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 652,
+    "text": "Let's pencil it in for the 12th of Never.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 653,
+    "text": "I'll join you on the 32nd of this month.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 654,
+    "text": "How about I catch the next one... in a parallel universe?",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 655,
+    "text": "Maybe another time, like when pigs fly or hell freezes over, whichever comes first.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 656,
+    "text": "I'll attend in spirit. Specifically, the spirit of 'not there'.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 657,
+    "text": "Let's say I was there in our imaginations and call it a day.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 658,
+    "text": "I'm there in thought, just not in body or actual presence.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 659,
+    "text": "I'll let you know when I'm free. (Don't wait up.)",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 660,
+    "text": "I'm on a mission in a video game and real life can't compete.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 661,
+    "text": "I would, but I'm one XP away from leveling up in doing nothing.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 662,
+    "text": "My guild in World of Warcraft needs me to farm 'No' potions.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 663,
+    "text": "I'm in the middle of a high-stakes Tetris game (yes, it's very serious).",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 664,
+    "text": "I promised my online friends I'd keep the server alive by staying on.",
+    "tags": []
+  },
+  {
+    "id": 665,
+    "text": "I'm practicing my gaming skills; real life quests have to wait.",
+    "tags": []
+  },
+  {
+    "id": 666,
+    "text": "I have to defend my virtual village from pixelated invaders at that time.",
+    "tags": []
+  },
+  {
+    "id": 667,
+    "text": "My controller died, and so did my desire to go out.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 668,
+    "text": "I'm roleplaying as a recluse currently.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 669,
+    "text": "I'm busy achieving a new high score in introversion.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 670,
+    "text": "I have nothing to wear that would match the look of regret I'd have if I went.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 671,
+    "text": "All my clothes are allergic to outside activities.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 672,
+    "text": "My wardrobe and I have an agreement: it only sees the couch.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 673,
+    "text": "I would go, but I've already changed into my pajamas.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 674,
+    "text": "I can't find my motivation to get dressed up; I think I donated it.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 675,
+    "text": "The dress code for that sounds like 'effort', so I'm out.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 676,
+    "text": "I only attend events that allow pajamas as formal attire.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 677,
+    "text": "My fashion sense just texted: it said not to bother.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 678,
+    "text": "I'm stuck in my closet's Narnia and can't get out to attend.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 679,
+    "text": "Sorry, nothing in my closet screams 'let’s do this.' It all screams 'stay home'.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 680,
+    "text": "My dog ate my homework, and then demanded a sequel.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 681,
+    "text": "Does a fish need a bicycle? That's how much I need to do this.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 682,
+    "text": "Do pigs fly? Only then would I do that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 683,
+    "text": "Is the sky green? No? There's my answer.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 684,
+    "text": "Would it be wise for me to agree? That's a no from the Council of Me.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 685,
+    "text": "Is this the part where I say yes? No? Good, because I won't.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 686,
+    "text": "Do I look like someone who would do that? Correct, I don't.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 687,
+    "text": "Is it Opposite Day? Because otherwise my answer is no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 688,
+    "text": "Did I just hear myself volunteer? No, so I'll keep it that way.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 689,
+    "text": "Is this a trick question? Because I'm answering like it's one: no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 690,
+    "text": "Am I coming? I'll answer that when water isn't wet.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 691,
+    "text": "I'm going to deliver my answer in interpretive dance. *performs a NO*",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 692,
+    "text": "If I could sing, I'd sing 'I say noooo' in opera for you.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 693,
+    "text": "Imagine me dramatically yelling 'I decline!' with a cape flourish.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 694,
+    "text": "I'll write a haiku for my answer: 'No absolutely / Indubitably no / Still no, sorry'.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 695,
+    "text": "Picture a skywriter writing 'NO' above your house — that's my answer.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 696,
+    "text": "Insert an orchestra sound: dun dun dun NO.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 697,
+    "text": "I'm throwing confetti and the confetti spells 'NO'.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 698,
+    "text": "I'm holding up a scorecard that says 0, as in 0% chance.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 699,
+    "text": "Improv theater time: I play a person who says no. End scene.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 700,
+    "text": "*Cue dramatic exit with a refusal monologue*.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 701,
+    "text": "I would, but I'm Batman. (That excuse works for anything, right?)",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 702,
+    "text": "I was abducted by aliens yesterday and they gave me strict instructions to avoid that.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 703,
+    "text": "Aliens invited me to a galaxy party, and I already RSVP'd yes to them.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 704,
+    "text": "I can't come; I'm the aliens' tour guide for Earth and they're very demanding.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 705,
+    "text": "I'm learning an alien language; they don't have a word for yes and neither do I right now.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 706,
+    "text": "The aliens took my enthusiasm with them when they left.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 707,
+    "text": "I suspect I'm an alien, and we historically avoid those situations.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 708,
+    "text": "My planet needs me, so I must go (meaning I must stay at home).",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 709,
+    "text": "I'm running for President of the Procrastination Club; my campaign is very time-consuming.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 710,
+    "text": "My will to participate mysteriously vanished just as you asked.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 711,
+    "text": "I played the lottery of caring and lost.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 712,
+    "text": "I have an irrational fear of accidentally enjoying obligations, so I avoid them.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 713,
+    "text": "As the meme goes, ain't nobody got time for that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 714,
+    "text": "I'm too deep into my comfort zone to even see the exit.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 715,
+    "text": "I've reached my nope limit for the day.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 716,
+    "text": "My calendar just sent me a restraining order against new events.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 717,
+    "text": "I'm in a long-term relationship with canceling plans.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 718,
+    "text": "I'm experiencing JOMO (Joy Of Missing Out) for this event.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 719,
+    "text": "Channeling Opposite Nike: 'Just don't do it.'",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 720,
+    "text": "I'd rather regret not doing it than regret doing it.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 721,
+    "text": "Applying my version of Murphy's Law: if it can be avoided, it will be.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 722,
+    "text": "My answer is like Schrödinger's cat: it's both yes and no until you realize it's just no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 723,
+    "text": "YOLO, which is why I'm saying no – I value my one life too much.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 724,
+    "text": "My horoscope app just notified me: 'Today is a good day to say no.'",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 725,
+    "text": "If saying no were an Olympic sport, I'd have a gold medal.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 726,
+    "text": "I wear my refusal as a badge of honor.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 727,
+    "text": "I'm going to have to decline faster than a cheetah on energy drinks.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 728,
+    "text": "I would say yes, but then I'd have to wake up from my daydream, and reality is far less pleasant.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 729,
+    "text": "Fate just slid into my DMs with a big fat 'no'.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 730,
+    "text": "My brain is at full capacity with useless information, there's no room for new tasks.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 731,
+    "text": "If I help you, I'd feel proud of myself, and I can't handle that much emotion.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 732,
+    "text": "I'll give you two choices: no, or nope. You can pick.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 733,
+    "text": "Let's make it multiple choice. I choose option (D) - Not gonna happen.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 734,
+    "text": "Look on the bright side: at least I'm consistent in saying no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 735,
+    "text": "Consider this a 'no' served with a side of sarcasm.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 736,
+    "text": "I'm stuck in a black hole of procrastination and can't escape in time to do that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 737,
+    "text": "I only say yes during solar eclipses, and there's none scheduled.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 738,
+    "text": "My retro soul can't handle modern tasks like that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 739,
+    "text": "The word 'yes' gives me hives; I'm avoiding an allergic reaction.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 740,
+    "text": "I had a dream I said yes; I woke up in a cold sweat. Not doing that in reality.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 741,
+    "text": "In the time it took you to ask, I already decided no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 742,
+    "text": "I'm sorry, I can't hear you over the sound of me not doing that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 743,
+    "text": "I think our connection is bad. If you asked me to do something, the answer is static... which means no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 744,
+    "text": "I misheard you, I thought you said 'do you want a taco'. Since you didn't, I'm not interested.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 745,
+    "text": "My phone auto-corrected your request to 'no', weird right?",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 746,
+    "text": "I got your message, but unfortunately, my spam filter caught it under 'unwanted tasks'.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 747,
+    "text": "I believe you have the wrong number; the person who says yes isn't available.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 748,
+    "text": "I speak fluent sarcasm, so my interpretation of your question is a hard no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 749,
+    "text": "Let me put you on hold... *never takes off hold*",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 750,
+    "text": "I didn’t receive the memo that I was supposed to care.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 751,
+    "text": "I'm experiencing some technical difficulties in giving a darn.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 752,
+    "text": "The gods of procrastination demand I sacrifice this task by not doing it.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 753,
+    "text": "No is a complete sentence, and it's my final answer.",
+    "tags": ["professional"]
+  },
+  {
+    "id": 754,
+    "text": "I fear agreeing could somehow trigger a zombie apocalypse, so I'm playing it safe.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 755,
+    "text": "My spidey-sense is tingling, and it's telling me not to do this.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 756,
+    "text": "The fabric of my being just isn't woven for that request.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 757,
+    "text": "They say 'follow your dreams' — and my dream is to not do that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 758,
+    "text": "I'm just following the saying 'do what you love' — and I love saying no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 759,
+    "text": "Not today, Satan. Actually, not any day.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 760,
+    "text": "My procrastination is doing a fantastic job; I wouldn't want to interrupt its flow.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 761,
+    "text": "No means 'New Opportunities'... for me to stay at home.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 762,
+    "text": "I made a bet that I could say no to everything for a week. I'm about to win.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 763,
+    "text": "I'm conducting a social experiment where I say no and observe what happens.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 764,
+    "text": "One of my pet peeves is doing stuff, so I simply don't.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 765,
+    "text": "Life is short, and I choose to waste it my way, not on that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 766,
+    "text": "I've already met my quota of bad decisions for the month; saying yes would exceed it.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 767,
+    "text": "I'd love to participate, but I'm dead inside, so I just can't.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 768,
+    "text": "I have main character syndrome, and my story arc doesn't involve doing that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 769,
+    "text": "Think of me as the final boss of saying no – undefeated.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 770,
+    "text": "Time is a non-renewable resource, and I choose not to spend any on that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 771,
+    "text": "My free trial of doing things has expired, and I can't afford the subscription.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 772,
+    "text": "I'm on a strict 'no commitments' diet.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 773,
+    "text": "I'm doing intermittent fasting from responsibilities; today's a fasting day.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 774,
+    "text": "I only say yes on leap days, and today isn't one.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 775,
+    "text": "I can't risk unlocking my final form by being helpful.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 776,
+    "text": "I need to maintain my air of mystery by not showing up.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 777,
+    "text": "I can't let people find out I actually have free time.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 778,
+    "text": "I used all my willpower just getting out of bed this morning.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 779,
+    "text": "My life is a choose-your-own-adventure, and I flipped to the page where I say no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 780,
+    "text": "By the power vested in me, I'm officially saying no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 781,
+    "text": "Me, myself, and I had a meeting; we unanimously decided to decline.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 782,
+    "text": "I see your request and raise you a 'no'.",
+    "tags": ["professional", "sarcastic"]
+  },
+  {
+    "id": 783,
+    "text": "My enthusiasm is on backorder, and the delivery date keeps getting pushed.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 784,
+    "text": "I'm still recovering from the last time I said yes.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 785,
+    "text": "It's not procrastination if I never planned on doing it.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 786,
+    "text": "I didn't choose the no life; the no life chose me.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 787,
+    "text": "Effort is currently not supported by my operating system.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 788,
+    "text": "My personal assistant (who's imaginary) already declined for me.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 789,
+    "text": "I prefer to remain an out-of-office message in human form.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 790,
+    "text": "I got lost on the way to 'yes' and ended up at 'no'.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 791,
+    "text": "If I say yes, then I'd actually have to do it — let's avoid that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 792,
+    "text": "In the hero's journey of my life, I'm at the 'refusal of the call' stage.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 793,
+    "text": "I'm on a sabbatical from anything that sounds like work.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 794,
+    "text": "I made a New Year's resolution to say no more often. Starting now.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 795,
+    "text": "I performed a risk assessment and the results said 'no'.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 796,
+    "text": "I have a reputation to uphold — specifically, for saying no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 797,
+    "text": "My intuition tells me this isn't the day I start being helpful.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 798,
+    "text": "The thought of doing that gave me a phantom backache. I'll pass.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 799,
+    "text": "If I had a nickel for every time I said no, I'd have a lot of nickels.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 800,
+    "text": "I'm attending a meeting of the Anti-Social Social Club (I'm the only member).",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 801,
+    "text": "My brain's hard drive is full; there's no room for that task.",
+    "tags": []
+  },
+  {
+    "id": 802,
+    "text": "I would come, but I'm trying this new thing where I just don't.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 803,
+    "text": "I regret to inform you that I'll be vigorously not doing that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 804,
+    "text": "I'm living vicariously through others who say yes, so I don't have to.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 805,
+    "text": "Mirror, mirror on the wall, should I do it? It said, 'Not at all.'",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 806,
+    "text": "I can't say yes; it would jeopardize my standing in the Procrastinators Hall of Fame.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 807,
+    "text": "The probability of me doing that is approaching absolute zero.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 808,
+    "text": "My commitment to doing nothing would get jealous if I did something else.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 809,
+    "text": "My core competency is avoiding things, and I really need to focus on it.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 810,
+    "text": "I lack the necessary enthusiasm to even pretend to consider that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 811,
+    "text": "I'm more of an 'observe from afar' person than a 'participate' person.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 812,
+    "text": "My brain is like a parrot that only knows one word: 'no'.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 813,
+    "text": "I'm writing a book called '101 Ways to Say No' – thanks for the material.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 814,
+    "text": "I'm a terrible liar, so I won't pretend I want to do that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 815,
+    "text": "'No.' I'm giving that answer five stars.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 816,
+    "text": "'No' — from me, with love.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 817,
+    "text": "May the 'no' be with you.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 818,
+    "text": "Saying no is my superpower, and I'm using it to save my free time.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 819,
+    "text": "I felt burnout just hearing about it, so I'm preemptively declining.",
+    "tags": ["professional"]
+  },
+  {
+    "id": 820,
+    "text": "I'm following the principle of least effort, which means I have to decline.",
+    "tags": ["professional", "sarcastic"]
+  },
+  {
+    "id": 821,
+    "text": "My life is like a sitcom about avoiding responsibility, and I can't break character.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 822,
+    "text": "I checked my availability and the results came back negative.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 823,
+    "text": "I'm going to pretend I didn't hear that request and carry on not doing it.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 824,
+    "text": "No can do — said in the nicest possible way.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 825,
+    "text": "I'm taking a mental health year (starting now), so I have to decline.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 826,
+    "text": "I decline to answer on the grounds that it may lead to doing actual work.",
+    "tags": ["professional", "sarcastic"]
+  },
+  {
+    "id": 827,
+    "text": "Let's be honest: we both know I'm not going to do it.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 828,
+    "text": "I'm going to have to nope out for personal reasons (personal reason: I just don't want to).",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 829,
+    "text": "Not to brag, but I'm really good at not doing things.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 830,
+    "text": "Picture a Venn diagram of my schedule and your request — they don't overlap.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 831,
+    "text": "I have too many tabs open in my brain, and none of them is about that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 832,
+    "text": "I'm booked solid with introspection (which is code for doing nothing).",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 833,
+    "text": "I have a to-don't list, and this is right at the top.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 834,
+    "text": "I'm overbooked with underachieving.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 835,
+    "text": "This request is above my emotional pay grade.",
+    "tags": ["professional"]
+  },
+  {
+    "id": 836,
+    "text": "My enthusiasm filed for bankruptcy, so I can't invest in that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 837,
+    "text": "My calendar is full of blank spaces reserved for me-time.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 838,
+    "text": "I'm not ignoring you — I'm giving you a firm no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 839,
+    "text": "If I take on one more thing, I'll officially become a cautionary tale.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 840,
+    "text": "Think of my refusal as a free lesson in handling rejection.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 841,
+    "text": "I admire your persistence in asking, but it's still a no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 842,
+    "text": "I'm already living in the fast lane of doing nothing, so I can't slow down for that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 843,
+    "text": "I can't make it; I'm extremely busy not being busy.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 844,
+    "text": "If I help you, I'll feel obligated to help others, and that's a slippery slope I'm avoiding.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 845,
+    "text": "The universe told me to 'treat myself', which I'm taking as a sign to stay home.",
+    "tags": ["sarcastic", "absurd"]
+  },
+  {
+    "id": 846,
+    "text": "No one has ever accused me of being too helpful, and I don't plan to start now.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 847,
+    "text": "I have a fear of change, so I'm sticking with saying no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 848,
+    "text": "My life is like a Jenga tower; one more thing might make it collapse.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 849,
+    "text": "I don't have the bandwidth (or any other width) for that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 850,
+    "text": "Life is short, and my nap list is long.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 851,
+    "text": "Frankly, my dear, I don't give a darn (about doing it).",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 852,
+    "text": "I tried seeing it from your perspective, but I still have to say no.",
+    "tags": []
+  },
+  {
+    "id": 853,
+    "text": "The timing isn't right — mainly because I just don't want to do it.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 854,
+    "text": "I'm in social stealth mode, so I must decline any invitations.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 855,
+    "text": "I have a chronic condition called 'idontwanna'.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 856,
+    "text": "I'm choosing couch enlightenment over worldly endeavors like that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 857,
+    "text": "I'm off-duty indefinitely.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 858,
+    "text": "I'm in the middle of a very delicate 'doing nothing' ritual.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 859,
+    "text": "How about I promise to think about it? (I won't, but it sounds polite.)",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 860,
+    "text": "I have a prior engagement: a staring contest with my wall.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 861,
+    "text": "I'll be busy exploring the great indoors.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 862,
+    "text": "The couch has accepted me as one of its own, and I can't betray its trust.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 863,
+    "text": "'No' is the new 'yes' — I'm just staying on trend.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 864,
+    "text": "I'm the hero my couch deserves, so I must stay with it.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 865,
+    "text": "The odds of me doing that are about the same as winning the lottery without buying a ticket.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 866,
+    "text": "That isn't on my bucket list; in fact, it's on my chuck-it list.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 867,
+    "text": "Please excuse me, my brain is currently out of order.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 868,
+    "text": "If there were an award for avoiding participation, I'd be the frontrunner.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 869,
+    "text": "I'm declining out of an abundance of apathy.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 870,
+    "text": "My destiny lies elsewhere — specifically, on my couch.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 871,
+    "text": "One does not simply get me to say yes.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 872,
+    "text": "It's a no from me, dawg.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 873,
+    "text": "If I say yes, I'd have to stop complaining about being busy, and I can't have that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 874,
+    "text": "My energy is solar-powered, and it's nighttime.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 875,
+    "text": "I'll take one for the team by not joining this effort.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 876,
+    "text": "I put the 'pro' in procrastinate, and I won't ruin my streak.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 877,
+    "text": "Even my shadow decided to stay home, so I will too.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 878,
+    "text": "Luckily, I have procrastination insurance. It covers me for situations like this.",
+    "tags": ["absurd", "sarcastic"]
+  },
+  {
+    "id": 879,
+    "text": "I'm not my circus, and those are not my monkeys — so it's not my act to perform.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 880,
+    "text": "I don't have enough mana for that quest.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 881,
+    "text": "The spirit is willing, but the flesh has already ordered takeout and settled in.",
+    "tags": []
+  },
+  {
+    "id": 882,
+    "text": "My will to do that is in the shop for repairs.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 883,
+    "text": "I could list 1000 reasons why I'm saying no, but I'll spare you.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 884,
+    "text": "I decline now, to avoid declining later.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 885,
+    "text": "I'm choosing myself over this commitment — so, no.",
+    "tags": ["professional"]
+  },
+  {
+    "id": 886,
+    "text": "I'll spare you a half-hearted yes and give you an honest no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 887,
+    "text": "If my life were a movie, this is the part I say no and roll credits.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 888,
+    "text": "I'm closing the door on that idea (literally and figuratively).",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 889,
+    "text": "My intuition screamed 'no' so loudly, I had to answer accordingly.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 890,
+    "text": "'No' is my happy place.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 891,
+    "text": "The answer you seek is not available at this time (try again never).",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 892,
+    "text": "To quote a famous response: 'No.'",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 893,
+    "text": "I'm exercising my right to say no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 894,
+    "text": "Think of this as a strategic veto.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 895,
+    "text": "I've never been so sure of anything as I am of saying no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 896,
+    "text": "I woke up today and decided it's a 'no' day.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 897,
+    "text": "Today, I only speak in negatives.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 898,
+    "text": "I'm on a mission to maintain zero commitments.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 899,
+    "text": "Even my FitBit is telling me to stay put.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 900,
+    "text": "I'm choosing Netflix over stress, sorry.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 901,
+    "text": "No, in the most heartfelt, humorous way possible.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 902,
+    "text": "My calendar is on strike.",
+    "tags": ["absurd"]
+  },
+  {
+    "id": 903,
+    "text": "I choose me, so I'm saying no to you.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 904,
+    "text": "I'm doing everyone a favor by sticking to what I'm good at: saying no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 905,
+    "text": "No is part of my self-care routine.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 906,
+    "text": "This is a guilt-free no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 907,
+    "text": "If I helped, I'd be robbing you of the chance to do it yourself.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 908,
+    "text": "My schedule is in airplane mode.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 909,
+    "text": "I'm at peace with saying no.",
+    "tags": []
+  },
+  {
+    "id": 910,
+    "text": "Negative. Full stop.",
+    "tags": []
+  },
+  {
+    "id": 911,
+    "text": "I must protect my sanity at all costs — so no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 912,
+    "text": "I didn't come this far to only come this far. In fact, I'm not coming at all.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 913,
+    "text": "It's a 'no' from the committee of me, myself, and I.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 914,
+    "text": "I must decline; I've reached my threshold for giving a darn.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 915,
+    "text": "Even if I wanted to, I couldn't. And I don't want to.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 916,
+    "text": "I'm going to seize the opportunity to do nothing instead.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 917,
+    "text": "My will to participate has left the building.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 918,
+    "text": "Your request has been denied due to a lack of interest on my part.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 919,
+    "text": "Let's just assume I said no and move on.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 920,
+    "text": "I'm currently out of order. Please try again never.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 921,
+    "text": "Alas, I must decline.",
+    "tags": ["professional", "kind"]
+  },
+  {
+    "id": 922,
+    "text": "Declining this request sparks joy in me.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 923,
+    "text": "I could maybe be convinced, but I'd likely still say no in the end.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 924,
+    "text": "I have a philosophical objection to doing that.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 925,
+    "text": "If I were any more indifferent, I'd be a statue.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 926,
+    "text": "I need to prioritize my priorities, which currently are sleeping and snacking.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 927,
+    "text": "My schedule has a built-in 'nope' feature.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 928,
+    "text": "Saying yes would break the laws of physics in my personal universe.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 929,
+    "text": "At this point, saying yes would just feel wrong.",
+    "tags": []
+  },
+  {
+    "id": 930,
+    "text": "I promised myself I'd stick to being unhelpful this week.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 931,
+    "text": "My laziness is in full bloom, and I cannot uproot it for this.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 932,
+    "text": "I'm allergic to obligations and break out in excuses.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 933,
+    "text": "I'll sit this one out and let karma reward my honesty.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 934,
+    "text": "No can do — said in the nicest way possible (still no).",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 935,
+    "text": "Think of my 'no' as an act of self-care.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 936,
+    "text": "I'm exercising my freedom of choice, and I choose no.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 937,
+    "text": "I'm hard at work doing nothing at all.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 938,
+    "text": "I would help, but that would contradict my life's mission statement.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 939,
+    "text": "No, but I appreciate your optimism.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 940,
+    "text": "I have a black belt in avoidance, and I'd hate to waste it (so, no).",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 941,
+    "text": "I'm in the No Witness Protection Program (I say no and then hide).",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 942,
+    "text": "I have to stay home and make sure gravity continues to work. (Someone has to.)",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 943,
+    "text": "If I go, who will hold down the fort? (The fort being my couch).",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 944,
+    "text": "I'm in the middle of a life audit, and unnecessary commitments didn't make the cut.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 945,
+    "text": "Declining this is actually part of my five-year plan.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 946,
+    "text": "I'm not ignoring you — I'm giving you a very clear 'no'.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 947,
+    "text": "Not my circus, not my monkeys — so definitely not my act to perform.",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 948,
+    "text": "I woke up today and thought, 'let's not.'",
+    "tags": ["sarcastic"]
+  },
+  {
+    "id": 949,
+    "text": "Pretend I gave you a clever excuse and just take the 'no' as implied.",
+    "tags": ["sarcastic"]
+  }
+]

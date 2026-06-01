@@ -87,7 +87,10 @@ PORT=5000 npm start
 ```
 no-as-service/
 ├── index.js            # Express API
-├── reasons.json        # 1000+ universal rejection reasons
+├── data/
+│   ├── reasons.json            # Main default reasons
+│   ├── reasons-classified.json # Categorized reasons
+│   └── reasons-raw.json        # Source/raw reasons
 ├── package.json
 ├── .devcontainer.json  # VS Code / Github devcontainer setup
 └── README.md
