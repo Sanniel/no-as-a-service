@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "text": "In een andere fase van mijn leven had ik misschien ja gezegd, maar nu niet.",
+    "tags": ["Professioneel", "Vriendelijk"]
+  },
+  {
+    "id": 2,
+    "text": "Ik waardeer het, maar dit is niet iets waar ik me aan kan verbinden.",
+    "tags": ["Professioneel", "Vriendelijk"]
+  },
+  {
+    "id": 3,
+    "text": "Elke keer als ik eraan denk, hoor ik ergens een zacht 'nee' waaien.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 4,
+    "text": "Mijn toekomstige zelf liet een briefje achter: 'Doe dit alsjeblieft niet nog eens.'",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 5,
+    "text": "Het klinkt interessant, maar ik ben waarschijnlijk niet de juiste persoon hiervoor.",
+    "tags": ["Professioneel", "Vriendelijk"]
+  },
+  {
+    "id": 6,
+    "text": "Dank dat je aan me dacht, maar dit voelt op dit moment niet goed voor mij.",
+    "tags": ["Professioneel", "Vriendelijk"]
+  },
+  {
+    "id": 7,
+    "text": "Ik zou graag ja zeggen, maar ik heb mezelf net beloofd deze week minder twijfelachtige beslissingen te nemen.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 8,
+    "text": "Ik waardeer het aanbod, maar ik kan me hier niet aan verbinden.",
+    "tags": ["Professioneel", "Vriendelijk"]
+  },
+  {
+    "id": 9,
+    "text": "Ik probeer bewuster te kiezen waar ik ja tegen zeg, en dit past daar niet echt bij.",
+    "tags": ["Professioneel", "Vriendelijk"]
+  },
+  {
+    "id": 10,
+    "text": "Ik wil eerlijk zijn. Ik voel me er niet prettig bij om me hieraan vast te leggen.",
+    "tags": ["Professioneel", "Vriendelijk"]
+  },
+  {
+    "id": 11,
+    "text": "Ik moet op mijn gevoel vertrouwen, en dat stelt vriendelijk een nee voor.",
+    "tags": []
+  },
+  {
+    "id": 12,
+    "text": "Door hier nee tegen te zeggen, kan ik ja zeggen tegen iets dat belangrijker voor me is.",
+    "tags": ["Professioneel"]
+  },
+  {
+    "id": 13,
+    "text": "Als ik ja zou zeggen, zou ik tegen ons allebei liegen, en mijn therapeut heeft me gevraagd daarmee te stoppen.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 14,
+    "text": "Ik sla respectvol af. Dit past niet bij de richting die ik op ga.",
+    "tags": ["Professioneel"]
+  },
+  {
+    "id": 15,
+    "text": "Deze kans verdient meer dan wat ik er op dit moment aan kan geven.",
+    "tags": ["Professioneel", "Vriendelijk"]
+  },
+  {
+    "id": 16,
+    "text": "Ik haat het idee niet, maar ik wil het ook niet doen.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 17,
+    "text": "Ik zit momenteel niet in een positie om me hieraan te verbinden.",
+    "tags": ["Professioneel", "Vriendelijk"]
+  },
+  {
+    "id": 18,
+    "text": "Ik heb vrede gesloten met nee zeggen tegen dingen die me geen energie geven.",
+    "tags": ["Professioneel"]
+  },
+  {
+    "id": 19,
+    "text": "Zelfs mijn agenda moest lachen toen ik probeerde dit erin te proppen.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 20,
+    "text": "Ik heb besloten voorlopig geen nieuwe verplichtingen aan te gaan.",
+    "tags": ["Professioneel", "Vriendelijk"]
+  },
+  {
+    "id": 21,
+    "text": "Dit voelt als iets waarvoor mijn toekomstige zelf me later een preek zou geven.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 22,
+    "text": "Ik heb eerder geprobeerd te veel tegelijk te doen, en dit voelt verdacht bekend.",
+    "tags": ["Professioneel"]
+  },
+  {
+    "id": 23,
+    "text": "Je hebt hier veel energie in gestoken, en ik hoop dat je begrijpt waarom ik een stap terug doe.",
+    "tags": ["Professioneel", "Vriendelijk"]
+  },
+  {
+    "id": 24,
+    "text": "Geweldig idee. Voor iemand anders.",
+    "tags": ["Sarcastisch", "Gevat"]
+  },
+  {
+    "id": 25,
+    "text": "De versie van mij die hier ja op zou zeggen bestaat niet meer.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 26,
+    "text": "Zelfs mijn koffie zei vanochtend: 'Niet vandaag.'",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 27,
+    "text": "Mijn innerlijke vredescommissie heeft dit idee unaniem afgewezen.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 28,
+    "text": "Ik weet hoeveel dit voor je betekent, maar ik kan het niet de aandacht geven die het verdient.",
+    "tags": ["Professioneel", "Vriendelijk"]
+  },
+  {
+    "id": 29,
+    "text": "Ik stelde me voor dat ik dit deed en viel halverwege de gedachte al in slaap.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 30,
+    "text": "Mentaal heb ik de ruimte waar dit zou plaatsvinden al verlaten.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 31,
+    "text": "Dit past niet bij mijn waarden of mijn huidige focus.",
+    "tags": ["Professioneel"]
+  },
+  {
+    "id": 32,
+    "text": "Deze beslissing gaat niet over jou, maar over mijn eigen grenzen.",
+    "tags": ["Professioneel", "Vriendelijk"]
+  },
+  {
+    "id": 33,
+    "text": "Ik waardeer de kans, maar ik ken mijn grenzen en dit zou daar ver overheen gaan.",
+    "tags": ["Professioneel", "Vriendelijk"]
+  },
+  {
+    "id": 34,
+    "text": "Als ik dit zou aannemen, zou ik de tijd verraden die ik mezelf heb beloofd.",
+    "tags": ["Professioneel"]
+  },
+  {
+    "id": 35,
+    "text": "Ik nam ooit een soortgelijke beslissing en mijn kat heeft me sindsdien niet meer aangekeken. Laten we dat niet herhalen.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 36,
+    "text": "Als ik hiermee akkoord ga, moet ik mezelf klonen. En ik vertrouw die persoon niet.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 37,
+    "text": "Dit voelt niet helemaal goed, dus ik moet vriendelijk bedanken.",
+    "tags": ["Professioneel", "Vriendelijk"]
+  },
+  {
+    "id": 38,
+    "text": "Ik zeg liever eerlijk nee dan verbitterd ja.",
+    "tags": ["Professioneel", "Vriendelijk"]
+  },
+  {
+    "id": 39,
+    "text": "Dank dat je aan me dacht, maar ik sla deze keer over.",
+    "tags": ["Professioneel", "Vriendelijk"]
+  },
+  {
+    "id": 40,
+    "text": "Ik heb erover nagedacht en besloten dat het beter is om nu af te zeggen.",
+    "tags": ["Professioneel", "Vriendelijk"]
+  },
+  {
+    "id": 41,
+    "text": "Onze relatie betekent veel voor me, en ik hoop dat mijn nee daar niets aan verandert.",
+    "tags": ["Professioneel", "Vriendelijk"]
+  },
+  {
+    "id": 42,
+    "text": "Dit is geen nee voor altijd, maar wel een nee voor nu.",
+    "tags": ["Professioneel"]
+  },
+  {
+    "id": 43,
+    "text": "Het enthousiasme is echt, maar mijn beschikbaarheid is pure fictie.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 44,
+    "text": "Ik heb momenteel niet de ruimte om dit de aandacht te geven die het verdient.",
+    "tags": ["Professioneel"]
+  },
+  {
+    "id": 45,
+    "text": "Ik heb geleerd mijn tijd te beschermen, en dit past niet bij hoe ik die wil besteden.",
+    "tags": ["Professioneel"]
+  },
+  {
+    "id": 46,
+    "text": "Dit staat momenteel niet hoog genoeg op mijn prioriteitenlijst.",
+    "tags": ["Professioneel", "Vriendelijk"]
+  },
+  {
+    "id": 47,
+    "text": "Als ik hier ja op zou zeggen, zou het universum van verbazing kunnen instorten.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 48,
+    "text": "Als ik hiermee akkoord ga, loop ik het risico de ruimtetijd te beschadigen.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 49,
+    "text": "Dit zou zomaar een tijdparadox kunnen veroorzaken. Dat risico neem ik liever niet.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 50,
+    "text": "Ik kan niet. Ik ben druk bezig een toekomst te voorkomen waarin ik hier daadwerkelijk ja op zeg.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 51,
+    "text": "Mijn agenda staat momenteel perfect uitgelijnd met Jupiter, en de sterren zeggen nee.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 52,
+    "text": "Ik ben er vrij zeker van dat ja zeggen in dit sterrenstelsel verboden is.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 53,
+    "text": "Het multiversum zou het me nooit vergeven als ik hiermee akkoord ging.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 54,
+    "text": "Alle tijdlijnen waarin ik ja zeg eindigen in chaos, dus ik kies verstandig.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 55,
+    "text": "Hiermee akkoord gaan zou zijn als delen door nul. Gevaarlijk en sterk af te raden.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 56,
+    "text": "Als ik hier ja op zeg, veroorzaakt dat een bug in de Matrix.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 57,
+    "text": "Ik zit de komende tien jaar volgeboekt met doen alsof ik productief ben.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 58,
+    "text": "Ik zou helpen, maar ik ben momenteel druk bezig plafondtegels te tellen.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 59,
+    "text": "Helaas ben ik mijn sokkenla aan het sorteren op kleur en gemoedstoestand.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 60,
+    "text": "Ik heb een afspraak met mijn bank, en die accepteert geen afzeggingen.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 61,
+    "text": "Mijn agenda herinnert me er precies dan aan om naar het niets te staren.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 62,
+    "text": "Mijn planning zit vol. Ik ben mijn snacks alfabetisch aan het ordenen.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 63,
+    "text": "Ik moet dringend een veeleisend project afronden dat 'helemaal niets doen' heet.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 64,
+    "text": "Ik heb al plannen om verf te zien drogen.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 65,
+    "text": "Ik train momenteel voor de wereldkampioenschappen uitstellen.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 66,
+    "text": "Ik kan niet. Ik moet aanwezig zijn bij de feestelijke opening van mijn koelkast.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 67,
+    "text": "Ik zou helpen, maar mijn denkbeeldige vriend heeft me harder nodig.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 68,
+    "text": "Ik kan niet. Mijn huisdiersteen gaat door een emotionele crisis.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 69,
+    "text": "Mijn goudvis trouwt die dag, dus ik moet erbij zijn.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 70,
+    "text": "Ik heb mijn denkbeeldige kat beloofd vanavond thuis te blijven.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 71,
+    "text": "Mijn beschermende eenhoorn vindt dit geen goed idee.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 72,
+    "text": "Ik moet oppassen op de denkbeeldige kinderen van mijn denkbeeldige vriend.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 73,
+    "text": "Helaas heb ik me opgegeven als smaaktester voor het nieuwe dieet van mijn huisdier.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 74,
+    "text": "Mijn huisdierdraak heeft een afspraak bij de dierenarts die ik onmogelijk kan missen.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 75,
+    "text": "Mijn papegaai heeft me huisarrest gegeven wegens slecht gedrag, dus ik kan niet komen.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 76,
+    "text": "Ik heb mijn tijdmachine uitgeleend aan een vriend, dus ik kan niet terugreizen om mijn middag vrij te maken.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 77,
+    "text": "Ik heb plechtig gezworen elke vorm van productiviteit te vermijden.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 78,
+    "text": "Het druist in tegen mijn persoonlijke geloof om vandaag iets nuttigs te doen.",
+    "tags": ["Sarcastisch", "Gevat"]
+  },
+  {
+    "id": 79,
+    "text": "Mijn therapeut heeft me aangeraden activiteiten te vermijden die per ongeluk leuk zouden kunnen zijn.",
+    "tags": ["Sarcastisch", "Gevat"]
+  },
+  {
+    "id": 80,
+    "text": "Ik heb een eed afgelegd om willekeurig elk verzoek af te wijzen.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 81,
+    "text": "Ik functioneer momenteel uitsluitend op koffie en ontkenning, en de koffie is op.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 82,
+    "text": "Ik ben allergisch voor elke vorm van verantwoordelijkheid.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 83,
+    "text": "Ik heb een doktersverklaring die me uitdrukkelijk verbiedt om te helpen.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 84,
+    "text": "Ik zou graag helpen, maar ik probeer net mijn reeks behulpzaamheid te doorbreken.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 85,
+    "text": "Mijn uitstelcoach zegt dat ik nog niet klaar ben voor echte taken.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 86,
+    "text": "Ik heb voor de duur van de vastentijd afgezien van ja zeggen, en die is nog niet voorbij.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 87,
+    "text": "Ik heb een persoonlijke regel dat ik nee zeg op alle dagen die op een letter eindigen.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 88,
+    "text": "Mijn agenda-app maakte net een facepalm toen ik dit überhaupt overwoog.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 89,
+    "text": "Ik moet eerst mijn status aanpassen naar 'druk bezig met precies dit niet doen'.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 90,
+    "text": "Alle signalen wijzen momenteel overtuigend richting nee.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 91,
+    "text": "Ik kan niet. Ik heb Netflix beloofd thuis te blijven.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 92,
+    "text": "Mijn motivatie-wifi heeft de verbinding verloren.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 93,
+    "text": "Ik wacht tot mijn telefoon volledig is opgeladen. Tot die tijd kan ik onmogelijk iets doen.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 94,
+    "text": "In mijn bio staat 'zegt vaak nee', dus ik moet mijn merk trouw blijven.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 95,
+    "text": "Ik ben momenteel druk bezig motivatie te googelen. Tot nu toe zonder resultaat.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 96,
+    "text": "Ik ben verdwaald geraakt in een internetkonijnenhol en vind de uitgang niet meer.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 97,
+    "text": "Ik kan niet komen. Ik heb een Zoom-vergadering met mijn bank.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 98,
+    "text": "Ik zou graag willen, maar ik geef er de voorkeur aan om dat niet te doen.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 99,
+    "text": "Mijn antwoord is een versgebakken nee, speciaal voor jou bereid.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 100,
+    "text": "Ik heb er zorgvuldig over nagedacht en ben uitgekomen op een vastberaden nee.",
+    "tags": []
+  },
+  {
+    "id": 101,
+    "text": "Zelfs niet voor gratis donuts.",
+    "tags": []
+  },
+  {
+    "id": 102,
+    "text": "Dit is het moment waarop ik nee zeg en we allebei verdergaan met ons leven.",
+    "tags": []
+  },
+  {
+    "id": 103,
+    "text": "Even in mijn agenda kijken... interessant, daar staat een permanent nee.",
+    "tags": ["Sarcastisch", "Gevat"]
+  },
+  {
+    "id": 104,
+    "text": "Ik voel me vereerd dat je het vraagt, maar ik wijs het met stijl af.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 105,
+    "text": "Mijn ja-budget voor dit jaar is al op.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 106,
+    "text": "Ik ben veel te cool om hier ja op te zeggen.",
+    "tags": ["Sarcastisch"]
+  },
+  {
+    "id": 107,
+    "text": "Zoals het gezegde luidt: nee, nee en nog eens nee.",
+    "tags": ["Sarcastisch"]
+  },
+  {
+    "id": 108,
+    "text": "Je wilt eigenlijk helemaal niet dat ik hier ja op zeg. Geloof me, dit is beter voor iedereen.",
+    "tags": ["Sarcastisch", "Gevat"]
+  },
+  {
+    "id": 109,
+    "text": "De laatste keer dat ik ja zei, regende het veertig dagen achter elkaar. Dat risico neem ik niet nog eens.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 110,
+    "text": "Ik heb mijn toekomstige zelf beloofd om hier precies nee tegen te zeggen.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 111,
+    "text": "Als ik hiermee akkoord ging, zou ik het later aan mijn therapeut moeten uitleggen.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 112,
+    "text": "Mijn eerdere ervaringen met ja zeggen waren ronduit traumatisch.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 113,
+    "text": "Ja zeggen staat momenteel op mijn lijstje met dingen waar ik vanaf probeer te komen.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 114,
+    "text": "Ik zou kunnen instemmen, maar dan zou ik moeten toegeven dat ik ongelijk had over alles haten.",
+    "tags": ["Sarcastisch", "Gevat"]
+  },
+  {
+    "id": 115,
+    "text": "Het universum gaf me een duidelijk teken om nee te zeggen. Het was een neonbord.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 116,
+    "text": "Ik heb ooit ja gezegd. Dat liep niet goed af. Er waren lama's bij betrokken.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 117,
+    "text": "Mijn intuïtie en ik hebben gestemd. De uitslag was unaniem: nee.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 118,
+    "text": "Klinkt als een geweldige kans... voor iemand anders.",
+    "tags": ["Sarcastisch", "Gevat"]
+  },
+  {
+    "id": 119,
+    "text": "Wat een fantastisch idee! Jammer dat ik niet mee kan doen. Of eigenlijk ook weer niet.",
+    "tags": ["Sarcastisch"]
+  },
+  {
+    "id": 120,
+    "text": "Ik ben echt jaloers op de mensen die hier ja op gaan zeggen.",
+    "tags": ["Sarcastisch"]
+  },
+  {
+    "id": 121,
+    "text": "Ik vind het een mooi idee, maar deze keer sla ik over.",
+    "tags": ["Professioneel", "Vriendelijk"]
+  },
+  {
+    "id": 122,
+    "text": "Briljant plan! Helaas leef ik momenteel in het getuigenbeschermingsprogramma voor goede ideeën.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 123,
+    "text": "Dit zou een droom die uitkomt zijn. Jammer genoeg ben ik wakker en zeg ik nee.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 124,
+    "text": "Je hebt er zo'n mooi plaatje van geschetst dat ik het liever van een afstand bewonder.",
+    "tags": ["Vriendelijk", "Gevat"]
+  },
+  {
+    "id": 125,
+    "text": "Wat een gul aanbod! Ik wijs het even gul af.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 126,
+    "text": "Ik weet zeker dat dit een groot succes wordt, maar ik bewonder het liever vanaf de zijlijn.",
+    "tags": ["Vriendelijk", "Gevat"]
+  },
+  {
+    "id": 127,
+    "text": "Klinkt spannend! Ik ben al moe geworden van alleen de gedachte.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 128,
+    "text": "Ik heb mijn pyjama al aan, dus het antwoord is nee.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 129,
+    "text": "Mijn bank heeft een reisverbod ingesteld, en ik respecteer de regels.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 130,
+    "text": "Ik krijg mezelf niet eens uit mijn comfortabele dekentje-burrito.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 131,
+    "text": "Ik spaar mijn energie voor een episch dutje.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 132,
+    "text": "Ik ben te lui om een goed excuus te verzinnen, dus gewoon nee.",
+    "tags": ["Sarcastisch"]
+  },
+  {
+    "id": 133,
+    "text": "Deze plek verlaten vereist een opzegtermijn van 24 uur.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 134,
+    "text": "Vandaag ben ik energie aan het besparen zonder specifieke reden.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 135,
+    "text": "Ik zou kunnen, maar dat klinkt als moeite, en daar ben ik allergisch voor.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 136,
+    "text": "Ik ondervind momenteel technische problemen bij het opstaan en vertrekken.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 137,
+    "text": "Ik train voor een marathon waarbij geen enkele spier wordt gebruikt.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 138,
+    "text": "Ik moet ergens dit decennium nog mijn haar wassen.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 139,
+    "text": "Ik moet een ijsberg ontdooien die zich in mijn vriezer heeft gevormd.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 140,
+    "text": "Helaas moet ik die avond mijn ondergoed strijken.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 141,
+    "text": "Ik moet mijn tuin met plastic bloemen onderhouden.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 142,
+    "text": "Mijn vis moet uitgelaten worden, en dat gaat voor alles.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 143,
+    "text": "Helaas moet ik de wieltjes van mijn bureaustoel vervangen.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 144,
+    "text": "Ik ben momenteel een marathon aan het kijken waarin ik alleen in gedachten huishoudelijke taken uitvoer.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 145,
+    "text": "De afwas heeft gedreigd in opstand te komen als ik haar nog één keer negeer.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 146,
+    "text": "Mijn koelkast en ik hebben relatietherapie op dat moment.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 147,
+    "text": "Ik moet helaas afzeggen omdat ik mijn sokkenverzameling opnieuw aan het organiseren ben.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 148,
+    "text": "In een alternatief universum heb ik dit al gedaan. Alleen niet in deze.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 149,
+    "text": "Misschien denk ik er in een volgend leven over na, maar deze versie van mij zegt nee.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 150,
+    "text": "In een parallel universum ben ik hier al mee bezig. Jammer genoeg zitten we in dit universum.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 151,
+    "text": "Ik heb mijn alternatieve zelf gevraagd. Die zei ook nee.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 152,
+    "text": "Als ik mezelf kloon, stuur ik de kloon. Tot die tijd is het antwoord nee.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 153,
+    "text": "Ik heb mijn toekomstige zelf geraadpleegd, en die rolde alleen met zijn ogen. Ik pas.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 154,
+    "text": "Ik zit vast in een tijdlus waarin ik voortdurend nee zeg.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 155,
+    "text": "In een alternatieve tijdlijn zei ik ja, en dat leidde tot een zombie-apocalyps.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 156,
+    "text": "Mijn kwaadaardige tweelingbroer zou misschien interesse hebben. Jammer genoeg heeft hij het ook druk.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 157,
+    "text": "In een parallel universum ben ik veel behulpzamer. Dit is dat universum niet.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 158,
+    "text": "Ik zou kunnen, maar dit klinkt verdacht veel als werk.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 159,
+    "text": "Mijn motivatie hiervoor ligt momenteel in coma.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 160,
+    "text": "Ik ben er vrij zeker van dat ik dit op spectaculaire wijze zou verpesten, dus laten we dat voorkomen.",
+    "tags": ["Sarcastisch"]
+  },
+  {
+    "id": 161,
+    "text": "Ik zou mee kunnen doen, maar wie houdt dan deze muur overeind?",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 162,
+    "text": "Dit verzoek ligt ver boven mijn salarisschaal van precies nul euro.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 163,
+    "text": "De wil is er, maar mijn agenda zegt nee.",
+    "tags": ["Professioneel", "Gevat"]
+  },
+  {
+    "id": 164,
+    "text": "Ik heb vandaag geen behoefte om het lot uit te dagen door iets nieuws te proberen.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 165,
+    "text": "Als ik meedoe, trek ik waarschijnlijk alleen het gemiddelde naar beneden.",
+    "tags": ["Sarcastisch", "Gevat"]
+  },
+  {
+    "id": 166,
+    "text": "Ik die dit doe? Dat zou een plotwending zijn waar niemand om gevraagd heeft.",
+    "tags": ["Sarcastisch", "Gevat"]
+  },
+  {
+    "id": 167,
+    "text": "Ik houd momenteel bewust afstand van precies dit idee.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 168,
+    "text": "Ik lijd aan een aandoening die me verhindert ja te zeggen. Ze heet gezond verstand.",
+    "tags": ["Sarcastisch", "Gevat"]
+  },
+  {
+    "id": 169,
+    "text": "Mijn dokter heeft me meer vitamine N voorgeschreven. N van nee.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 170,
+    "text": "Ik heb een acute aanval van vandaag-even-niet.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 171,
+    "text": "Mentaal ben ik al op vakantie.",
+    "tags": []
+  },
+  {
+    "id": 172,
+    "text": "Ik heb voorlopig bedrust voorgeschreven gekregen. Mijn arts heet Dr. Seuss.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 173,
+    "text": "Ik lijd aan chronische bindingsangst.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 174,
+    "text": "Ik voel een ziekte opkomen. Ze heet luiheid.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 175,
+    "text": "Ik heb al een afspraak met een kussen en een deken.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 176,
+    "text": "Mijn therapeut zei dat ik dingen moet vermijden die me ongelukkig maken. Volgens mij valt dit daaronder.",
+    "tags": ["Sarcastisch"]
+  },
+  {
+    "id": 177,
+    "text": "Ik heb momenteel een persoonlijke noodsituatie genaamd me-time.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 178,
+    "text": "Ik moet de wereld redden van verveling door thuis te blijven.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 179,
+    "text": "Ik zit midden in vredesonderhandelingen voor de wereld. In een computerspel.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 180,
+    "text": "Mijn superhelden-alter ego heeft een vrije dag nodig. En ik ook.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 181,
+    "text": "Ik ben op een geheime missie om precies datgene te vermijden waar je naar vraagt.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 182,
+    "text": "Ik zou graag komen, maar wie redt dan ondertussen de wereld?",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 183,
+    "text": "Ik ben druk bezig een wereldwijde middagdutjescampagne te organiseren.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 184,
+    "text": "Ik moet voorkomen dat mijn bank wegvliegt. Dat is belangrijk werk.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 185,
+    "text": "Het lot van de chips die ik straks ga eten ligt in mijn handen. Ik kan ze niet in de steek laten.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 186,
+    "text": "Ik ben vandaag officieel benoemd tot bewaker van de woonkamer.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 187,
+    "text": "Ik vecht thuis tegen een onzichtbare draak. Dat duurt langer dan verwacht.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 188,
+    "text": "Je wilt mij hier echt niet bij hebben. Mijn specialiteit is dingen verpesten.",
+    "tags": ["Sarcastisch", "Gevat"]
+  },
+  {
+    "id": 189,
+    "text": "Voor projecten ben ik als een zwarte kat. Het is veiliger als ik wegblijf.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 190,
+    "text": "Geloof me, ik doe je een plezier door nee te zeggen.",
+    "tags": ["Sarcastisch"]
+  },
+  {
+    "id": 191,
+    "text": "Mijn deelname wordt geleverd met een waarschuwingslabel. Ik bespaar je dat liever.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 192,
+    "text": "Ik zou graag meedoen, maar eigenlijk ben ik gespecialiseerd in creatieve afwijzingen.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 193,
+    "text": "Ik ben hier eigenlijk behoorlijk slecht in. Tenzij je een voorbeeld zoekt van hoe het niet moet.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 194,
+    "text": "Je verdient iemand die ja zegt zonder eerst drie excuses te verzinnen.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 195,
+    "text": "Mijn staat van dienst suggereert dat ik dit beter kan overslaan.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 196,
+    "text": "Ik ben de verkeerde persoon voor deze taak, maar precies de juiste persoon om nee te zeggen.",
+    "tags": ["Gevat"]
+  },
+  {
+    "id": 197,
+    "text": "Als je iemand nodig hebt om alles te saboteren, ben ik perfect. Anders sla ik over.",
+    "tags": ["Sarcastisch", "Gevat"]
+  },
+  {
+    "id": 198,
+    "text": "Mijn gelukskoekje zei gisteravond letterlijk 'nee'.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 199,
+    "text": "De voorspelling zei dat ik precies dit zou afwijzen.",
+    "tags": ["Absurd", "Gevat"]
+  },
+  {
+    "id": 200,
+    "text": "Al mijn tarotkaarten slaakten collectief een zucht toen dit ter sprake kwam.",
+    "tags": ["Absurd", "Gevat"]
+  }
+]

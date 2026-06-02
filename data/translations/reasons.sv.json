@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "text": "I en annan period i livet hade jag kanske sagt ja, men inte just nu.",
+    "tags": ["professionell", "vänlig"]
+  },
+  {
+    "id": 2,
+    "text": "Jag uppskattar det, men det här är inget jag kan åta mig.",
+    "tags": ["professionell", "vänlig"]
+  },
+  {
+    "id": 3,
+    "text": "Varje gång jag tänker på det hör jag ett litet ”nä” i vinden.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 4,
+    "text": "Mitt framtida jag lämnade en lapp: ”Snälla, gör inte om det här.”",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 5,
+    "text": "Det låter intressant, men jag är nog inte rätt person för det här.",
+    "tags": ["professionell", "vänlig"]
+  },
+  {
+    "id": 6,
+    "text": "Tack för att du tänkte på mig, men det här känns inte rätt för mig just nu.",
+    "tags": ["professionell", "vänlig"]
+  },
+  {
+    "id": 7,
+    "text": "Jag skulle gärna säga ja, men jag har precis lovat mig själv att göra färre tveksamma saker den här veckan.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 8,
+    "text": "Jag uppskattar det, men att ställa upp på det här är inget jag kan åta mig.",
+    "tags": ["professionell", "vänlig"]
+  },
+  {
+    "id": 9,
+    "text": "Jag försöker vara mer medveten om vad jag säger ja till, och det här passar inte riktigt in.",
+    "tags": ["professionell", "vänlig"]
+  },
+  {
+    "id": 10,
+    "text": "Jag vill vara ärlig mot dig. Jag känner mig inte bekväm med att binda upp mig till det här.",
+    "tags": ["professionell", "vänlig"]
+  },
+  {
+    "id": 11,
+    "text": "Jag måste lita på magkänslan, och den föreslår försiktigt ett nej.",
+    "tags": []
+  },
+  {
+    "id": 12,
+    "text": "Att säga nej till det här hjälper mig att säga ja till något som betyder mer för mig.",
+    "tags": ["professionell"]
+  },
+  {
+    "id": 13,
+    "text": "Om jag sa ja skulle jag ljuga för oss båda, och min terapeut har bett mig sluta med det.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 14,
+    "text": "Jag kommer att tacka nej med respekt. Det stämmer inte överens med vart jag är på väg.",
+    "tags": ["professionell"]
+  },
+  {
+    "id": 15,
+    "text": "Den här möjligheten förtjänar mer än vad jag kan ge just nu.",
+    "tags": ["professionell", "vänlig"]
+  },
+  {
+    "id": 16,
+    "text": "Jag hatar inte idén, men jag vill heller inte göra det.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 17,
+    "text": "Jag är inte i en position där jag kan åta mig det här just nu.",
+    "tags": ["professionell", "vänlig"]
+  },
+  {
+    "id": 18,
+    "text": "Jag har gjort fred med att tacka nej till sådant som inte ger mig energi.",
+    "tags": ["professionell"]
+  },
+  {
+    "id": 19,
+    "text": "Till och med min kalender skrattade när jag försökte klämma in det här.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 20,
+    "text": "Jag har bestämt mig för att avstå från nya åtaganden tills vidare.",
+    "tags": ["professionell", "vänlig"]
+  },
+  {
+    "id": 21,
+    "text": "Det här känns som något mitt framtida jag skulle skälla ut mitt nuvarande jag för att ha gått med på.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 22,
+    "text": "Jag har försökt göra för mycket förr, och det här känns som déjà vu.",
+    "tags": ["professionell"]
+  },
+  {
+    "id": 23,
+    "text": "Du har lagt mycket energi på det här, och jag hoppas att du förstår mitt beslut att kliva åt sidan.",
+    "tags": ["professionell", "vänlig"]
+  },
+  {
+    "id": 24,
+    "text": "Det här är en jättebra idé. För någon annan att ta sig an.",
+    "tags": ["sarkastisk", "fyndig"]
+  },
+  {
+    "id": 25,
+    "text": "Versionen av mig som skulle säga ja till det här finns inte längre.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 26,
+    "text": "Till och med mitt kaffe sa: ”Inte idag.”",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 27,
+    "text": "Min inre fredskommitté röstade enhälligt ner den här idén.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 28,
+    "text": "Jag vet hur mycket det här betyder, men jag kan inte ge det den uppmärksamhet det förtjänar.",
+    "tags": ["professionell", "vänlig"]
+  },
+  {
+    "id": 29,
+    "text": "Jag såg framför mig hur jag gjorde det här, och somnade omedelbart mitt i visionen.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 30,
+    "text": "Mentalt har jag redan lämnat rummet där det här skulle äga rum.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 31,
+    "text": "Det här stämmer inte överens med mina värderingar eller mitt nuvarande fokus.",
+    "tags": ["professionell"]
+  },
+  {
+    "id": 32,
+    "text": "Mitt beslut handlar inte om dig, utan om mina egna gränser.",
+    "tags": ["professionell", "vänlig"]
+  },
+  {
+    "id": 33,
+    "text": "Jag uppskattar möjligheten, men jag känner mina gränser, och det här skulle tänja dem för långt.",
+    "tags": ["professionell", "vänlig"]
+  },
+  {
+    "id": 34,
+    "text": "Om jag tog på mig det här skulle jag svika den tid jag lovat mig själv.",
+    "tags": ["professionell"]
+  },
+  {
+    "id": 35,
+    "text": "Jag fattade ett liknande beslut en gång, och min katt har inte sett mig i ögonen sedan dess. Låt oss inte upprepa historien.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 36,
+    "text": "Om jag går med på det här måste jag klona mig själv. Och jag litar inte på honom.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 37,
+    "text": "Det här känns inte riktigt rätt, så jag får nog tacka nej.",
+    "tags": ["professionell", "vänlig"]
+  },
+  {
+    "id": 38,
+    "text": "Jag säger hellre nej med ärlighet än ja med bitterhet.",
+    "tags": ["professionell", "vänlig"]
+  },
+  {
+    "id": 39,
+    "text": "Tack för att du tänkte på mig, men jag får stå över den här gången.",
+    "tags": ["professionell", "vänlig"]
+  },
+  {
+    "id": 40,
+    "text": "Jag har funderat på det och kommit fram till att det är rätt beslut att avstå just nu.",
+    "tags": ["professionell", "vänlig"]
+  },
+  {
+    "id": 41,
+    "text": "Jag värdesätter verkligen vår relation, och jag hoppas att mitt nej inte förändrar det.",
+    "tags": ["professionell", "vänlig"]
+  },
+  {
+    "id": 42,
+    "text": "Det är inte ett nej för alltid, men det är ett nej just nu.",
+    "tags": ["professionell"]
+  },
+  {
+    "id": 43,
+    "text": "Min entusiasm är äkta, men min tillgänglighet är påhittad.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 44,
+    "text": "Just nu har jag inte kapacitet att ge det här den uppmärksamhet det förtjänar.",
+    "tags": ["professionell"]
+  },
+  {
+    "id": 45,
+    "text": "Jag har lärt mig att värna om min tid, och det här stämmer inte överens med hur jag vill använda den.",
+    "tags": ["professionell"]
+  },
+  {
+    "id": 46,
+    "text": "Det här är inget jag kan prioritera för tillfället.",
+    "tags": ["professionell", "vänlig"]
+  },
+  {
+    "id": 47,
+    "text": "Om jag sa ja skulle universum kanske kollapsa av chocken.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 48,
+    "text": "Om jag går med på det här kan det spräcka rumtidskontinuumet.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 49,
+    "text": "Att hjälpa till nu skulle kunna skapa en tidsparadox. Bäst att inte riskera det.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 50,
+    "text": "Jag kan inte. Jag är upptagen med att förhindra en framtid där jag faktiskt säger ja.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 51,
+    "text": "Min kalender är i linje med Jupiter, och stjärnorna säger nej.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 52,
+    "text": "Jag är ganska säker på att det är förbjudet att säga ja i den här galaxen.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 53,
+    "text": "Multiversum skulle aldrig förlåta mig om jag gick med på det här.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 54,
+    "text": "Alla tidslinjer där jag säger ja slutar i kaos, så jag väljer klokt.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 55,
+    "text": "Att jag skulle gå med på det här är som att dividera med noll. Farligt och inte tillåtet.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 56,
+    "text": "Att tacka ja till det här skulle orsaka en bugg i Matrix.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 57,
+    "text": "Jag är bokad det kommande decenniet med att låtsas vara produktiv.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 58,
+    "text": "Jag skulle gärna, men jag är fullt upptagen med att räkna takplattor.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 59,
+    "text": "Tyvärr, jag är upptagen med att sortera min strumplåda efter färg och känsloläge.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 60,
+    "text": "Jag har ett möte med min soffa, och den accepterar inte ett nej.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 61,
+    "text": "Jag har en kalenderpåminnelse om att sitta och stirra ut i tomma intet just då.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 62,
+    "text": "Mitt schema är fullt. Jag håller på att alfabetisera mina snacks.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 63,
+    "text": "Jag måste avsluta en intensiv omgång av att inte göra någonting alls.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 64,
+    "text": "Jag har ett tidigare åtagande att sträcktitta på färg som torkar.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 65,
+    "text": "Jag är mitt uppe i ett väldigt viktigt maraton i prokrastinering.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 66,
+    "text": "Jag kan inte. Jag ska närvara vid invigningen av mitt kylskåp.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 67,
+    "text": "Jag skulle hjälpa till, men min låtsaskompis behöver mig mer.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 68,
+    "text": "Jag kan inte. Mitt kramdjur går igenom en personlig kris.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 69,
+    "text": "Min guldfisk gifter sig den dagen, så jag måste närvara.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 70,
+    "text": "Jag lovade min imaginära katt att stanna hemma ikväll.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 71,
+    "text": "Min enhörning tycker inte att jag borde.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 72,
+    "text": "Jag måste vara barnvakt åt min låtsaskompis imaginära barn.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 73,
+    "text": "Tyvärr har jag anmält mig som smaktestare för mitt husdjurs nya diet.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 74,
+    "text": "Min husdjursdrake har en veterinärtid som jag inte kan missa.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 75,
+    "text": "Jag har utegångsförbud från min papegoja på grund av dåligt uppförande, så jag kan inte komma.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 76,
+    "text": "Jag lånade ut min tidsmaskin till en vän och kan därför inte åka tillbaka och frigöra eftermiddagen.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 77,
+    "text": "Jag har avlagt ett löfte om att undvika all form av produktivitet.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 78,
+    "text": "Det strider mot min personliga religion att göra något nyttigt idag.",
+    "tags": ["sarkastisk", "fyndig"]
+  },
+  {
+    "id": 79,
+    "text": "Min psykiater rekommenderade att jag undviker aktiviteter som riskerar att vara roliga.",
+    "tags": ["sarkastisk", "fyndig"]
+  },
+  {
+    "id": 80,
+    "text": "Jag svor en ed att slumpmässigt tacka nej till alla förfrågningar.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 81,
+    "text": "Jag fungerar bara på kaffe och förnekelse, och kaffet är slut.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 82,
+    "text": "Jag är allergisk mot alla former av ansvar.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 83,
+    "text": "Jag har ett läkarintyg som uttryckligen förbjuder mig att hjälpa till.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 84,
+    "text": "Jag skulle gärna hjälpa till, men jag försöker bryta min svit av hjälpsamhet.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 85,
+    "text": "Min prokrastineringscoach sa att jag inte är redo för riktiga uppgifter än.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 86,
+    "text": "Jag gav upp att säga ja under fastan, och den är inte över än.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 87,
+    "text": "Jag har en personlig policy att säga nej alla dagar som slutar på 'g'.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 88,
+    "text": "Kalendern i min telefon gjorde precis en facepalm när jag ens övervägde det.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 89,
+    "text": "Jag måste uppdatera min status till 'upptagen med att inte göra det där'.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 90,
+    "text": "Just nu pekar trenden tydligt mot nej.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 91,
+    "text": "Jag kan inte. Jag lovade Netflix att stanna hemma och titta på film.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 92,
+    "text": "Mitt motivations-wifi har tappat anslutningen.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 93,
+    "text": "Jag väntar på att mobilen ska laddas klart. Tills den är på 100 % kan jag inte göra något.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 94,
+    "text": "Min bio på Twitter säger 'säger ofta nej', så jag måste hålla mig till varumärket.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 95,
+    "text": "Jag är upptagen med att googla efter motivation. Hittills inga träffar.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 96,
+    "text": "Jag har fastnat i ett internethål och hittar inte ut igen.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 97,
+    "text": "Jag kan inte komma. Jag sitter i ett Zoom-möte med min soffa.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 98,
+    "text": "Jag skulle gärna vilja, men jag föredrar att låta bli.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 99,
+    "text": "Mitt svar är ett nej, nygräddat och särskilt framtaget för dig.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 100,
+    "text": "Jag har övervägt det noggrant och landat i ett bestämt nej.",
+    "tags": []
+  },
+  {
+    "id": 101,
+    "text": "Inte ens om det bjöds på gratis bullar.",
+    "tags": []
+  },
+  {
+    "id": 102,
+    "text": "Det här är delen där jag säger nej och vi båda går vidare.",
+    "tags": []
+  },
+  {
+    "id": 103,
+    "text": "Låt mig kolla kalendern... nämen titta, det står ett permanent nej.",
+    "tags": ["sarkastisk","fyndig"]
+  },
+  {
+    "id": 104,
+    "text": "Jag är smickrad att du frågade, men jag tackar nej med glans.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 105,
+    "text": "Jag har redan uppnått årets kvot av ja-svar.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 106,
+    "text": "Jag är alldeles för cool för att säga ja till det där.",
+    "tags": ["sarkastisk"]
+  },
+  {
+    "id": 107,
+    "text": "Som man brukar säga: 'Nä, nä och åter nä.'",
+    "tags": ["sarkastisk"]
+  },
+  {
+    "id": 108,
+    "text": "Du vill egentligen inte att jag ska säga ja. Tro mig, det är för allas bästa.",
+    "tags": ["sarkastisk", "fyndig"]
+  },
+  {
+    "id": 109,
+    "text": "Senast jag sa ja regnade det i fyrtio dagar. Tänker inte riskera det igen.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 110,
+    "text": "Jag lovade mitt framtida jag att säga nej till just den här.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 111,
+    "text": "Om jag gick med på det här skulle jag behöva förklara mig för min terapeut.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 112,
+    "text": "Mina tidigare erfarenheter av att säga ja har varit traumatiska.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 113,
+    "text": "Att säga ja står på listan över saker jag försöker sluta med.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 114,
+    "text": "Jag skulle kunna, men då måste jag erkänna att jag hade fel om att hata allt.",
+    "tags": ["sarkastisk", "fyndig"]
+  },
+  {
+    "id": 115,
+    "text": "Universum gav mig en tydlig signal att säga nej. Det var en neonskylt.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 116,
+    "text": "Jag sa ja en gång. Det slutade inte bra. Det var lamor inblandade.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 117,
+    "text": "Jag och magkänslan höll omröstning. Resultatet blev enhälligt nej.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 118,
+    "text": "Det låter som en fantastisk möjlighet... för någon annan.",
+    "tags": ["sarkastisk", "fyndig"]
+  },
+  {
+    "id": 119,
+    "text": "Vilken fantastisk idé! Synd att jag inte kan vara med. Eller ja, inte så synd.",
+    "tags": ["sarkastisk"]
+  },
+  {
+    "id": 120,
+    "text": "Jag avundas verkligen dem som kommer att säga ja till dig.",
+    "tags": ["sarkastisk"]
+  },
+  {
+    "id": 121,
+    "text": "Jag älskar verkligen tanken, men jag får stå över den här gången.",
+    "tags": ["professionell", "vänlig"]
+  },
+  {
+    "id": 122,
+    "text": "Briljant plan! Tyvärr lever jag under vittnesskydd från bra idéer.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 123,
+    "text": "Det hade varit en dröm som gick i uppfyllelse. Synd bara att jag är vaken och säger nej.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 124,
+    "text": "Du har målat upp en så fin bild att jag gärna beundrar den på avstånd.",
+    "tags": ["vänlig", "fyndig"]
+  },
+  {
+    "id": 125,
+    "text": "Vilket generöst erbjudande! Jag tänker generöst tacka nej.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 126,
+    "text": "Jag är säker på att det blir en stor succé, men jag nöjer mig med att beundra på håll.",
+    "tags": ["vänlig", "fyndig"]
+  },
+  {
+    "id": 127,
+    "text": "Låter spännande! Jag blev trött bara av att tänka på det.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 128,
+    "text": "Jag har redan bytt om till pyjamas, så svaret är nej.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 129,
+    "text": "Min soffa har infört reseförbud, och jag följer reglerna.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 130,
+    "text": "Jag orkar inte ens lämna min bekväma filtburrito.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 131,
+    "text": "Jag sparar energin till en episk tupplur.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 132,
+    "text": "Jag är för lat för att hitta på en bra ursäkt, så nej bara.",
+    "tags": ["sarkastisk"]
+  },
+  {
+    "id": 133,
+    "text": "Förflyttning från den här platsen kräver 24 timmars varsel.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 134,
+    "text": "Jag energisparar idag utan någon särskild anledning.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 135,
+    "text": "Jag skulle kunna, men det låter som ansträngning och jag är allergisk.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 136,
+    "text": "Jag upplever för närvarande tekniska problem med att röra på mig.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 137,
+    "text": "Jag tränar inför ett maraton i att inte röra mig.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 138,
+    "text": "Jag måste tvätta håret det årtiondet.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 139,
+    "text": "Jag måste frosta av isberget i frysen.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 140,
+    "text": "Tyvärr, jag måste stryka mina underkläder den kvällen.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 141,
+    "text": "Jag måste sköta min trädgård med plastblommor.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 142,
+    "text": "Min fisk behöver rastas, och det går före allt annat.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 143,
+    "text": "Tyvärr, jag måste rotera däcken på min kontorsstol.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 144,
+    "text": "Jag maratontittar på en serie där jag gör hushållssysslor i huvudet.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 145,
+    "text": "Disken hotade att göra uppror om jag lämnade den ensam en gång till.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 146,
+    "text": "Jag och kylskåpet har parterapi då.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 147,
+    "text": "Jag måste stå över medan jag sorterar mitt strumpzoo.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 148,
+    "text": "I ett alternativt universum gjorde jag det redan. Bara inte i det här.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 149,
+    "text": "Kanske i nästa liv överväger jag det, men nuvarande jag säger nej.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 150,
+    "text": "I en parallell dimension håller jag redan på med det. Synd att vi är här.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 151,
+    "text": "Jag rådfrågade mitt alternativa jag. De tackade också nej.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 152,
+    "text": "Om jag klonar mig själv skickar jag klonen. Tills dess blir det nej.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 153,
+    "text": "Jag kollade med framtida mig, och hen himlade med ögonen. Jag passar.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 154,
+    "text": "Jag sitter fast i en tidsloop av att säga nej.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 155,
+    "text": "I en alternativ tidslinje sa jag ja, och det utlöste en zombieapokalyps.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 156,
+    "text": "Min onda tvilling kanske vore intresserad. Synd bara att hen också är upptagen.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 157,
+    "text": "I något parallellt universum är jag mer hjälpsam. Det här är inte det universumet.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 158,
+    "text": "Jag skulle kunna, men det låter farligt nära arbete.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 159,
+    "text": "Min lust att göra det där ligger för närvarande i koma.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 160,
+    "text": "Jag är ganska säker på att jag skulle lyckas förstöra det på ett spektakulärt sätt, så bäst att låta bli.",
+    "tags": ["sarkastisk"]
+  },
+  {
+    "id": 161,
+    "text": "Jag skulle kunna delta, men vem ska då hålla upp väggen här borta?",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 162,
+    "text": "Den där förfrågan ligger över min lönenivå på exakt noll euro.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 163,
+    "text": "Viljan finns, men kalendern säger nej.",
+    "tags": ["professionell", "fyndig"]
+  },
+  {
+    "id": 164,
+    "text": "Jag vill helst inte utmana ödet genom att prova något nytt idag.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 165,
+    "text": "Om jag är med kommer jag nog bara att sänka snittet.",
+    "tags": ["sarkastisk", "fyndig"]
+  },
+  {
+    "id": 166,
+    "text": "Jag göra det där? Det är plot-twisten ingen har bett om.",
+    "tags": ["sarkastisk", "fyndig"]
+  },
+  {
+    "id": 167,
+    "text": "Jag praktiserar social distansering från just den idén.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 168,
+    "text": "Jag har ett tillstånd som hindrar mig från att säga ja. Det kallas sunt förnuft.",
+    "tags": ["sarkastisk", "fyndig"]
+  },
+  {
+    "id": 169,
+    "text": "Läkaren sa att jag behöver mer vitamin N. Som i Nej.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 170,
+    "text": "Jag har drabbats av ett akut fall av Inte-idag-sjukan.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 171,
+    "text": "Mentalt är jag redan på semester.",
+    "tags": []
+  },
+  {
+    "id": 172,
+    "text": "Jag har ordinerats sängvila tills vidare. Min läkare heter Dr. Seuss.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 173,
+    "text": "Jag lider av kronisk åtagandefobi.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 174,
+    "text": "Jag håller på att bli sjuk i något. Det heter lathet.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 175,
+    "text": "Jag har en inbokad träff med en kudde och en filt.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 176,
+    "text": "Min terapeut sa att jag ska undvika saker som gör mig olycklig. Jag antar att det här räknas.",
+    "tags": ["sarkastisk"]
+  },
+  {
+    "id": 177,
+    "text": "Jag har en akut nödsituation av typen egentid.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 178,
+    "text": "Jag måste rädda världen från tristess genom att stanna hemma.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 179,
+    "text": "Jag är mitt uppe i fredsförhandlingar för världsfreden. I ett datorspel.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 180,
+    "text": "Mitt superhjältealter ego behöver en ledig dag, och det gör jag också.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 181,
+    "text": "Jag är på ett hemligt uppdrag att undvika exakt det du just frågade om.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 182,
+    "text": "Jag skulle gärna, men vem ska rädda världen medan jag är borta?",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 183,
+    "text": "Jag är upptagen med att organisera en global tupplur.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 184,
+    "text": "Jag måste hindra soffan från att flyga iväg. Det är ett viktigt uppdrag.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 185,
+    "text": "Ödet för potatischipset jag precis ska äta ligger i mina händer. Jag kan inte överge det.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 186,
+    "text": "Jag har blivit utsedd till vardagsrummets väktare idag.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 187,
+    "text": "Jag slåss mot en osynlig drake där hemma. Det tar längre tid än väntat.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 188,
+    "text": "Du vill verkligen inte ha med mig på det här. Min specialitet är att förstöra saker.",
+    "tags": ["sarkastisk", "fyndig"]
+  },
+  {
+    "id": 189,
+    "text": "Jag är som en svart katt för projekt. Det är säkrast om jag håller mig borta.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 190,
+    "text": "Tro mig, jag gör dig en tjänst genom att säga nej.",
+    "tags": ["sarkastisk"]
+  },
+  {
+    "id": 191,
+    "text": "Mitt deltagande kommer med en varningsetikett, så jag besparar dig det.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 192,
+    "text": "Jag skulle gärna vara med, men jag är egentligen bara här för att leverera fyndiga avslag.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 193,
+    "text": "Jag är faktiskt usel på det där. Om du inte behöver ett exempel på hur man inte ska göra.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 194,
+    "text": "Du förtjänar någon som säger ja utan att först ge tre ursäkter.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 195,
+    "text": "Min historik antyder att jag borde stå över den här gången.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 196,
+    "text": "Jag är fel person för jobbet, men helt rätt person för att säga nej.",
+    "tags": ["fyndig"]
+  },
+  {
+    "id": 197,
+    "text": "Om du behöver någon som saboterar det hela är jag perfekt. Annars passar jag.",
+    "tags": ["sarkastisk", "fyndig"]
+  },
+  {
+    "id": 198,
+    "text": "Lyckokakan sa faktiskt 'nej' igår kväll.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 199,
+    "text": "Profetian förutsade att jag skulle tacka nej till just det här.",
+    "tags": ["absurd", "fyndig"]
+  },
+  {
+    "id": 200,
+    "text": "Alla mina tarotkort suckade kollektivt när frågan kom upp.",
+    "tags": ["absurd", "fyndig"]
+  }
+]

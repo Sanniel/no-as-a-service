@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "text": "Toisessa elämäntilanteessa olisin ehkä sanonut kyllä, mutta en juuri nyt.",
+    "tags": ["ammatillinen", "ystävällinen"]
+  },
+  {
+    "id": 2,
+    "text": "Arvostan sitä, mutta en voi sitoutua tähän.",
+    "tags": ["ammatillinen", "ystävällinen"]
+  },
+  {
+    "id": 3,
+    "text": "Aina kun ajattelen tätä, kuulen tuulessa pienen 'ei'.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 4,
+    "text": "Tuleva minäni jätti viestin: 'Älä tee tätä uudestaan.'",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 5,
+    "text": "Kuulostaa mielenkiintoiselta, mutta en taida olla oikea henkilö tähän.",
+    "tags": ["ammatillinen", "ystävällinen"]
+  },
+  {
+    "id": 6,
+    "text": "Kiitos että ajattelit minua, mutta tämä ei tunnu minulle oikealta juuri nyt.",
+    "tags": ["ammatillinen", "ystävällinen"]
+  },
+  {
+    "id": 7,
+    "text": "Sanoisin mielelläni kyllä, mutta lupasin juuri itselleni tehdä tällä viikolla vähemmän kyseenalaisia päätöksiä.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 8,
+    "text": "Arvostan tarjousta, mutta en voi sitoutua tähän.",
+    "tags": ["ammatillinen", "ystävällinen"]
+  },
+  {
+    "id": 9,
+    "text": "Yritän olla tarkempi sen suhteen, mille sanon kyllä, eikä tämä oikein sovi siihen.",
+    "tags": ["ammatillinen", "ystävällinen"]
+  },
+  {
+    "id": 10,
+    "text": "Haluan olla rehellinen. En tunne oloani mukavaksi sitoutuessani tähän.",
+    "tags": ["ammatillinen", "ystävällinen"]
+  },
+  {
+    "id": 11,
+    "text": "Minun täytyy luottaa vaistooni, ja se ehdottaa kohteliaasti ei:tä.",
+    "tags": []
+  },
+  {
+    "id": 12,
+    "text": "Kun sanon tälle ei, voin sanoa kyllä jollekin tärkeämmälle.",
+    "tags": ["ammatillinen"]
+  },
+  {
+    "id": 13,
+    "text": "Jos sanoisin kyllä, valehtelisin meille molemmille, ja terapeuttini pyysi minua lopettamaan sen.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 14,
+    "text": "Kieltäydyn kunnioittavasti. Tämä ei sovi siihen suuntaan, johon olen menossa.",
+    "tags": ["ammatillinen"]
+  },
+  {
+    "id": 15,
+    "text": "Tämä mahdollisuus ansaitsee enemmän kuin mitä voin sille juuri nyt antaa.",
+    "tags": ["ammatillinen", "ystävällinen"]
+  },
+  {
+    "id": 16,
+    "text": "En vihaa ideaa, mutta en myöskään halua tehdä sitä.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 17,
+    "text": "En ole tällä hetkellä tilanteessa, jossa voisin sitoutua tähän.",
+    "tags": ["ammatillinen", "ystävällinen"]
+  },
+  {
+    "id": 18,
+    "text": "Olen hyväksynyt sen, että sanon ei asioille, jotka eivät anna minulle energiaa.",
+    "tags": ["ammatillinen"]
+  },
+  {
+    "id": 19,
+    "text": "Jopa kalenterini nauroi, kun yritin mahduttaa tämän sinne.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 20,
+    "text": "Olen päättänyt olla ottamatta uusia sitoumuksia toistaiseksi.",
+    "tags": ["ammatillinen", "ystävällinen"]
+  },
+  {
+    "id": 21,
+    "text": "Tuntuu siltä, että tuleva minäni moittisi nykyistä minääni, jos sanoisin tähän kyllä.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 22,
+    "text": "Olen yrittänyt tehdä liikaa ennenkin, ja tämä tuntuu déjà vulta.",
+    "tags": ["ammatillinen"]
+  },
+  {
+    "id": 23,
+    "text": "Olet nähnyt paljon vaivaa tämän eteen, ja toivon että ymmärrät päätökseni jäädä sivuun.",
+    "tags": ["ammatillinen", "ystävällinen"]
+  },
+  {
+    "id": 24,
+    "text": "Loistava idea. Jonkun muun toteutettavaksi.",
+    "tags": ["sarkastinen", "nokkela"]
+  },
+  {
+    "id": 25,
+    "text": "Se versio minusta, joka sanoisi tähän kyllä, ei ole enää olemassa.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 26,
+    "text": "Jopa kahvini sanoi: 'Ei tänään.'",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 27,
+    "text": "Sisäinen rauhankomiteani äänesti yksimielisesti tätä vastaan.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 28,
+    "text": "Tiedän kuinka paljon tämä merkitsee, mutta en voi antaa sille sen ansaitsemaa huomiota.",
+    "tags": ["ammatillinen", "ystävällinen"]
+  },
+  {
+    "id": 29,
+    "text": "Kuvittelin tekeväni tämän, ja nukahdin välittömästi kesken mielikuvan.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 30,
+    "text": "Henkisesti olen jo poistunut huoneesta, jossa tämä tapahtuisi.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 31,
+    "text": "Tämä ei vastaa arvojani eikä nykyistä fokustani.",
+    "tags": ["ammatillinen"]
+  },
+  {
+    "id": 32,
+    "text": "Päätökseni ei johdu sinusta, vaan omista rajoistani.",
+    "tags": ["ammatillinen", "ystävällinen"]
+  },
+  {
+    "id": 33,
+    "text": "Arvostan mahdollisuutta, mutta tunnen rajani, ja tämä venyttäisi niitä liikaa.",
+    "tags": ["ammatillinen", "ystävällinen"]
+  },
+  {
+    "id": 34,
+    "text": "Jos ottaisin tämän vastaan, pettäisin ajan, jonka olen luvannut itselleni.",
+    "tags": ["ammatillinen"]
+  },
+  {
+    "id": 35,
+    "text": "Tein kerran samanlaisen päätöksen, eikä kissani ole katsonut minua silmiin sen jälkeen. Ei toisteta historiaa.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 36,
+    "text": "Jos suostun tähän, minun täytyy kloonata itseni. Enkä luota häneen.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 37,
+    "text": "Tämä ei tunnu aivan oikealta, joten joudun kieltäytymään.",
+    "tags": ["ammatillinen", "ystävällinen"]
+  },
+  {
+    "id": 38,
+    "text": "Sanon mieluummin rehellisen ei:n kuin katkeran kyllä:n.",
+    "tags": ["ammatillinen", "ystävällinen"]
+  },
+  {
+    "id": 39,
+    "text": "Kiitos että ajattelit minua, mutta jätän tämän väliin tällä kertaa.",
+    "tags": ["ammatillinen", "ystävällinen"]
+  },
+  {
+    "id": 40,
+    "text": "Olen miettinyt asiaa ja tullut siihen tulokseen, että juuri nyt on parempi kieltäytyä.",
+    "tags": ["ammatillinen", "ystävällinen"]
+  },
+  {
+    "id": 41,
+    "text": "Arvostan suhdettamme, ja toivon ettei kielteinen vastaukseni muuta sitä.",
+    "tags": ["ammatillinen", "ystävällinen"]
+  },
+  {
+    "id": 42,
+    "text": "Tämä ei ole ikuinen ei, mutta se on ei juuri nyt.",
+    "tags": ["ammatillinen"]
+  },
+  {
+    "id": 43,
+    "text": "Innostusta löytyy, mutta vapaa-aika on pelkkää fiktiota.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 44,
+    "text": "Minulla ei tällä hetkellä ole mahdollisuutta antaa tälle sen ansaitsemaa huomiota.",
+    "tags": ["ammatillinen"]
+  },
+  {
+    "id": 45,
+    "text": "Olen oppinut suojelemaan aikaani, eikä tämä sovi siihen, miten haluan sitä käyttää.",
+    "tags": ["ammatillinen"]
+  },
+  {
+    "id": 46,
+    "text": "Tämä ei ole asia, jota voin tällä hetkellä priorisoida.",
+    "tags": ["ammatillinen", "ystävällinen"]
+  },
+  {
+    "id": 47,
+    "text": "Jos sanoisin tähän kyllä, maailmankaikkeus saattaisi romahtaa yllätyksestä.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 48,
+    "text": "Jos suostun tähän, saatan rikkoa aika-avaruusjatkumon.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 49,
+    "text": "Tähän osallistuminen voisi aiheuttaa aikaparadoksin. En halua ottaa sitä riskiä.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 50,
+    "text": "En voi. Olen kiireinen estämässä tulevaisuutta, jossa sanon tähän kyllä.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 51,
+    "text": "Kalenterini on linjassa Jupiterin kanssa, ja tähdet sanovat ei.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 52,
+    "text": "Olen melko varma, että kyllä-sanominen on tässä galaksissa kielletty.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 53,
+    "text": "Monimaailmankaikkeus ei antaisi minulle koskaan anteeksi, jos suostuisin tähän.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 54,
+    "text": "Kaikki aikajanat, joilla sanon kyllä, päättyvät kaaokseen, joten valitsen viisaasti.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 55,
+    "text": "Tähän suostuminen olisi kuin jakaisi nollalla. Vaarallista eikä suositeltavaa.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 56,
+    "text": "Jos sanoisin tähän kyllä, Matrixiin ilmestyisi bugi.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 57,
+    "text": "Olen varattu seuraavan vuosikymmenen ajaksi esittämään tuotteliasta.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 58,
+    "text": "Auttaisin mielelläni, mutta olen kiireinen laskemassa kattolaattoja.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 59,
+    "text": "Valitettavasti lajittelen juuri sukkalaatikkoani värin ja tunnetilan mukaan.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 60,
+    "text": "Minulla on tapaaminen sohvani kanssa, eikä se hyväksy peruutuksia.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 61,
+    "text": "Kalenterissani on muistutus istua ja tuijottaa tyhjyyteen juuri silloin.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 62,
+    "text": "Aikatauluni on täynnä. Aakkostan parhaillani naposteltaviani.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 63,
+    "text": "Minun täytyy saada päätökseen erittäin vaativa projekti nimeltä 'ei mitään'.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 64,
+    "text": "Minulla on ennestään sovittuna maalin kuivumisen tuijottelumaraton.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 65,
+    "text": "Harjoittelen parhaillani olympiatason vitkuttelua varten.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 66,
+    "text": "En voi. Minun täytyy osallistua jääkaappini avajaisiin.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 67,
+    "text": "Auttaisin kyllä, mutta kuvitteellinen ystäväni tarvitsee minua enemmän.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 68,
+    "text": "En voi. Lemmikkikiveni käy läpi tunnekuohua.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 69,
+    "text": "Kultakalani menee sinä päivänä naimisiin, joten minun on oltava paikalla.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 70,
+    "text": "Lupasin kuvitteelliselle kissalleni, että pysyn tänä iltana kotona.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 71,
+    "text": "Suojeluyksisarviseni ei pidä tätä hyvänä ajatuksena.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 72,
+    "text": "Minun täytyy vahtia kuvitteellisen ystäväni kuvitteellisia lapsia.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 73,
+    "text": "Valitettavasti ilmoittauduin lemmikkini uuden ruokavalion makutestaajaksi.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 74,
+    "text": "Lemmikkilohikäärmeelläni on eläinlääkäriaika, jota en voi jättää väliin.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 75,
+    "text": "Papukaijani määräsi minut kotiarestiin huonon käytöksen vuoksi, joten en pääse tulemaan.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 76,
+    "text": "Lainasin aikakoneeni ystävälle, joten en voi palata vapauttamaan iltapäivääni.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 77,
+    "text": "Olen vannonut välttäväni kaikkea tuottavuutta.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 78,
+    "text": "Henkilökohtainen uskontoni kieltää tekemästä tänään mitään hyödyllistä.",
+    "tags": ["sarkastinen", "nokkela"]
+  },
+  {
+    "id": 79,
+    "text": "Psykologini suositteli välttämään aktiviteetteja, joissa voisi vahingossa olla hauskaa.",
+    "tags": ["sarkastinen", "nokkela"]
+  },
+  {
+    "id": 80,
+    "text": "Vannoin valan kieltäytyä satunnaisesti kaikista pyynnöistä.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 81,
+    "text": "Toimin tällä hetkellä pelkällä kahvilla ja itseni huijaamisella, ja kahvi on loppu.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 82,
+    "text": "Olen allerginen kaikenlaiselle vastuulle.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 83,
+    "text": "Minulla on lääkärintodistus, joka nimenomaisesti kieltää auttamisen.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 84,
+    "text": "Auttaisin mielelläni, mutta yritän katkaista auttavaisuuskierteeni.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 85,
+    "text": "Vitkutteluvalmentajani sanoi, etten ole vielä valmis oikeisiin tehtäviin.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 86,
+    "text": "Lopetin kyllä-sanomisen paaston ajaksi, eikä paasto ole vielä ohi.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 87,
+    "text": "Minulla on henkilökohtainen sääntö sanoa ei kaikkina päivinä, jotka päättyvät kirjaimeen.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 88,
+    "text": "Puhelimeni kalenteri teki juuri facepalmin, kun edes harkitsin tätä.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 89,
+    "text": "Minun täytyy päivittää tilakseni 'kiireinen olemaan tekemättä tuota'.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 90,
+    "text": "Kaikki merkit viittaavat tällä hetkellä vahvasti sanaan ei.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 91,
+    "text": "En voi. Lupasin Netflixille jäädä kotiin katsomaan sarjoja.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 92,
+    "text": "Motivaatio-wifini on kadottanut yhteyden.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 93,
+    "text": "Odotan, että puhelimeni latautuu täyteen. Siihen asti en voi tehdä mitään.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 94,
+    "text": "Someprofiilissani lukee 'sanoo usein ei', joten minun on pidettävä brändistä kiinni.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 95,
+    "text": "Olen kiireinen googlaamassa motivaatiota. Toistaiseksi tuloksetta.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 96,
+    "text": "Eksyin internetin kaninkoloon enkä löydä tietä takaisin.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 97,
+    "text": "En pääse tulemaan. Olen Zoom-palaverissa sohvani kanssa.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 98,
+    "text": "Haluaisin kyllä, mutta pidän enemmän siitä etten halua.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 99,
+    "text": "Vastaukseni on tuore, juuri sinua varten leivottu ei.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 100,
+    "text": "Harkitsin asiaa huolellisesti ja päädyin vakaaseen ei-vastaukseen.",
+    "tags": []
+  },
+  {
+    "id": 101,
+    "text": "En edes ilmaisia donitseja vastaan.",
+    "tags": []
+  },
+  {
+    "id": 102,
+    "text": "Tässä kohtaa minä sanon ei, ja me molemmat jatkamme elämäämme.",
+    "tags": []
+  },
+  {
+    "id": 103,
+    "text": "Katsotaanpa kalenteria... kappas, siellä lukee pysyvä ei.",
+    "tags": ["sarkastinen","nokkela"]
+  },
+  {
+    "id": 104,
+    "text": "Olen otettu, että kysyit, mutta kieltäydyn tyylikkäästi.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 105,
+    "text": "Olen jo käyttänyt tämän vuoden kyllä-kiintiöni.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 106,
+    "text": "Olen aivan liian cool sanoakseni tälle kyllä.",
+    "tags": ["sarkastinen"]
+  },
+  {
+    "id": 107,
+    "text": "Kuten sanonta kuuluu: ei, ei ja vielä kerran ei.",
+    "tags": ["sarkastinen"]
+  },
+  {
+    "id": 108,
+    "text": "Et oikeasti halua minun sanovan tähän kyllä. Luota minuun, tämä on kaikkien parhaaksi.",
+    "tags": ["sarkastinen", "nokkela"]
+  },
+  {
+    "id": 109,
+    "text": "Viimeksi kun sanoin kyllä, satoi neljäkymmentä päivää putkeen. En ota sitä riskiä uudestaan.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 110,
+    "text": "Lupasin tulevalle itselleni, että sanon juuri tälle ei.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 111,
+    "text": "Jos suostuisin tähän, joutuisin selittämään sen terapeutille.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 112,
+    "text": "Aiemmat kokemukseni kyllä-sanomisesta ovat olleet traumaattisia.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 113,
+    "text": "Kyllä-sanominen on listalla asioista, joista yritän päästä eroon.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 114,
+    "text": "Voisin kyllä, mutta silloin joutuisin myöntämään olleeni väärässä kaiken vihaamisesta.",
+    "tags": ["sarkastinen", "nokkela"]
+  },
+  {
+    "id": 115,
+    "text": "Maailmankaikkeus antoi minulle selvän merkin sanoa ei. Se oli neonvalo.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 116,
+    "text": "Sanoin kerran kyllä. Se ei päättynyt hyvin. Mukana oli laamoja.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 117,
+    "text": "Minä ja vaistoni pidimme äänestyksen. Lopputulos oli yksimielinen ei.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 118,
+    "text": "Kuulostaa upealta mahdollisuudelta... jollekin toiselle.",
+    "tags": ["sarkastinen", "nokkela"]
+  },
+  {
+    "id": 119,
+    "text": "Mikä loistava idea! Harmi etten voi osallistua. Tai no, ei oikeastaan harmi.",
+    "tags": ["sarkastinen"]
+  },
+  {
+    "id": 120,
+    "text": "Kadehdin todella niitä, jotka sanovat sinulle tähän kyllä.",
+    "tags": ["sarkastinen"]
+  },
+  {
+    "id": 121,
+    "text": "Pidän ajatuksesta kovasti, mutta tällä kertaa jätän väliin.",
+    "tags": ["ammatillinen", "ystävällinen"]
+  },
+  {
+    "id": 122,
+    "text": "Loistava suunnitelma! Valitettavasti elän hyvien ideoiden todistajansuojeluohjelmassa.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 123,
+    "text": "Tämä olisi unelmien täyttymys. Harmi vain, että olen hereillä ja sanon ei.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 124,
+    "text": "Olet maalannut tästä niin hienon kuvan, että ihailen sitä mieluummin etäältä.",
+    "tags": ["ystävällinen", "nokkela"]
+  },
+  {
+    "id": 125,
+    "text": "Mikä antelias tarjous! Kieltäydyn siitä yhtä anteliaasti.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 126,
+    "text": "Olen varma, että tästä tulee suuri menestys, mutta ihailen sitä mieluummin sivusta.",
+    "tags": ["ystävällinen", "nokkela"]
+  },
+  {
+    "id": 127,
+    "text": "Kuulostaa jännittävältä! Väsyin jo pelkästä ajatuksesta.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 128,
+    "text": "Olen jo vaihtanut pyjaman päälle, joten vastaus on ei.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 129,
+    "text": "Sohvani on asettanut matkustuskiellon, ja minä noudatan sääntöjä.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 130,
+    "text": "En jaksa edes poistua mukavasta vilttiburritostani.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 131,
+    "text": "Säästän energiani eeppistä päiväunta varten.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 132,
+    "text": "Olen liian laiska keksimään hyvää tekosyytä, joten sanon vain ei.",
+    "tags": ["sarkastinen"]
+  },
+  {
+    "id": 133,
+    "text": "Täältä poistuminen vaatii 24 tunnin ennakkoilmoituksen.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 134,
+    "text": "Säästän energiaa tänään ilman erityistä syytä.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 135,
+    "text": "Voisin kyllä, mutta se kuulostaa vaivannäöltä, ja olen sille allerginen.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 136,
+    "text": "Minulla on tällä hetkellä teknisiä ongelmia liikkeelle lähtemisen kanssa.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 137,
+    "text": "Harjoittelen parhaillani maratonia varten, jossa ei liikuteta yhtään lihasta.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 138,
+    "text": "Minun täytyy pestä hiukseni joskus tämän vuosikymmenen aikana.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 139,
+    "text": "Minun täytyy sulattaa pakastimeen muodostunut jäävuori.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 140,
+    "text": "Valitettavasti minun täytyy silittää alusvaatteeni sinä iltana.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 141,
+    "text": "Minun täytyy hoitaa muovikukkatarhaani.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 142,
+    "text": "Kalani tarvitsee ulkoilutusta, ja se menee kaiken muun edelle.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 143,
+    "text": "Valitettavasti minun täytyy vaihtaa toimistotuolini renkaat.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 144,
+    "text": "Katson parhaillani maratonia, jossa teen kotitöitä vain mielikuvituksessani.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 145,
+    "text": "Tiskit uhkasivat kapinalla, jos jätän ne vielä kerran yksin.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 146,
+    "text": "Minulla ja jääkaapillani on pariterapia silloin.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 147,
+    "text": "Joudun jättämään väliin, koska järjestelen parhaillani sukkatarhaani.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 148,
+    "text": "Vaihtoehtoisessa universumissa tein tämän jo. Tässä en.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 149,
+    "text": "Ehkä seuraavassa elämässä harkitsen tätä, mutta nykyinen minä sanoo ei.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 150,
+    "text": "Rinnakkaisulottuvuudessa teen tätä jo parhaillani. Harmi, että olemme tässä ulottuvuudessa.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 151,
+    "text": "Kysyin vaihtoehtoiselta minältäni. Hänkin sanoi ei.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 152,
+    "text": "Jos kloonaan itseni, lähetän kloonin. Siihen asti vastaus on ei.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 153,
+    "text": "Tarkistin asian tulevalta itseltäni, ja hän pyöritteli silmiään. Jätän väliin.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 154,
+    "text": "Olen jumissa aikasilmukassa, jossa sanon jatkuvasti ei.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 155,
+    "text": "Vaihtoehtoisella aikajanalla sanoin kyllä, ja se johti zombieapokalypsiin.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 156,
+    "text": "Paha kaksoisolentoni voisi olla kiinnostunut. Harmi vain, että hänkin on kiireinen.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 157,
+    "text": "Jossain rinnakkaisuniversumissa olen paljon avuliaampi. Tämä ei ole se universumi.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 158,
+    "text": "Voisin kyllä, mutta se kuulostaa epäilyttävän paljon työnteolta.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 159,
+    "text": "Haluni tehdä tuo on tällä hetkellä koomassa.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 160,
+    "text": "Olen melko varma, että onnistuisin pilaamaan tämän näyttävästi, joten on parempi kieltäytyä.",
+    "tags": ["sarkastinen"]
+  },
+  {
+    "id": 161,
+    "text": "Voisin osallistua, mutta kuka sitten pitää tätä seinää pystyssä?",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 162,
+    "text": "Tämä pyyntö ylittää palkkatasoni, joka on tasan nolla euroa.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 163,
+    "text": "Halu löytyy, mutta kalenteri sanoo ei.",
+    "tags": ["ammatillinen", "nokkela"]
+  },
+  {
+    "id": 164,
+    "text": "En halua haastaa kohtaloa kokeilemalla mitään uutta tänään.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 165,
+    "text": "Jos osallistun, lasken todennäköisesti keskiarvoa.",
+    "tags": ["sarkastinen", "nokkela"]
+  },
+  {
+    "id": 166,
+    "text": "Minä tekemässä tuota? Se olisi juonenkäänne, jota kukaan ei pyytänyt.",
+    "tags": ["sarkastinen", "nokkela"]
+  },
+  {
+    "id": 167,
+    "text": "Harjoitan tällä hetkellä sosiaalista etäisyyttä juuri tuosta ideasta.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 168,
+    "text": "Minulla on sairaus, joka estää kyllä-sanomisen. Sen nimi on terve järki.",
+    "tags": ["sarkastinen", "nokkela"]
+  },
+  {
+    "id": 169,
+    "text": "Lääkäri määräsi minulle enemmän E-vitamiinia. E niin kuin ei.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 170,
+    "text": "Minulla on akuutti Ei-tänään-tauti.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 171,
+    "text": "Henkisesti olen jo lomalla.",
+    "tags": []
+  },
+  {
+    "id": 172,
+    "text": "Minulle on määrätty vuodelepoa toistaiseksi. Lääkärini nimi on Tohtori Seuss.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 173,
+    "text": "Kärsin kroonisesta sitoutumiskammosta.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 174,
+    "text": "Olen tulossa kipeäksi johonkin. Sen nimi on laiskuus.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 175,
+    "text": "Minulla on sovittu tapaaminen tyynyn ja viltin kanssa.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 176,
+    "text": "Terapeuttini käski välttää asioita, jotka tekevät minut onnettomaksi. Luulen, että tämä kuuluu niihin.",
+    "tags": ["sarkastinen"]
+  },
+  {
+    "id": 177,
+    "text": "Minulla on meneillään henkilökohtainen hätätilanne nimeltä oma aika.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 178,
+    "text": "Minun täytyy pelastaa maailma tylsyydeltä pysymällä kotona.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 179,
+    "text": "Olen parhaillani maailmanrauhanneuvotteluissa. Tietokonepelissä.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 180,
+    "text": "Supersankariminäni tarvitsee vapaapäivän, ja niin tarvitsen minäkin.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 181,
+    "text": "Olen salaisella tehtävällä välttämässä juuri sitä asiaa, josta kysyit.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 182,
+    "text": "Tulisin mielelläni, mutta kuka pelastaa maailman sillä välin?",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 183,
+    "text": "Olen kiireinen järjestämässä maailmanlaajuisia päiväunia.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 184,
+    "text": "Minun täytyy estää sohvaa lentämästä karkuun. Kyseessä on tärkeä tehtävä.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 185,
+    "text": "Juuri syömäni sipsien kohtalo on käsissäni. En voi hylätä niitä.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 186,
+    "text": "Minut on nimitetty olohuoneen vartijaksi täksi päiväksi.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 187,
+    "text": "Taistelen kotona näkymätöntä lohikäärmettä vastaan. Siinä menee odotettua kauemmin.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 188,
+    "text": "Et oikeasti halua minua mukaan tähän. Erikoisalani on asioiden pilaaminen.",
+    "tags": ["sarkastinen", "nokkela"]
+  },
+  {
+    "id": 189,
+    "text": "Olen projekteille kuin musta kissa. Kaikille on turvallisempaa, jos pysyn poissa.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 190,
+    "text": "Usko pois, teen sinulle palveluksen sanomalla ei.",
+    "tags": ["sarkastinen"]
+  },
+  {
+    "id": 191,
+    "text": "Osallistumiseeni kuuluu varoitustarra, joten säästän sinut siltä.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 192,
+    "text": "Tulisin mielelläni, mutta olen oikeastaan erikoistunut nokkeliin kieltäytymisiin.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 193,
+    "text": "Olen itse asiassa tässä todella huono. Ellet tarvitse esimerkkiä siitä, miten ei kannata tehdä.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 194,
+    "text": "Ansaitset jonkun, joka sanoo kyllä ilman kolmea tekosyytä ensin.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 195,
+    "text": "Historiani perusteella minun kannattaa jättää tämä väliin.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 196,
+    "text": "Olen väärä henkilö tähän tehtävään, mutta juuri oikea henkilö sanomaan ei.",
+    "tags": ["nokkela"]
+  },
+  {
+    "id": 197,
+    "text": "Jos tarvitset jonkun sabotoimaan kaiken, olen täydellinen. Muuten jätän väliin.",
+    "tags": ["sarkastinen", "nokkela"]
+  },
+  {
+    "id": 198,
+    "text": "Onnenkeksini sanoi kirjaimellisesti 'ei' eilen illalla.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 199,
+    "text": "Ennustus kertoi, että kieltäytyisin juuri tästä.",
+    "tags": ["absurdi", "nokkela"]
+  },
+  {
+    "id": 200,
+    "text": "Kaikki tarot-korttini huokaisivat yhteen ääneen, kun tämä tuli puheeksi.",
+    "tags": ["absurdi", "nokkela"]
+  }
+]

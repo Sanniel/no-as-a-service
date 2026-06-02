@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "text": "En otra etapa de mi vida quizá habría dicho que sí, pero ahora mismo no.",
+    "tags": ["Profissional", "Gentil"]
+  },
+  {
+    "id": 2,
+    "text": "Lo agradezco, pero no es algo a lo que pueda comprometerme.",
+    "tags": ["Profissional", "Gentil"]
+  },
+  {
+    "id": 3,
+    "text": "Cada vez que lo pienso, escucho un pequeño 'no' flotando en el viento.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 4,
+    "text": "Mi yo del futuro me dejó una nota: 'Por favor, no vuelvas a hacer esto'.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 5,
+    "text": "Suena interesante, pero probablemente no soy la persona adecuada para esto.",
+    "tags": ["Profissional", "Gentil"]
+  },
+  {
+    "id": 6,
+    "text": "Gracias por pensar en mí, pero ahora mismo esto no encaja conmigo.",
+    "tags": ["Profissional", "Gentil"]
+  },
+  {
+    "id": 7,
+    "text": "Me encantaría decir que sí, pero acabo de prometerme tomar menos decisiones cuestionables esta semana.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 8,
+    "text": "Aprecio la propuesta, pero no puedo comprometerme con esto.",
+    "tags": ["Profissional", "Gentil"]
+  },
+  {
+    "id": 9,
+    "text": "Estoy intentando ser más selectivo con las cosas a las que digo que sí, y esto no termina de encajar.",
+    "tags": ["Profissional", "Gentil"]
+  },
+  {
+    "id": 10,
+    "text": "Prefiero ser sincero. No me siento cómodo comprometiéndome con esto.",
+    "tags": ["Profissional", "Gentil"]
+  },
+  {
+    "id": 11,
+    "text": "Tengo que confiar en mi intuición, y me está sugiriendo amablemente un no.",
+    "tags": []
+  },
+  {
+    "id": 12,
+    "text": "Decir no a esto me permite decir sí a algo que es más importante para mí.",
+    "tags": ["Profissional"]
+  },
+  {
+    "id": 13,
+    "text": "Si dijera que sí, estaría mintiéndonos a los dos, y mi terapeuta me pidió que dejara de hacerlo.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 14,
+    "text": "Voy a rechazarlo con respeto. No encaja con la dirección que estoy tomando.",
+    "tags": ["Profissional"]
+  },
+  {
+    "id": 15,
+    "text": "Esta oportunidad merece más de lo que puedo ofrecerle en este momento.",
+    "tags": ["Profissional", "Gentil"]
+  },
+  {
+    "id": 16,
+    "text": "No odio la idea, pero tampoco tengo ganas de hacerlo.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 17,
+    "text": "Ahora mismo no estoy en posición de asumir este compromiso.",
+    "tags": ["Profissional", "Gentil"]
+  },
+  {
+    "id": 18,
+    "text": "He aprendido a decir no a las cosas que no me aportan energía.",
+    "tags": ["Profissional"]
+  },
+  {
+    "id": 19,
+    "text": "Hasta mi calendario se rio cuando intenté hacerle hueco.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 20,
+    "text": "He decidido no asumir nuevos compromisos por el momento.",
+    "tags": ["Profissional", "Gentil"]
+  },
+  {
+    "id": 21,
+    "text": "Esto tiene toda la pinta de algo por lo que mi yo del futuro me echaría una buena bronca.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 22,
+    "text": "Ya he intentado abarcar demasiado antes, y esto me da una fuerte sensación de déjà vu.",
+    "tags": ["Profissional"]
+  },
+  {
+    "id": 23,
+    "text": "Has puesto mucho esfuerzo en esto, y espero que entiendas mi decisión de dar un paso al lado.",
+    "tags": ["Profissional", "Gentil"]
+  },
+  {
+    "id": 24,
+    "text": "Es una idea fantástica. Para otra persona.",
+    "tags": ["Sarcástico", "Espirituoso"]
+  },
+  {
+    "id": 25,
+    "text": "La versión de mí que habría dicho que sí a esto ya no existe.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 26,
+    "text": "Hasta mi café me dijo esta mañana: 'Hoy no'.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 27,
+    "text": "Mi comité interno de paz rechazó esta idea por unanimidad.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 28,
+    "text": "Sé lo mucho que esto significa para ti, pero no puedo darle la atención que merece.",
+    "tags": ["Profissional", "Gentil"]
+  },
+  {
+    "id": 29,
+    "text": "Me imaginé haciéndolo y me quedé dormido a mitad de la fantasía.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 30,
+    "text": "Mentalmente ya he abandonado la sala donde tendría lugar esto.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 31,
+    "text": "Esto no encaja ni con mis valores ni con mis prioridades actuales.",
+    "tags": ["Profissional"]
+  },
+  {
+    "id": 32,
+    "text": "Esta decisión no tiene que ver contigo, sino con mis propios límites.",
+    "tags": ["Profissional", "Gentil"]
+  },
+  {
+    "id": 33,
+    "text": "Agradezco la oportunidad, pero conozco mis límites y esto los llevaría demasiado lejos.",
+    "tags": ["Profissional", "Gentil"]
+  },
+  {
+    "id": 34,
+    "text": "Si aceptara esto, estaría traicionando el tiempo que me prometí reservar para mí.",
+    "tags": ["Profissional"]
+  },
+  {
+    "id": 35,
+    "text": "Tomé una decisión parecida una vez y mi gato no me ha vuelto a mirar a los ojos desde entonces. Mejor no repetir la historia.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 36,
+    "text": "Si acepto esto, voy a tener que clonarme. Y sinceramente, no confío en mi clon.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 37,
+    "text": "No termina de parecerme lo correcto, así que tendré que rechazarlo.",
+    "tags": ["Profissional", "Gentil"]
+  },
+  {
+    "id": 38,
+    "text": "Prefiero decir un no sincero que un sí lleno de resentimiento.",
+    "tags": ["Profissional", "Gentil"]
+  },
+  {
+    "id": 39,
+    "text": "Gracias por pensar en mí, pero esta vez voy a pasar.",
+    "tags": ["Profissional", "Gentil"]
+  },
+  {
+    "id": 40,
+    "text": "Lo he pensado y creo que lo mejor para mí es rechazarlo por ahora.",
+    "tags": ["Profissional", "Gentil"]
+  },
+  {
+    "id": 41,
+    "text": "Nuestra relación significa mucho para mí, y espero que mi negativa no cambie eso.",
+    "tags": ["Profissional", "Gentil"]
+  },
+  {
+    "id": 42,
+    "text": "No es un no para siempre, pero sí es un no por ahora.",
+    "tags": ["Profissional"]
+  },
+  {
+    "id": 43,
+    "text": "Las ganas son reales, pero mi disponibilidad es pura ficción.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 44,
+    "text": "Ahora mismo no tengo la capacidad de dedicarle la atención que merece.",
+    "tags": ["Profissional"]
+  },
+  {
+    "id": 45,
+    "text": "He aprendido a proteger mi tiempo, y esto no encaja con cómo quiero emplearlo.",
+    "tags": ["Profissional"]
+  },
+  {
+    "id": 46,
+    "text": "Ahora mismo no es algo que pueda priorizar.",
+    "tags": ["Profissional", "Gentil"]
+  },
+  {
+    "id": 47,
+    "text": "Si dijera que sí a esto, el universo podría colapsar de la sorpresa.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 48,
+    "text": "Aceptar esto podría dañar seriamente el tejido del espacio-tiempo.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 49,
+    "text": "Esto podría provocar una paradoja temporal. Prefiero no correr ese riesgo.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 50,
+    "text": "No puedo. Estoy ocupado evitando un futuro en el que realmente diga que sí.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 51,
+    "text": "Mi agenda está perfectamente alineada con Júpiter en este momento, y las estrellas dicen que no.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 52,
+    "text": "Estoy bastante seguro de que decir que sí está prohibido en esta galaxia.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 53,
+    "text": "El multiverso jamás me perdonaría si aceptara esto.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 54,
+    "text": "Todas las líneas temporales en las que digo que sí terminan en caos, así que prefiero tomar una decisión sabia.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 55,
+    "text": "Aceptar esto sería como dividir entre cero. Peligroso y nada recomendable.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 56,
+    "text": "Si acepto esto, voy a provocar un fallo en Matrix.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 57,
+    "text": "Tengo la próxima década reservada para fingir que soy productivo.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 58,
+    "text": "Te ayudaría, pero ahora mismo estoy ocupado contando placas del techo.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 59,
+    "text": "Lo siento, estoy organizando mis calcetines por color y estado de ánimo.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 60,
+    "text": "Tengo una cita con mi sofá y no acepta cancelaciones.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 61,
+    "text": "Mi agenda me reservó ese momento para contemplar el vacío.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 62,
+    "text": "Mi calendario está completo. Estoy ordenando mis snacks por orden alfabético.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 63,
+    "text": "Tengo que terminar un proyecto muy exigente llamado 'no hacer absolutamente nada'.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 64,
+    "text": "Ya tengo planes para ver secarse la pintura.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 65,
+    "text": "Estoy entrenando para el campeonato mundial de procrastinación.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 66,
+    "text": "No puedo. Tengo que asistir a la gran inauguración de mi nevera.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 67,
+    "text": "Te ayudaría, pero mi amigo imaginario me necesita más.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 68,
+    "text": "No puedo. Mi piedra mascota está atravesando una crisis emocional.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 69,
+    "text": "Mi pez dorado se casa ese día, así que tengo que asistir.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 70,
+    "text": "Le prometí a mi gato imaginario que me quedaría en casa esta noche.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 71,
+    "text": "Mi unicornio protector cree que esto es una mala idea.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 72,
+    "text": "Tengo que cuidar a los hijos imaginarios de mi amigo imaginario.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 73,
+    "text": "Lo siento, me apunté como catador oficial de la nueva dieta de mi mascota.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 74,
+    "text": "Mi dragón mascota tiene cita con el veterinario y no puedo faltar.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 75,
+    "text": "Mi loro me ha castigado sin salir de casa por mal comportamiento, así que no puedo ir.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 76,
+    "text": "Le presté mi máquina del tiempo a un amigo, así que no puedo volver atrás para liberar la tarde.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 77,
+    "text": "He jurado solemnemente evitar cualquier forma de productividad.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 78,
+    "text": "Va en contra de mi religión personal hacer algo útil hoy.",
+    "tags": ["Sarcástico", "Espirituoso"]
+  },
+  {
+    "id": 79,
+    "text": "Mi terapeuta me recomendó evitar actividades que pudieran resultar divertidas por accidente.",
+    "tags": ["Sarcástico", "Espirituoso"]
+  },
+  {
+    "id": 80,
+    "text": "Hice un juramento de rechazar solicitudes al azar.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 81,
+    "text": "Ahora mismo funciono únicamente a base de café y negación, y se me ha acabado el café.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 82,
+    "text": "Soy alérgico a cualquier forma de responsabilidad.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 83,
+    "text": "Tengo un certificado médico que me prohíbe expresamente ayudar.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 84,
+    "text": "Me gustaría ayudar, pero estoy intentando romper mi racha de ser útil.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 85,
+    "text": "Mi entrenador de procrastinación dice que todavía no estoy preparado para tareas reales.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 86,
+    "text": "He renunciado a decir que sí durante la Cuaresma, y todavía no ha terminado.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 87,
+    "text": "Tengo una norma personal: decir no todos los días que terminan en una letra.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 88,
+    "text": "La app de mi calendario acaba de llevarse las manos a la cara cuando consideré esta idea.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 89,
+    "text": "Primero tengo que actualizar mi estado a 'ocupado no haciendo exactamente eso'.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 90,
+    "text": "Todas las señales apuntan claramente hacia un no.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 91,
+    "text": "No puedo. Le prometí a Netflix que me quedaría en casa.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 92,
+    "text": "El wifi de mi motivación ha perdido la conexión.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 93,
+    "text": "Estoy esperando a que mi móvil se cargue al cien por cien. Hasta entonces no puedo hacer nada.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 94,
+    "text": "Mi biografía dice 'dice que no con frecuencia', así que tengo que ser fiel a la marca.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 95,
+    "text": "Ahora mismo estoy ocupado buscando motivación en internet. Sin éxito por el momento.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 96,
+    "text": "Me perdí en una madriguera de internet y ya no encuentro la salida.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 97,
+    "text": "No puedo ir. Tengo una reunión por Zoom con mi sofá.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 98,
+    "text": "Me gustaría, pero prefiero no hacerlo.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 99,
+    "text": "Mi respuesta es un no recién horneado, preparado especialmente para ti.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 100,
+    "text": "Lo he pensado detenidamente y he llegado a un no firme y decidido.",
+    "tags": []
+  },
+  {
+    "id": 101,
+    "text": "Ni siquiera por donuts gratis.",
+    "tags": []
+  },
+  {
+    "id": 102,
+    "text": "Esta es la parte en la que yo digo que no y ambos seguimos con nuestras vidas.",
+    "tags": []
+  },
+  {
+    "id": 103,
+    "text": "Déjame revisar mi calendario... qué curioso, aquí pone un no permanente.",
+    "tags": ["Sarcástico"]
+  },
+  {
+    "id": 104,
+    "text": "Me halaga que hayas pensado en mí, pero voy a rechazarlo con estilo.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 105,
+    "text": "Ya he agotado mi cupo anual de síes.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 106,
+    "text": "Soy demasiado genial para decir que sí a eso.",
+    "tags": ["Sarcástico"]
+  },
+  {
+    "id": 107,
+    "text": "Como dice el dicho: no, no y mil veces no.",
+    "tags": ["Sarcástico"]
+  },
+  {
+    "id": 108,
+    "text": "En realidad no quieres que diga que sí. Créeme, esto es mejor para todos.",
+    "tags": ["Sarcástico", "Espirituoso"]
+  },
+  {
+    "id": 109,
+    "text": "La última vez que dije que sí, llovió durante cuarenta días seguidos. No pienso arriesgarme otra vez.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 110,
+    "text": "Le prometí a mi yo del futuro que diría exactamente que no a esto.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 111,
+    "text": "Si aceptara esto, tendría que explicárselo a mi terapeuta más adelante.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 112,
+    "text": "Mis experiencias anteriores diciendo que sí fueron bastante traumáticas.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 113,
+    "text": "Decir que sí está actualmente en mi lista de hábitos que intento abandonar.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 114,
+    "text": "Podría aceptar, pero entonces tendría que admitir que estaba equivocado al decir que odio todo.",
+    "tags": ["Sarcástico", "Espirituoso"]
+  },
+  {
+    "id": 115,
+    "text": "El universo me envió una señal clarísima para decir que no. Era un cartel luminoso gigante.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 116,
+    "text": "Una vez dije que sí. No acabó bien. Hubo llamas involucradas.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 117,
+    "text": "Mi intuición y yo hicimos una votación. El no ganó por unanimidad.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 118,
+    "text": "Suena como una oportunidad fantástica... para otra persona.",
+    "tags": ["Sarcástico", "Espirituoso"]
+  },
+  {
+    "id": 119,
+    "text": "¡Qué idea tan fantástica! Qué pena que no pueda participar. Bueno, en realidad tampoco tanta pena.",
+    "tags": ["Sarcástico"]
+  },
+  {
+    "id": 120,
+    "text": "Envidio sinceramente a quienes vayan a decir que sí a esto.",
+    "tags": ["Sarcástico"]
+  },
+  {
+    "id": 121,
+    "text": "Me gusta mucho la idea, pero esta vez voy a dejarlo pasar.",
+    "tags": ["Profissional", "Gentil"]
+  },
+  {
+    "id": 122,
+    "text": "¡Plan brillante! Por desgracia, estoy en un programa de protección de testigos para buenas ideas.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 123,
+    "text": "Sería un sueño hecho realidad. Lástima que esté despierto para decir que no.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 124,
+    "text": "Lo has pintado tan bien que prefiero admirarlo desde la distancia.",
+    "tags": ["Gentil", "Espirituoso"]
+  },
+  {
+    "id": 125,
+    "text": "¡Qué oferta tan generosa! La rechazo con la misma generosidad.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 126,
+    "text": "Estoy seguro de que será un gran éxito, pero prefiero admirarlo desde la barrera.",
+    "tags": ["Gentil", "Espirituoso"]
+  },
+  {
+    "id": 127,
+    "text": "¡Suena emocionante! Ya me he cansado solo de pensarlo.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 128,
+    "text": "Ya me he puesto el pijama, así que la respuesta es no.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 129,
+    "text": "Mi sofá ha impuesto una prohibición de viajar, y yo respeto las normas.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 130,
+    "text": "Ni siquiera puedo salir de mi cómodo burrito de manta.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 131,
+    "text": "Estoy reservando energías para una siesta legendaria.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 132,
+    "text": "Soy demasiado perezoso para inventarme una buena excusa, así que simplemente no.",
+    "tags": ["Sarcástico"]
+  },
+  {
+    "id": 133,
+    "text": "Salir de este lugar requiere un preaviso de veinticuatro horas.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 134,
+    "text": "Hoy estoy ahorrando energía sin ningún motivo en particular.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 135,
+    "text": "Podría hacerlo, pero suena a esfuerzo, y soy alérgico a eso.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 136,
+    "text": "Actualmente estoy experimentando problemas técnicos para levantarme e irme.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 137,
+    "text": "Estoy entrenando para un maratón en el que no se utiliza ni un solo músculo.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 138,
+    "text": "Tengo que encontrar un momento para lavarme el pelo antes de que termine la década.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 139,
+    "text": "Tengo que descongelar el iceberg que se ha formado en mi congelador.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 140,
+    "text": "Por desgracia, esa noche tengo que planchar mi ropa interior.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 141,
+    "text": "Tengo que ocuparme de mi jardín de flores de plástico.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 142,
+    "text": "Tengo que sacar a pasear a mi pez, y eso es prioritario.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 143,
+    "text": "Por desgracia, tengo que cambiar las ruedas de mi silla de oficina.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 144,
+    "text": "Estoy viendo un maratón en el que hago tareas domésticas únicamente en mi imaginación.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 145,
+    "text": "Los platos han amenazado con rebelarse si vuelvo a ignorarlos.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 146,
+    "text": "Mi frigorífico y yo tenemos terapia de pareja a esa hora.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 147,
+    "text": "Tengo que cancelar porque estoy reorganizando mi colección de calcetines.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 148,
+    "text": "En un universo alternativo ya lo hice. En este no.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 149,
+    "text": "Quizá me lo plantee en otra vida, pero esta versión de mí dice que no.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 150,
+    "text": "En un universo paralelo ya estoy haciéndolo. Lástima que estemos en este.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 151,
+    "text": "Le pregunté a mi otro yo. También dijo que no.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 152,
+    "text": "Si me clono, enviaré al clon. Hasta entonces, la respuesta es no.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 153,
+    "text": "Consulté a mi yo del futuro y lo único que hizo fue poner los ojos en blanco. Paso.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 154,
+    "text": "Estoy atrapado en un bucle temporal en el que no dejo de decir que no.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 155,
+    "text": "En una línea temporal alternativa dije que sí, y aquello provocó un apocalipsis zombi.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 156,
+    "text": "Puede que mi gemelo malvado estuviera interesado. Lástima que también esté ocupado.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 157,
+    "text": "En un universo paralelo soy mucho más servicial. Este no es ese universo.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 158,
+    "text": "Podría hacerlo, pero se parece sospechosamente al trabajo.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 159,
+    "text": "Mi motivación para esto está actualmente en coma.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 160,
+    "text": "Estoy bastante seguro de que lo arruinaría de forma espectacular, así que mejor evitarlo.",
+    "tags": ["Sarcástico"]
+  },
+  {
+    "id": 161,
+    "text": "Podría participar, pero entonces ¿quién se encargaría de sostener esta pared?",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 162,
+    "text": "Esta petición está muy por encima de mi salario actual de exactamente cero euros.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 163,
+    "text": "Las ganas están ahí, pero mi calendario dice que no.",
+    "tags": ["Profissional", "Espirituoso"]
+  },
+  {
+    "id": 164,
+    "text": "Hoy no tengo ninguna intención de desafiar al destino probando algo nuevo.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 165,
+    "text": "Si participo, probablemente solo conseguiré bajar la media.",
+    "tags": ["Sarcástico", "Espirituoso"]
+  },
+  {
+    "id": 166,
+    "text": "¿Yo haciendo eso? Sería un giro argumental que nadie pidió.",
+    "tags": ["Sarcástico", "Espirituoso"]
+  },
+  {
+    "id": 167,
+    "text": "Ahora mismo estoy manteniendo una distancia prudencial exactamente de esta idea.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 168,
+    "text": "Padezco una afección que me impide decir que sí. Se llama sentido común.",
+    "tags": ["Sarcástico", "Espirituoso"]
+  },
+  {
+    "id": 169,
+    "text": "Mi médico me recetó más vitamina N. N de no.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 170,
+    "text": "Estoy sufriendo un caso agudo de 'hoy no'.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 171,
+    "text": "Mentalmente ya estoy de vacaciones.",
+    "tags": []
+  },
+  {
+    "id": 172,
+    "text": "Me han recetado reposo absoluto por el momento. Mi médico se llama Dr. Seuss.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 173,
+    "text": "Sufro un caso crónico de miedo al compromiso.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 174,
+    "text": "Creo que me estoy poniendo enfermo. La enfermedad se llama pereza.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 175,
+    "text": "Ya tengo una cita con una almohada y una manta.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 176,
+    "text": "Mi terapeuta me dijo que evitara las cosas que me hacen infeliz. Creo que esto entra en esa categoría.",
+    "tags": ["Sarcástico"]
+  },
+  {
+    "id": 177,
+    "text": "Ahora mismo tengo una emergencia personal llamada tiempo para mí.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 178,
+    "text": "Tengo que salvar al mundo del aburrimiento quedándome en casa.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 179,
+    "text": "Estoy en medio de unas negociaciones de paz mundial. En un videojuego.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 180,
+    "text": "Mi alter ego de superhéroe necesita un día libre. Y yo también.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 181,
+    "text": "Estoy en una misión secreta para evitar exactamente lo que me estás proponiendo.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 182,
+    "text": "Me encantaría ir, pero entonces ¿quién salvaría el mundo mientras tanto?",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 183,
+    "text": "Estoy ocupado organizando una campaña mundial de siestas.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 184,
+    "text": "Tengo que impedir que mi sofá salga volando. Es una labor importante.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 185,
+    "text": "El destino de las patatas fritas que voy a comer está en mis manos. No puedo abandonarlas.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 186,
+    "text": "Hoy he sido nombrado oficialmente guardián del salón.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 187,
+    "text": "Estoy luchando contra un dragón invisible en casa. Está llevando más tiempo del esperado.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 188,
+    "text": "De verdad que no me quieres en esto. Mi especialidad es arruinar las cosas.",
+    "tags": ["Sarcástico", "Espirituoso"]
+  },
+  {
+    "id": 189,
+    "text": "Para los proyectos soy como un gato negro. Todos estarán más seguros si me mantengo alejado.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 190,
+    "text": "Créeme, te estoy haciendo un favor al decir que no.",
+    "tags": ["Sarcástico"]
+  },
+  {
+    "id": 191,
+    "text": "Mi participación viene con una etiqueta de advertencia. Prefiero ahorrártelo.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 192,
+    "text": "Me encantaría participar, pero en realidad me especializo en rechazos creativos.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 193,
+    "text": "La verdad es que soy bastante malo en esto. A menos que necesites un ejemplo de cómo no hacerlo.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 194,
+    "text": "Te mereces a alguien que diga que sí sin inventarse tres excusas antes.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 195,
+    "text": "Mi historial sugiere que sería mejor que me lo saltara.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 196,
+    "text": "Soy la persona equivocada para esta tarea, pero la persona perfecta para decir que no.",
+    "tags": ["Espirituoso"]
+  },
+  {
+    "id": 197,
+    "text": "Si necesitas a alguien que lo sabotee todo, soy perfecto. Si no, mejor paso.",
+    "tags": ["Sarcástico", "Espirituoso"]
+  },
+  {
+    "id": 198,
+    "text": "Anoche mi galleta de la suerte dijo literalmente 'no'.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 199,
+    "text": "La profecía predijo exactamente que rechazaría esto.",
+    "tags": ["Absurdo", "Espirituoso"]
+  },
+  {
+    "id": 200,
+    "text": "Todas mis cartas del tarot soltaron un suspiro colectivo cuando surgió este tema.",
+    "tags": ["Absurdo", "Espirituoso"]
+  }
+]

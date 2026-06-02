@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "text": "Numa fase diferente da minha vida, talvez eu dissesse sim, mas não agora.",
+    "tags": ["Profesional", "Amable"]
+  },
+  {
+    "id": 2,
+    "text": "Agradeço o convite, mas não é algo com que eu possa me comprometer.",
+    "tags": ["Profesional", "Amable"]
+  },
+  {
+    "id": 3,
+    "text": "Sempre que penso nisso, ouço um pequeno 'não' soprando ao vento.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 4,
+    "text": "Meu eu do futuro deixou um bilhete: 'Por favor, não faça isso de novo.'",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 5,
+    "text": "Parece interessante, mas provavelmente não sou a pessoa certa para isso.",
+    "tags": ["Profesional", "Amable"]
+  },
+  {
+    "id": 6,
+    "text": "Obrigado por pensar em mim, mas isso não parece certo para mim neste momento.",
+    "tags": ["Profesional", "Amable"]
+  },
+  {
+    "id": 7,
+    "text": "Eu adoraria dizer sim, mas acabei de prometer a mim mesmo tomar menos decisões questionáveis esta semana.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 8,
+    "text": "Agradeço a proposta, mas não posso assumir esse compromisso.",
+    "tags": ["Profesional", "Amable"]
+  },
+  {
+    "id": 9,
+    "text": "Estou tentando ser mais cuidadoso com as coisas para as quais digo sim, e isso não se encaixa muito bem.",
+    "tags": ["Profesional", "Amable"]
+  },
+  {
+    "id": 10,
+    "text": "Prefiro ser honesto. Não me sinto confortável em me comprometer com isso.",
+    "tags": ["Profesional", "Amable"]
+  },
+  {
+    "id": 11,
+    "text": "Preciso confiar na minha intuição, e ela está sugerindo gentilmente um não.",
+    "tags": []
+  },
+  {
+    "id": 12,
+    "text": "Dizer não a isso me permite dizer sim a algo que importa mais para mim.",
+    "tags": ["Profesional"]
+  },
+  {
+    "id": 13,
+    "text": "Se eu dissesse sim, estaria mentindo para nós dois, e meu terapeuta pediu que eu parasse com isso.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 14,
+    "text": "Vou recusar com respeito. Isso não está alinhado com o caminho que estou seguindo.",
+    "tags": ["Profesional"]
+  },
+  {
+    "id": 15,
+    "text": "Esta oportunidade merece mais do que posso oferecer neste momento.",
+    "tags": ["Profesional", "Amable"]
+  },
+  {
+    "id": 16,
+    "text": "Não odeio a ideia, mas também não quero fazê-la.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 17,
+    "text": "Neste momento, não estou em posição de assumir esse compromisso.",
+    "tags": ["Profesional", "Amable"]
+  },
+  {
+    "id": 18,
+    "text": "Aprendi a ficar em paz com dizer não às coisas que não me dão energia.",
+    "tags": ["Profesional"]
+  },
+  {
+    "id": 19,
+    "text": "Até a minha agenda riu quando tentei encaixar isso nela.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 20,
+    "text": "Decidi não assumir novos compromissos por enquanto.",
+    "tags": ["Profesional", "Amable"]
+  },
+  {
+    "id": 21,
+    "text": "Isso parece exatamente o tipo de coisa pela qual meu eu do futuro me daria uma bronca.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 22,
+    "text": "Já tentei fazer coisas demais ao mesmo tempo antes, e isso está me dando uma forte sensação de déjà vu.",
+    "tags": ["Profesional"]
+  },
+  {
+    "id": 23,
+    "text": "Você colocou muita energia nisso, e espero que entenda minha decisão de dar um passo para trás.",
+    "tags": ["Profesional", "Amable"]
+  },
+  {
+    "id": 24,
+    "text": "Ótima ideia. Para outra pessoa.",
+    "tags": ["Sarcástico", "Ingenioso"]
+  },
+  {
+    "id": 25,
+    "text": "A versão de mim que diria sim para isso não existe mais.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 26,
+    "text": "Até o meu café disse: 'Hoje não.'",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 27,
+    "text": "Meu comitê interno da paz rejeitou essa ideia por unanimidade.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 28,
+    "text": "Sei o quanto isso significa para você, mas não posso dedicar a atenção que merece.",
+    "tags": ["Profesional", "Amable"]
+  },
+  {
+    "id": 29,
+    "text": "Imaginei-me fazendo isso e adormeci no meio da fantasia.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 30,
+    "text": "Mentalmente, já saí da sala onde isso aconteceria.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 31,
+    "text": "Isso não está alinhado nem com meus valores nem com meu foco atual.",
+    "tags": ["Profesional"]
+  },
+  {
+    "id": 32,
+    "text": "Esta decisão não tem a ver com você, mas com os meus próprios limites.",
+    "tags": ["Profesional", "Amable"]
+  },
+  {
+    "id": 33,
+    "text": "Agradeço a oportunidade, mas conheço meus limites, e isso os levaria longe demais.",
+    "tags": ["Profesional", "Amable"]
+  },
+  {
+    "id": 34,
+    "text": "Se eu aceitasse isso, estaria traindo o tempo que prometi dedicar a mim mesmo.",
+    "tags": ["Profesional"]
+  },
+  {
+    "id": 35,
+    "text": "Tomei uma decisão parecida uma vez, e meu gato nunca mais me olhou nos olhos. Melhor não repetir a história.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 36,
+    "text": "Se eu concordar com isso, vou precisar me clonar. E, sinceramente, não confio no meu clone.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 37,
+    "text": "Isso não me parece totalmente certo, então vou precisar recusar.",
+    "tags": ["Profesional", "Amable"]
+  },
+  {
+    "id": 38,
+    "text": "Prefiro dizer não com honestidade do que dizer sim com ressentimento.",
+    "tags": ["Profesional", "Amable"]
+  },
+  {
+    "id": 39,
+    "text": "Obrigado por lembrar de mim, mas vou passar desta vez.",
+    "tags": ["Profesional", "Amable"]
+  },
+  {
+    "id": 40,
+    "text": "Pensei bastante sobre isso e concluí que o melhor é recusar por enquanto.",
+    "tags": ["Profesional", "Amable"]
+  },
+  {
+    "id": 41,
+    "text": "Nossa relação significa muito para mim, e espero que meu não não mude isso.",
+    "tags": ["Profesional", "Amable"]
+  },
+  {
+    "id": 42,
+    "text": "Não é um não para sempre, mas é um não por enquanto.",
+    "tags": ["Profesional"]
+  },
+  {
+    "id": 43,
+    "text": "O entusiasmo é real, mas a minha disponibilidade é pura ficção.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 44,
+    "text": "No momento, não tenho capacidade para dar a isso a atenção que merece.",
+    "tags": ["Profesional"]
+  },
+  {
+    "id": 45,
+    "text": "Aprendi a proteger meu tempo, e isso não combina com a forma como quero usá-lo.",
+    "tags": ["Profesional"]
+  },
+  {
+    "id": 46,
+    "text": "Isso não é algo que eu possa priorizar neste momento.",
+    "tags": ["Profesional", "Amable"]
+  },
+  {
+    "id": 47,
+    "text": "Se eu dissesse sim para isso, o universo poderia entrar em colapso de surpresa.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 48,
+    "text": "Aceitar isso pode causar danos irreparáveis ao tecido do espaço-tempo.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 49,
+    "text": "Isso pode acabar criando um paradoxo temporal. Prefiro não correr esse risco.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 50,
+    "text": "Não posso. Estou ocupado impedindo um futuro em que eu realmente diga sim.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 51,
+    "text": "Minha agenda está perfeitamente alinhada com Júpiter neste momento, e as estrelas dizem não.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 52,
+    "text": "Tenho quase certeza de que dizer sim é proibido nesta galáxia.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 53,
+    "text": "O multiverso jamais me perdoaria se eu aceitasse isso.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 54,
+    "text": "Todas as linhas do tempo em que eu digo sim terminam em caos, então prefiro fazer a escolha sensata.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 55,
+    "text": "Aceitar isso seria como dividir por zero. Perigoso e altamente desaconselhável.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 56,
+    "text": "Se eu disser sim para isso, vou causar uma falha na Matrix.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 57,
+    "text": "Estou ocupado pelos próximos dez anos fingindo ser produtivo.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 58,
+    "text": "Eu ajudaria, mas estou ocupado contando placas do teto.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 59,
+    "text": "Infelizmente, estou organizando minha gaveta de meias por cor e estado de espírito.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 60,
+    "text": "Tenho um compromisso com meu sofá, e ele não aceita cancelamentos.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 61,
+    "text": "Minha agenda reservou exatamente esse horário para eu ficar encarando o vazio.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 62,
+    "text": "Minha agenda está lotada. Estou colocando meus salgadinhos em ordem alfabética.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 63,
+    "text": "Preciso concluir urgentemente um projeto muito exigente chamado 'não fazer absolutamente nada'.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 64,
+    "text": "Já tenho planos para assistir tinta secar.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 65,
+    "text": "Estou treinando para o campeonato mundial de procrastinação.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 66,
+    "text": "Não posso. Preciso comparecer à inauguração oficial da minha geladeira.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 67,
+    "text": "Eu ajudaria, mas meu amigo imaginário precisa mais de mim.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 68,
+    "text": "Não posso. Minha pedra de estimação está passando por uma crise emocional.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 69,
+    "text": "Meu peixinho dourado vai se casar nesse dia, então preciso estar presente.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 70,
+    "text": "Prometi ao meu gato imaginário que ficaria em casa esta noite.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 71,
+    "text": "Meu unicórnio protetor acha que isso é uma péssima ideia.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 72,
+    "text": "Preciso cuidar dos filhos imaginários do meu amigo imaginário.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 73,
+    "text": "Infelizmente, me ofereci para ser degustador oficial da nova dieta do meu animal de estimação.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 74,
+    "text": "Meu dragão de estimação tem consulta no veterinário, e eu não posso faltar.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 75,
+    "text": "Meu papagaio me colocou de castigo por mau comportamento, então não posso ir.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 76,
+    "text": "Emprestei minha máquina do tempo a um amigo, então não posso voltar para liberar minha tarde.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 77,
+    "text": "Fiz um juramento solene de evitar qualquer forma de produtividade.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 78,
+    "text": "Vai contra minha religião pessoal fazer algo útil hoje.",
+    "tags": ["Sarcástico", "Ingenioso"]
+  },
+  {
+    "id": 79,
+    "text": "Meu terapeuta recomendou que eu evitasse atividades que possam acabar sendo divertidas.",
+    "tags": ["Sarcástico", "Ingenioso"]
+  },
+  {
+    "id": 80,
+    "text": "Jurei rejeitar pedidos aleatórios sem motivo aparente.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 81,
+    "text": "No momento, estou funcionando apenas à base de café e negação, e o café acabou.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 82,
+    "text": "Sou alérgico a qualquer tipo de responsabilidade.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 83,
+    "text": "Tenho um atestado médico que me proíbe expressamente de ajudar.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 84,
+    "text": "Eu adoraria ajudar, mas estou tentando encerrar minha sequência de boas ações.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 85,
+    "text": "Meu treinador de procrastinação diz que ainda não estou pronto para tarefas de verdade.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 86,
+    "text": "Desisti de dizer sim durante a Quaresma, e ela ainda não terminou.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 87,
+    "text": "Tenho uma regra pessoal de dizer não em todos os dias que terminam com uma letra.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 88,
+    "text": "Meu aplicativo de agenda acabou de fazer um facepalm quando cogitei essa ideia.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 89,
+    "text": "Primeiro preciso atualizar meu status para 'ocupado não fazendo exatamente isso'.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 90,
+    "text": "Todos os sinais apontam claramente para um não.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 91,
+    "text": "Não posso. Prometi à Netflix que ficaria em casa.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 92,
+    "text": "O Wi-Fi da minha motivação perdeu a conexão.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 93,
+    "text": "Estou esperando meu celular carregar completamente. Até lá, não posso fazer nada.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 94,
+    "text": "Minha bio diz 'costuma dizer não', então preciso manter a consistência da marca.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 95,
+    "text": "Estou ocupado pesquisando motivação na internet. Sem sucesso até agora.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 96,
+    "text": "Caí num buraco da internet e não consigo mais encontrar a saída.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 97,
+    "text": "Não posso ir. Tenho uma reunião no Zoom com meu sofá.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 98,
+    "text": "Eu até gostaria, mas prefiro não fazê-lo.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 99,
+    "text": "Minha resposta é um não recém-saído do forno, preparado especialmente para você.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 100,
+    "text": "Pensei cuidadosamente sobre isso e cheguei a um não firme e decidido.",
+    "tags": []
+  },
+  {
+    "id": 101,
+    "text": "Nem por donuts grátis.",
+    "tags": []
+  },
+  {
+    "id": 102,
+    "text": "Esta é a parte em que eu digo não e nós dois seguimos com nossas vidas.",
+    "tags": []
+  },
+  {
+    "id": 103,
+    "text": "Deixe-me consultar minha agenda... interessante, aqui está marcado um não permanente.",
+    "tags": ["Sarcástico", "Ingenioso"]
+  },
+  {
+    "id": 104,
+    "text": "Fico lisonjeado por você ter pensado em mim, mas vou recusar com estilo.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 105,
+    "text": "Já esgotei minha cota anual de sins.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 106,
+    "text": "Sou muito descolado para dizer sim a isso.",
+    "tags": ["Sarcástico"]
+  },
+  {
+    "id": 107,
+    "text": "Como diz o ditado: não, não e mais uma vez não.",
+    "tags": ["Sarcástico"]
+  },
+  {
+    "id": 108,
+    "text": "Você não quer mesmo que eu diga sim para isso. Acredite, é melhor para todo mundo.",
+    "tags": ["Sarcástico", "Ingenioso"]
+  },
+  {
+    "id": 109,
+    "text": "Da última vez que eu disse sim, choveu por quarenta dias seguidos. Não vou correr esse risco de novo.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 110,
+    "text": "Prometi ao meu eu do futuro que diria exatamente não para isso.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 111,
+    "text": "Se eu aceitasse isso, teria que explicar tudo ao meu terapeuta depois.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 112,
+    "text": "Minhas experiências anteriores com dizer sim foram traumáticas.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 113,
+    "text": "Dizer sim está atualmente na minha lista de hábitos dos quais estou tentando me livrar.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 114,
+    "text": "Eu poderia aceitar, mas aí teria que admitir que estava errado ao dizer que odeio tudo.",
+    "tags": ["Sarcástico", "Ingenioso"]
+  },
+  {
+    "id": 115,
+    "text": "O universo me enviou um sinal muito claro para dizer não. Era um enorme letreiro de neon.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 116,
+    "text": "Já disse sim uma vez. Não terminou nada bem. Havia lhamas envolvidas.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 117,
+    "text": "Minha intuição e eu fizemos uma votação. O não venceu por unanimidade.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 118,
+    "text": "Parece uma oportunidade fantástica... para outra pessoa.",
+    "tags": ["Sarcástico", "Ingenioso"]
+  },
+  {
+    "id": 119,
+    "text": "Que ideia fantástica! Que pena que eu não possa participar. Na verdade, nem tanta pena assim.",
+    "tags": ["Sarcástico"]
+  },
+  {
+    "id": 120,
+    "text": "Tenho inveja sincera das pessoas que vão dizer sim para isso.",
+    "tags": ["Sarcástico"]
+  },
+  {
+    "id": 121,
+    "text": "Gosto muito da ideia, mas vou deixar passar desta vez.",
+    "tags": ["Profesional", "Amable"]
+  },
+  {
+    "id": 122,
+    "text": "Plano brilhante! Infelizmente, estou atualmente em um programa de proteção para boas ideias.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 123,
+    "text": "Seria um sonho realizado. Pena que estou acordado para dizer não.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 124,
+    "text": "Você descreveu isso tão bem que prefiro admirar de longe.",
+    "tags": ["Amable", "Ingenioso"]
+  },
+  {
+    "id": 125,
+    "text": "Que oferta generosa! Vou recusá-la com a mesma generosidade.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 126,
+    "text": "Tenho certeza de que será um grande sucesso, mas prefiro admirar da arquibancada.",
+    "tags": ["Amable", "Ingenioso"]
+  },
+  {
+    "id": 127,
+    "text": "Parece emocionante! Já fiquei cansado só de pensar nisso.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 128,
+    "text": "Já coloquei meu pijama, então a resposta é não.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 129,
+    "text": "Meu sofá impôs uma proibição de viagens, e eu respeito as regras.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 130,
+    "text": "Nem consigo sair do meu confortável burrito de cobertor.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 131,
+    "text": "Estou guardando energia para um cochilo lendário.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 132,
+    "text": "Estou com preguiça demais para inventar uma boa desculpa, então simplesmente não.",
+    "tags": ["Sarcástico"]
+  },
+  {
+    "id": 133,
+    "text": "Sair deste lugar exige aviso prévio de vinte e quatro horas.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 134,
+    "text": "Hoje estou economizando energia sem nenhum motivo específico.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 135,
+    "text": "Eu até poderia, mas isso parece exigir esforço, e sou alérgico a esforço.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 136,
+    "text": "Estou enfrentando dificuldades técnicas para me levantar e sair.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 137,
+    "text": "Estou treinando para uma maratona que não exige o uso de nenhum músculo.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 138,
+    "text": "Preciso encontrar um momento para lavar o cabelo antes que a década termine.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 139,
+    "text": "Preciso descongelar o iceberg que se formou no meu congelador.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 140,
+    "text": "Infelizmente, tenho que passar minha roupa íntima naquela noite.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 141,
+    "text": "Preciso cuidar do meu jardim de flores de plástico.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 142,
+    "text": "Preciso passear com meu peixe, e isso tem prioridade.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 143,
+    "text": "Infelizmente, preciso trocar as rodinhas da minha cadeira de escritório.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 144,
+    "text": "Estou assistindo a uma maratona em que faço tarefas domésticas apenas na minha imaginação.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 145,
+    "text": "A louça ameaçou se rebelar se eu a ignorasse mais uma vez.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 146,
+    "text": "Minha geladeira e eu temos terapia de casal nesse horário.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 147,
+    "text": "Infelizmente, preciso cancelar porque estou reorganizando minha coleção de meias.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 148,
+    "text": "Em um universo alternativo, eu já fiz isso. Neste aqui, não.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 149,
+    "text": "Talvez eu considere isso em outra vida, mas esta versão de mim diz não.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 150,
+    "text": "Em um universo paralelo, eu já estou fazendo isso. Pena que estamos neste universo.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 151,
+    "text": "Perguntei ao meu eu alternativo. Ele também disse não.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 152,
+    "text": "Se eu me clonar, mando o clone. Até lá, a resposta é não.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 153,
+    "text": "Consultei meu eu do futuro, e ele apenas revirou os olhos. Vou passar.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 154,
+    "text": "Estou preso em um loop temporal no qual continuo dizendo não.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 155,
+    "text": "Em uma linha do tempo alternativa, eu disse sim e isso causou um apocalipse zumbi.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 156,
+    "text": "Meu gêmeo do mal talvez tivesse interesse. Pena que ele também está ocupado.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 157,
+    "text": "Em um universo paralelo, sou muito mais prestativo. Este não é esse universo.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 158,
+    "text": "Eu poderia, mas isso parece suspeitosamente trabalho.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 159,
+    "text": "Minha motivação para isso está atualmente em coma.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 160,
+    "text": "Tenho quase certeza de que conseguiria estragar tudo de forma espetacular, então é melhor evitar.",
+    "tags": ["Sarcástico"]
+  },
+  {
+    "id": 161,
+    "text": "Eu poderia participar, mas quem vai segurar esta parede enquanto isso?",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 162,
+    "text": "Este pedido está muito acima da minha faixa salarial atual de exatamente zero euros.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 163,
+    "text": "A vontade existe, mas minha agenda diz não.",
+    "tags": ["Profesional", "Ingenioso"]
+  },
+  {
+    "id": 164,
+    "text": "Hoje não estou disposto a desafiar o destino tentando algo novo.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 165,
+    "text": "Se eu participar, provavelmente só vou diminuir a média.",
+    "tags": ["Sarcástico", "Ingenioso"]
+  },
+  {
+    "id": 166,
+    "text": "Eu fazendo isso? Seria uma reviravolta que ninguém pediu.",
+    "tags": ["Sarcástico", "Ingenioso"]
+  },
+  {
+    "id": 167,
+    "text": "Estou mantendo distância estratégica exatamente desta ideia.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 168,
+    "text": "Sofro de uma condição que me impede de dizer sim. Ela se chama bom senso.",
+    "tags": ["Sarcástico", "Ingenioso"]
+  },
+  {
+    "id": 169,
+    "text": "Meu médico receitou mais vitamina N. N de não.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 170,
+    "text": "Estou sofrendo de um caso agudo de 'hoje não'.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 171,
+    "text": "Mentalmente, já estou de férias.",
+    "tags": []
+  },
+  {
+    "id": 172,
+    "text": "Receberam-me uma prescrição de repouso absoluto. Meu médico se chama Dr. Seuss.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 173,
+    "text": "Sofro de um caso crônico de medo de compromisso.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 174,
+    "text": "Acho que estou ficando doente. A doença se chama preguiça.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 175,
+    "text": "Já tenho um compromisso marcado com um travesseiro e um cobertor.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 176,
+    "text": "Meu terapeuta disse para eu evitar coisas que me deixam infeliz. Acho que isso se encaixa perfeitamente.",
+    "tags": ["Sarcástico"]
+  },
+  {
+    "id": 177,
+    "text": "Estou lidando com uma emergência pessoal chamada tempo para mim.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 178,
+    "text": "Preciso salvar o mundo do tédio ficando em casa.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 179,
+    "text": "Estou no meio de negociações de paz mundial. Em um videogame.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 180,
+    "text": "Meu alter ego de super-herói precisa de um dia de folga. E eu também.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 181,
+    "text": "Estou em uma missão secreta para evitar exatamente aquilo que você está propondo.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 182,
+    "text": "Eu adoraria ir, mas quem vai salvar o mundo enquanto isso?",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 183,
+    "text": "Estou ocupado organizando uma campanha mundial pela soneca da tarde.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 184,
+    "text": "Preciso impedir que meu sofá saia voando. É um trabalho importante.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 185,
+    "text": "O destino das batatas fritas que vou comer está em minhas mãos. Não posso abandoná-las.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 186,
+    "text": "Fui oficialmente nomeado guardião da sala de estar hoje.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 187,
+    "text": "Estou lutando contra um dragão invisível em casa. Está levando mais tempo do que eu esperava.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 188,
+    "text": "Você realmente não me quer envolvido nisso. Minha especialidade é estragar as coisas.",
+    "tags": ["Sarcástico", "Ingenioso"]
+  },
+  {
+    "id": 189,
+    "text": "Para projetos, sou como um gato preto. É mais seguro se eu ficar longe.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 190,
+    "text": "Acredite em mim, estou lhe fazendo um favor ao dizer não.",
+    "tags": ["Sarcástico"]
+  },
+  {
+    "id": 191,
+    "text": "Minha participação vem com um aviso de segurança. Prefiro poupá-lo disso.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 192,
+    "text": "Eu adoraria participar, mas minha verdadeira especialidade são recusas criativas.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 193,
+    "text": "Na verdade, sou bem ruim nisso. A menos que você precise de um exemplo do que não fazer.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 194,
+    "text": "Você merece alguém que diga sim sem precisar inventar três desculpas primeiro.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 195,
+    "text": "Meu histórico sugere que seria melhor eu ficar de fora.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 196,
+    "text": "Sou a pessoa errada para esta tarefa, mas a pessoa certa para dizer não.",
+    "tags": ["Ingenioso"]
+  },
+  {
+    "id": 197,
+    "text": "Se você precisa de alguém para sabotar tudo, sou perfeito. Caso contrário, vou passar.",
+    "tags": ["Sarcástico", "Ingenioso"]
+  },
+  {
+    "id": 198,
+    "text": "Meu biscoito da sorte literalmente disse 'não' ontem à noite.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 199,
+    "text": "A profecia previu exatamente que eu recusaria isso.",
+    "tags": ["Absurdo", "Ingenioso"]
+  },
+  {
+    "id": 200,
+    "text": "Todas as minhas cartas de tarô soltaram um suspiro coletivo quando esse assunto surgiu.",
+    "tags": ["Absurdo", "Ingenioso"]
+  }
+]
