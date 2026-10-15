@@ -2,52 +2,52 @@
   {
     "id": 1,
     "text": "À une autre période de ma vie, j'aurais peut-être dit oui, mais pas maintenant.",
-    "tags": ["Professionnel", "Bienveillant"]
+    "tags": ["professionnel", "bienveillant"]
   },
   {
     "id": 2,
     "text": "J'apprécie la proposition, mais je ne peux pas m'y engager.",
-    "tags": ["Professionnel", "Bienveillant"]
+    "tags": ["professionnel", "bienveillant"]
   },
   {
     "id": 3,
     "text": "Chaque fois que j'y pense, j'entends un petit « non » porté par le vent.",
-    "tags": ["Spirituel"]
+    "tags": ["spirituel"]
   },
   {
     "id": 4,
     "text": "Mon moi du futur m'a laissé un mot : « S'il te plaît, ne refais pas ça. »",
-    "tags": ["Spirituel"]
+    "tags": ["spirituel"]
   },
   {
     "id": 5,
     "text": "C'est intéressant, mais je ne suis probablement pas la bonne personne pour ça.",
-    "tags": ["Professionnel", "Bienveillant"]
+    "tags": ["professionnel", "bienveillant"]
   },
   {
     "id": 6,
     "text": "Merci d'avoir pensé à moi, mais ce n'est pas quelque chose qui me convient en ce moment.",
-    "tags": ["Professionnel", "Bienveillant"]
+    "tags": ["professionnel", "bienveillant"]
   },
   {
     "id": 7,
     "text": "J'aimerais dire oui, mais je viens de me promettre de prendre moins de décisions douteuses cette semaine.",
-    "tags": ["Spirituel"]
+    "tags": ["spirituel"]
   },
   {
     "id": 8,
-    "text": "J'apprécie l'offre, mais je ne peux pas m'engager là-dessus.",
-    "tags": ["Professionnel", "Bienveillant"]
+    "text": "J'apprécie l'offre, mais je ne peux pas me porter volontaire pour ça.",
+    "tags": ["professionnel", "bienveillant"]
   },
   {
     "id": 9,
     "text": "J'essaie de faire plus attention à ce à quoi je dis oui, et ça n'entre pas vraiment dans cette catégorie.",
-    "tags": ["Professionnel", "Bienveillant"]
+    "tags": ["professionnel", "bienveillant"]
   },
   {
     "id": 10,
     "text": "Je préfère être honnête. Je ne me sens pas à l'aise à l'idée de m'engager là-dedans.",
-    "tags": ["Professionnel", "Bienveillant"]
+    "tags": ["professionnel", "bienveillant"]
   },
   {
     "id": 11,
@@ -57,946 +57,4531 @@
   {
     "id": 12,
     "text": "Dire non à cela me permet de dire oui à quelque chose qui compte davantage pour moi.",
-    "tags": ["Professionnel"]
+    "tags": ["professionnel"]
   },
   {
     "id": 13,
     "text": "Si je disais oui, je mentirais à nous deux, et mon thérapeute m'a demandé d'arrêter ça.",
-    "tags": ["Spirituel"]
+    "tags": ["spirituel"]
   },
   {
     "id": 14,
     "text": "Je vais décliner avec respect. Cela ne correspond pas à la direction que je prends.",
-    "tags": ["Professionnel"]
+    "tags": ["professionnel"]
   },
   {
     "id": 15,
     "text": "Cette opportunité mérite plus que ce que je peux lui consacrer actuellement.",
-    "tags": ["Professionnel", "Bienveillant"]
+    "tags": ["professionnel", "bienveillant"]
   },
   {
     "id": 16,
     "text": "Je ne déteste pas l'idée, mais je n'ai pas non plus envie de la réaliser.",
-    "tags": ["Spirituel"]
+    "tags": ["spirituel"]
   },
   {
     "id": 17,
     "text": "Je ne suis pas dans une situation qui me permet de m'engager pour le moment.",
-    "tags": ["Professionnel", "Bienveillant"]
+    "tags": ["professionnel", "bienveillant"]
   },
   {
     "id": 18,
     "text": "J'ai appris à dire non aux choses qui ne m'apportent aucune énergie.",
-    "tags": ["Professionnel"]
+    "tags": ["professionnel"]
   },
   {
     "id": 19,
     "text": "Même mon agenda a éclaté de rire quand j'ai essayé d'y caser ça.",
-    "tags": ["Spirituel"]
+    "tags": ["spirituel"]
   },
   {
     "id": 20,
     "text": "J'ai décidé de ne pas prendre de nouveaux engagements pour le moment.",
-    "tags": ["Professionnel", "Bienveillant"]
+    "tags": ["professionnel", "bienveillant"]
   },
   {
     "id": 21,
     "text": "Ça ressemble au genre de décision pour laquelle mon futur moi me ferait la morale.",
-    "tags": ["Spirituel"]
+    "tags": ["spirituel"]
   },
   {
     "id": 22,
     "text": "J'ai déjà essayé d'en faire trop, et ça me donne un sérieux air de déjà-vu.",
-    "tags": ["Professionnel"]
+    "tags": ["professionnel"]
   },
   {
     "id": 23,
     "text": "Tu as investi beaucoup d'énergie là-dedans, et j'espère que tu comprendras ma décision de me retirer.",
-    "tags": ["Professionnel", "Bienveillant"]
+    "tags": ["professionnel", "bienveillant"]
   },
   {
     "id": 24,
     "text": "Excellente idée. Pour quelqu'un d'autre.",
-    "tags": ["Sarcastique", "Spirituel"]
+    "tags": ["sarcastique", "spirituel"]
   },
   {
     "id": 25,
     "text": "La version de moi qui aurait dit oui à ça n'existe plus.",
-    "tags": ["Spirituel"]
+    "tags": ["spirituel"]
   },
   {
     "id": 26,
     "text": "Même mon café m'a dit : « Pas aujourd'hui. »",
-    "tags": ["Spirituel"]
+    "tags": ["spirituel"]
   },
   {
     "id": 27,
     "text": "Mon comité intérieur pour la paix a rejeté cette idée à l'unanimité.",
-    "tags": ["Spirituel"]
+    "tags": ["spirituel"]
   },
   {
     "id": 28,
     "text": "Je sais combien cela compte pour toi, mais je ne peux pas lui accorder l'attention qu'il mérite.",
-    "tags": ["Professionnel", "Bienveillant"]
+    "tags": ["professionnel", "bienveillant"]
   },
   {
     "id": 29,
     "text": "Je me suis imaginé en train de le faire et je me suis endormi au milieu du scénario.",
-    "tags": ["Spirituel"]
+    "tags": ["spirituel"]
   },
   {
     "id": 30,
     "text": "Mentalement, j'ai déjà quitté la pièce où cela aurait lieu.",
-    "tags": ["Spirituel"]
+    "tags": ["spirituel"]
   },
   {
     "id": 31,
     "text": "Cela ne correspond ni à mes valeurs ni à mes priorités actuelles.",
-    "tags": ["Professionnel"]
+    "tags": ["professionnel"]
   },
   {
     "id": 32,
     "text": "Cette décision ne te concerne pas, elle concerne mes propres limites.",
-    "tags": ["Professionnel", "Bienveillant"]
+    "tags": ["professionnel", "bienveillant"]
   },
   {
     "id": 33,
     "text": "J'apprécie l'opportunité, mais je connais mes limites, et cela les dépasserait largement.",
-    "tags": ["Professionnel", "Bienveillant"]
+    "tags": ["professionnel", "bienveillant"]
   },
   {
     "id": 34,
     "text": "Si j'acceptais cela, je trahirais le temps que je me suis promis de préserver.",
-    "tags": ["Professionnel"]
+    "tags": ["professionnel"]
   },
   {
     "id": 35,
     "text": "J'ai pris une décision similaire une fois, et mon chat ne m'a plus regardé dans les yeux depuis. Évitons de répéter l'histoire.",
-    "tags": ["Absurde", "Spirituel"]
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 36,
     "text": "Si j'accepte, je vais devoir me cloner. Et franchement, je ne fais pas confiance à mon clone.",
-    "tags": ["Absurde", "Spirituel"]
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 37,
     "text": "Ça ne me semble pas tout à fait juste, donc je vais devoir décliner.",
-    "tags": ["Professionnel", "Bienveillant"]
+    "tags": ["professionnel", "bienveillant"]
   },
   {
     "id": 38,
     "text": "Je préfère dire non avec honnêteté que oui avec amertume.",
-    "tags": ["Professionnel", "Bienveillant"]
+    "tags": ["professionnel", "bienveillant"]
   },
   {
     "id": 39,
     "text": "Merci d'avoir pensé à moi, mais je vais passer mon tour cette fois-ci.",
-    "tags": ["Professionnel", "Bienveillant"]
+    "tags": ["professionnel", "bienveillant"]
   },
   {
     "id": 40,
     "text": "J'y ai réfléchi et je pense qu'il est préférable pour moi de refuser pour le moment.",
-    "tags": ["Professionnel", "Bienveillant"]
+    "tags": ["professionnel", "bienveillant"]
   },
   {
     "id": 41,
     "text": "Notre relation compte beaucoup pour moi, et j'espère que mon refus n'y changera rien.",
-    "tags": ["Professionnel", "Bienveillant"]
+    "tags": ["professionnel", "bienveillant"]
   },
   {
     "id": 42,
     "text": "Ce n'est pas un non définitif, mais c'est un non pour l'instant.",
-    "tags": ["Professionnel"]
+    "tags": ["professionnel"]
   },
   {
     "id": 43,
     "text": "L'enthousiasme est bien là, mais ma disponibilité relève de la science-fiction.",
-    "tags": ["Spirituel"]
+    "tags": ["spirituel"]
   },
   {
     "id": 44,
     "text": "Je n'ai pas actuellement la capacité de lui accorder l'attention qu'il mérite.",
-    "tags": ["Professionnel"]
+    "tags": ["professionnel"]
   },
   {
     "id": 45,
     "text": "J'ai appris à protéger mon temps, et cela ne correspond pas à la manière dont je souhaite l'utiliser.",
-    "tags": ["Professionnel"]
+    "tags": ["professionnel"]
   },
   {
     "id": 46,
     "text": "Ce n'est pas une priorité que je peux placer en haut de ma liste actuellement.",
-    "tags": ["Professionnel", "Bienveillant"]
+    "tags": ["professionnel", "bienveillant"]
   },
   {
     "id": 47,
-    "text": "Si je disais oui à ça, l'univers pourrait s'effondrer sous le choc.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "Je ne peux pas. Je suis occupé à empêcher une version du futur où je dirais réellement oui.",
+    "tags": ["spirituel"]
   },
   {
     "id": 48,
-    "text": "Accepter cela risquerait d'endommager le tissu même de l'espace-temps.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "Accepter ça reviendrait à diviser par zéro. Dangereux et fortement déconseillé.",
+    "tags": ["spirituel"]
   },
   {
     "id": 49,
-    "text": "Cela pourrait provoquer un paradoxe temporel. Je préfère ne pas tenter l'expérience.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "Je suis réservé pour les dix prochaines années à faire semblant d'être productif.",
+    "tags": ["spirituel"]
   },
   {
     "id": 50,
-    "text": "Je ne peux pas. Je suis occupé à empêcher une version du futur où je dirais réellement oui.",
-    "tags": ["Spirituel"]
+    "text": "J'aiderais bien, mais je suis actuellement occupé à compter des dalles de plafond.",
+    "tags": ["spirituel"]
   },
   {
     "id": 51,
-    "text": "Mon agenda est parfaitement aligné avec Jupiter en ce moment, et les étoiles disent non.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "Désolé, je suis en train de classer mes chaussettes par couleur et par humeur.",
+    "tags": ["spirituel"]
   },
   {
     "id": 52,
-    "text": "Je suis presque certain qu'il est interdit de dire oui dans cette galaxie.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "J'ai rendez-vous avec mon canapé, et il n'accepte aucune annulation.",
+    "tags": ["spirituel"]
   },
   {
     "id": 53,
-    "text": "Le multivers ne me pardonnerait jamais si j'acceptais ça.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "Mon agenda m'a réservé ce créneau pour contempler le vide.",
+    "tags": ["spirituel"]
   },
   {
     "id": 54,
-    "text": "Toutes les lignes temporelles où je dis oui finissent dans le chaos, alors je fais le choix raisonnable.",
-    "tags": ["Spirituel"]
+    "text": "Mon planning est complet. J'alphabétise actuellement mes snacks.",
+    "tags": ["spirituel"]
   },
   {
     "id": 55,
-    "text": "Accepter ça reviendrait à diviser par zéro. Dangereux et fortement déconseillé.",
-    "tags": ["Spirituel"]
+    "text": "Je dois terminer un projet très exigeant appelé « ne rien faire du tout ».",
+    "tags": ["spirituel"]
   },
   {
     "id": 56,
-    "text": "Si j'accepte, je vais provoquer un bug dans la Matrice.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "J'ai déjà prévu de regarder de la peinture sécher.",
+    "tags": ["spirituel"]
   },
   {
     "id": 57,
-    "text": "Je suis réservé pour les dix prochaines années à faire semblant d'être productif.",
-    "tags": ["Spirituel"]
+    "text": "Je m'entraîne actuellement pour les championnats du monde de procrastination.",
+    "tags": ["spirituel"]
   },
   {
     "id": 58,
-    "text": "J'aiderais bien, mais je suis actuellement occupé à compter des dalles de plafond.",
-    "tags": ["Spirituel"]
+    "text": "Je ne peux pas. Je dois assister à l'inauguration officielle de mon réfrigérateur.",
+    "tags": ["spirituel"]
   },
   {
     "id": 59,
-    "text": "Désolé, je suis en train de classer mes chaussettes par couleur et par humeur.",
-    "tags": ["Spirituel"]
+    "text": "J'aiderais bien, mais mon ami imaginaire a plus besoin de moi.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 60,
-    "text": "J'ai rendez-vous avec mon canapé, et il n'accepte aucune annulation.",
-    "tags": ["Spirituel"]
+    "text": "Je ne peux pas. Mon caillou de compagnie traverse une crise émotionnelle.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 61,
-    "text": "Mon agenda m'a réservé ce créneau pour contempler le vide.",
-    "tags": ["Spirituel"]
+    "text": "Mon poisson rouge se marie ce jour-là, je dois donc être présent.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 62,
-    "text": "Mon planning est complet. J'alphabétise actuellement mes snacks.",
-    "tags": ["Spirituel"]
+    "text": "J'ai promis à mon chat imaginaire de rester à la maison ce soir.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 63,
-    "text": "Je dois terminer un projet très exigeant appelé « ne rien faire du tout ».",
-    "tags": ["Spirituel"]
+    "text": "Ma licorne de protection pense que ce n'est pas une bonne idée.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 64,
-    "text": "J'ai déjà prévu de regarder de la peinture sécher.",
-    "tags": ["Spirituel"]
+    "text": "Je dois garder les enfants imaginaires de mon ami imaginaire.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 65,
-    "text": "Je m'entraîne actuellement pour les championnats du monde de procrastination.",
-    "tags": ["Spirituel"]
+    "text": "Désolé, je me suis porté volontaire pour goûter le nouveau régime alimentaire de mon animal de compagnie.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 66,
-    "text": "Je ne peux pas. Je dois assister à l'inauguration officielle de mon réfrigérateur.",
-    "tags": ["Spirituel"]
+    "text": "Mon dragon de compagnie a rendez-vous chez le vétérinaire, impossible de manquer ça.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 67,
-    "text": "J'aiderais bien, mais mon ami imaginaire a plus besoin de moi.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "Mon perroquet m'a privé de sortie pour mauvaise conduite, donc je ne peux pas venir.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 68,
-    "text": "Je ne peux pas. Mon caillou de compagnie traverse une crise émotionnelle.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "J'ai prêté ma machine à voyager dans le temps à un ami, je ne peux donc pas retourner libérer mon après-midi.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 69,
-    "text": "Mon poisson rouge se marie ce jour-là, je dois donc être présent.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "J'ai solennellement juré d'éviter toute forme de productivité.",
+    "tags": ["spirituel"]
   },
   {
     "id": 70,
-    "text": "J'ai promis à mon chat imaginaire de rester à la maison ce soir.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "Ma religion personnelle m'interdit de faire quelque chose d'utile aujourd'hui.",
+    "tags": ["sarcastique", "spirituel"]
   },
   {
     "id": 71,
-    "text": "Ma licorne de protection pense que ce n'est pas une bonne idée.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "Mon thérapeute m'a conseillé d'éviter les activités qui risqueraient d'être amusantes.",
+    "tags": ["sarcastique", "spirituel"]
   },
   {
     "id": 72,
-    "text": "Je dois garder les enfants imaginaires de mon ami imaginaire.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "J'ai prêté serment de refuser aléatoirement toutes les demandes.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 73,
-    "text": "Désolé, je me suis porté volontaire pour goûter le nouveau régime alimentaire de mon animal de compagnie.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "Je fonctionne actuellement uniquement au café et au sarcasme, et le café est épuisé.",
+    "tags": ["spirituel"]
   },
   {
     "id": 74,
-    "text": "Mon dragon de compagnie a rendez-vous chez le vétérinaire, impossible de manquer ça.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "Je suis allergique à toute forme de responsabilité.",
+    "tags": ["spirituel"]
   },
   {
     "id": 75,
-    "text": "Mon perroquet m'a mis en résidence surveillée pour mauvaise conduite, donc je ne peux pas venir.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "J'ai un certificat médical qui m'interdit formellement d'aider.",
+    "tags": ["spirituel"]
   },
   {
     "id": 76,
-    "text": "J'ai prêté ma machine à voyager dans le temps à un ami, je ne peux donc pas retourner libérer mon après-midi.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "J'aimerais aider, mais j'essaie justement de mettre fin à ma série de bonnes actions.",
+    "tags": ["spirituel"]
   },
   {
     "id": 77,
-    "text": "J'ai solennellement juré d'éviter toute forme de productivité.",
-    "tags": ["Spirituel"]
+    "text": "Mon coach en procrastination affirme que je ne suis pas encore prêt pour de vraies tâches.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 78,
-    "text": "Ma religion personnelle m'interdit de faire quelque chose d'utile aujourd'hui.",
-    "tags": ["Sarcastique", "Spirituel"]
+    "text": "J'ai arrêté de dire oui pour la durée du carême, et ce n'est pas encore terminé.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 79,
-    "text": "Mon thérapeute m'a conseillé d'éviter les activités qui risqueraient d'être amusantes.",
-    "tags": ["Sarcastique", "Spirituel"]
+    "text": "J'ai pour règle personnelle de dire non tous les jours dont le nom contient « di ».",
+    "tags": ["spirituel"]
   },
   {
     "id": 80,
-    "text": "J'ai prêté serment de refuser aléatoirement toutes les demandes.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "Mon application d'agenda a fait un énorme facepalm quand j'ai envisagé cette idée.",
+    "tags": ["spirituel"]
   },
   {
     "id": 81,
-    "text": "Je fonctionne actuellement uniquement au café et au déni, et le café est épuisé.",
-    "tags": ["Spirituel"]
+    "text": "Je dois d'abord mettre à jour mon statut en « occupé à ne surtout pas faire ça ».",
+    "tags": ["spirituel"]
   },
   {
     "id": 82,
-    "text": "Je suis allergique à toute forme de responsabilité.",
-    "tags": ["Spirituel"]
+    "text": "Tous les indicateurs pointent actuellement vers un non catégorique.",
+    "tags": ["spirituel"]
   },
   {
     "id": 83,
-    "text": "J'ai un certificat médical qui m'interdit formellement d'aider.",
-    "tags": ["Spirituel"]
+    "text": "Je ne peux pas. J'ai promis à Netflix de rester à la maison.",
+    "tags": ["spirituel"]
   },
   {
     "id": 84,
-    "text": "J'aimerais aider, mais j'essaie justement de mettre fin à ma série de bonnes actions.",
-    "tags": ["Spirituel"]
+    "text": "Le Wi-Fi de ma motivation a perdu la connexion.",
+    "tags": ["spirituel"]
   },
   {
     "id": 85,
-    "text": "Mon coach en procrastination affirme que je ne suis pas encore prêt pour de vraies tâches.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "J'attends que mon téléphone soit rechargé à 101 %. D'ici là, impossible de faire quoi que ce soit.",
+    "tags": ["spirituel"]
   },
   {
     "id": 86,
-    "text": "J'ai arrêté de dire oui pour la durée du carême, et ce n'est pas encore terminé.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "Ma bio dit « dit souvent non », alors je dois rester fidèle à ma marque.",
+    "tags": ["spirituel"]
   },
   {
     "id": 87,
-    "text": "J'ai pour règle personnelle de dire non tous les jours qui se terminent par une lettre.",
-    "tags": ["Spirituel"]
+    "text": "Je suis actuellement occupé à chercher de la motivation sur Internet. Sans succès jusqu'à présent.",
+    "tags": ["spirituel"]
   },
   {
     "id": 88,
-    "text": "Mon application d'agenda a fait un énorme facepalm quand j'ai envisagé cette idée.",
-    "tags": ["Spirituel"]
+    "text": "Je suis tombé dans un terrier d'Internet et je ne retrouve plus la sortie.",
+    "tags": ["spirituel"]
   },
   {
     "id": 89,
-    "text": "Je dois d'abord mettre à jour mon statut en « occupé à ne surtout pas faire ça ».",
-    "tags": ["Spirituel"]
+    "text": "Je ne peux pas venir. J'ai une réunion Zoom avec mon canapé.",
+    "tags": ["spirituel"]
   },
   {
     "id": 90,
-    "text": "Tous les indicateurs pointent actuellement vers un non catégorique.",
-    "tags": ["Spirituel"]
+    "text": "J'aimerais bien, mais je préfère ne pas le faire.",
+    "tags": ["spirituel"]
   },
   {
     "id": 91,
-    "text": "Je ne peux pas. J'ai promis à Netflix de rester à la maison.",
-    "tags": ["Spirituel"]
+    "text": "Ma réponse est un non fraîchement sorti du four, préparé spécialement pour toi.",
+    "tags": ["spirituel"]
   },
   {
     "id": 92,
-    "text": "Le Wi-Fi de ma motivation a perdu la connexion.",
-    "tags": ["Spirituel"]
-  },
-  {
-    "id": 93,
-    "text": "J'attends que mon téléphone soit complètement rechargé. D'ici là, impossible de faire quoi que ce soit.",
-    "tags": ["Spirituel"]
-  },
-  {
-    "id": 94,
-    "text": "Ma bio dit « dit souvent non », alors je dois rester fidèle à ma marque.",
-    "tags": ["Spirituel"]
-  },
-  {
-    "id": 95,
-    "text": "Je suis actuellement occupé à chercher de la motivation sur Internet. Sans succès jusqu'à présent.",
-    "tags": ["Spirituel"]
-  },
-  {
-    "id": 96,
-    "text": "Je suis tombé dans un terrier d'Internet et je ne retrouve plus la sortie.",
-    "tags": ["Spirituel"]
-  },
-  {
-    "id": 97,
-    "text": "Je ne peux pas venir. J'ai une réunion Zoom avec mon canapé.",
-    "tags": ["Spirituel"]
-  },
-  {
-    "id": 98,
-    "text": "J'aimerais bien, mais je préfère ne pas le faire.",
-    "tags": ["Spirituel"]
-  },
-  {
-    "id": 99,
-    "text": "Ma réponse est un non fraîchement sorti du four, préparé spécialement pour toi.",
-    "tags": ["Spirituel"]
-  },
-  {
-    "id": 100,
     "text": "J'y ai longuement réfléchi et je suis arrivé à un non parfaitement assumé.",
     "tags": []
   },
   {
-    "id": 101,
+    "id": 93,
     "text": "Même pas pour des donuts gratuits.",
     "tags": []
   },
   {
-    "id": 102,
+    "id": 94,
     "text": "C'est le moment où je dis non et où nous reprenons tous les deux le cours de nos vies.",
     "tags": []
   },
   {
-    "id": 103,
+    "id": 95,
     "text": "Voyons voir mon agenda... intéressant, il indique un non permanent.",
-    "tags": ["Sarcastique", "Spirituel"]
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 96,
+    "text": "Je suis flatté que tu aies pensé à moi, mais je vais décliner avec élégance.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 97,
+    "text": "J'ai déjà épuisé mon quota annuel de oui.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 98,
+    "text": "Je suis beaucoup trop cool pour dire oui à ça.",
+    "tags": ["sarcastique"]
+  },
+  {
+    "id": 99,
+    "text": "Comme dit le proverbe : non, non et encore non.",
+    "tags": ["sarcastique"]
+  },
+  {
+    "id": 100,
+    "text": "Tu ne veux pas vraiment que je dise oui à ça. Crois-moi, c'est mieux pour tout le monde.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 101,
+    "text": "La dernière fois que j'ai dit oui, il a plu pendant quarante jours. Je préfère ne pas revivre ça.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 102,
+    "text": "J'ai promis à mon moi du futur de dire précisément non à ça.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 103,
+    "text": "Si j'acceptais, je devrais l'expliquer à mon thérapeute plus tard.",
+    "tags": ["spirituel"]
   },
   {
     "id": 104,
-    "text": "Je suis flatté que tu aies pensé à moi, mais je vais décliner avec élégance.",
-    "tags": ["Spirituel"]
+    "text": "Mes précédentes expériences avec le mot oui ont été traumatisantes.",
+    "tags": ["spirituel"]
   },
   {
     "id": 105,
-    "text": "J'ai déjà épuisé mon quota annuel de oui.",
-    "tags": ["Spirituel"]
+    "text": "Dire oui figure actuellement sur ma liste des habitudes à abandonner.",
+    "tags": ["spirituel"]
   },
   {
     "id": 106,
-    "text": "Je suis beaucoup trop cool pour dire oui à ça.",
-    "tags": ["Sarcastique"]
+    "text": "Je pourrais accepter, mais je devrais alors reconnaître que j'avais tort de prétendre tout détester.",
+    "tags": ["sarcastique", "spirituel"]
   },
   {
     "id": 107,
-    "text": "Comme dit le proverbe : non, non et encore non.",
-    "tags": ["Sarcastique"]
+    "text": "L'univers m'a envoyé un signe très clair pour dire non. C'était un panneau lumineux géant.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 108,
-    "text": "Tu ne veux pas vraiment que je dise oui à ça. Crois-moi, c'est mieux pour tout le monde.",
-    "tags": ["Sarcastique", "Spirituel"]
+    "text": "J'ai déjà dit oui une fois. Ça s'est très mal terminé. Il y avait des lamas impliqués.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 109,
-    "text": "La dernière fois que j'ai dit oui, il a plu pendant quarante jours. Je préfère ne pas revivre ça.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "Mon instinct et moi avons voté. Le non l'a emporté à l'unanimité.",
+    "tags": ["spirituel"]
   },
   {
     "id": 110,
-    "text": "J'ai promis à mon moi du futur de dire précisément non à ça.",
-    "tags": ["Spirituel"]
+    "text": "Ça ressemble à une formidable opportunité... pour quelqu'un d'autre.",
+    "tags": ["sarcastique", "spirituel"]
   },
   {
     "id": 111,
-    "text": "Si j'acceptais, je devrais l'expliquer à mon thérapeute plus tard.",
-    "tags": ["Spirituel"]
+    "text": "Quelle idée fantastique ! Dommage que je ne puisse pas participer. Enfin, pas vraiment dommage.",
+    "tags": ["sarcastique"]
   },
   {
     "id": 112,
-    "text": "Mes précédentes expériences avec le mot oui ont été traumatisantes.",
-    "tags": ["Spirituel"]
+    "text": "J'envie sincèrement les personnes qui vont accepter ça.",
+    "tags": ["sarcastique"]
   },
   {
     "id": 113,
-    "text": "Dire oui figure actuellement sur ma liste des habitudes à abandonner.",
-    "tags": ["Spirituel"]
+    "text": "J'aime beaucoup l'idée, mais je vais passer mon tour cette fois-ci.",
+    "tags": ["professionnel", "bienveillant"]
   },
   {
     "id": 114,
-    "text": "Je pourrais accepter, mais je devrais alors reconnaître que j'avais tort de prétendre tout détester.",
-    "tags": ["Sarcastique", "Spirituel"]
+    "text": "Plan brillant ! Malheureusement, je vis actuellement sous protection des témoins pour bonnes idées.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 115,
-    "text": "L'univers m'a envoyé un signe très clair pour dire non. C'était un panneau lumineux géant.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "Ce serait un rêve devenu réalité. Dommage que je sois réveillé pour dire non.",
+    "tags": ["spirituel"]
   },
   {
     "id": 116,
-    "text": "J'ai déjà dit oui une fois. Ça s'est très mal terminé. Il y avait des lamas impliqués.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "Tu l'as présenté d'une manière si séduisante que je préfère l'admirer de loin.",
+    "tags": ["sarcastique", "spirituel"]
   },
   {
     "id": 117,
-    "text": "Mon instinct et moi avons voté. Le non l'a emporté à l'unanimité.",
-    "tags": ["Spirituel"]
+    "text": "Quelle offre généreuse ! Je la refuse avec une générosité égale.",
+    "tags": ["sarcastique", "spirituel"]
   },
   {
     "id": 118,
-    "text": "Ça ressemble à une formidable opportunité... pour quelqu'un d'autre.",
-    "tags": ["Sarcastique", "Spirituel"]
+    "text": "Je suis certain que ce sera un grand succès, mais je préfère l'admirer depuis les tribunes.",
+    "tags": ["spirituel"]
   },
   {
     "id": 119,
-    "text": "Quelle idée fantastique ! Dommage que je ne puisse pas participer. Enfin, pas vraiment dommage.",
-    "tags": ["Sarcastique"]
+    "text": "Ça a l'air passionnant ! Je suis déjà fatigué rien qu'en y pensant.",
+    "tags": ["spirituel"]
   },
   {
     "id": 120,
-    "text": "J'envie sincèrement les personnes qui vont accepter ça.",
-    "tags": ["Sarcastique"]
+    "text": "J'ai déjà mis mon pyjama, donc la réponse est non.",
+    "tags": ["spirituel"]
   },
   {
     "id": 121,
-    "text": "J'aime beaucoup l'idée, mais je vais passer mon tour cette fois-ci.",
-    "tags": ["Professionnel", "Bienveillant"]
+    "text": "Mon canapé a imposé une interdiction de voyage, et je respecte les règles.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 122,
-    "text": "Plan brillant ! Malheureusement, je vis actuellement sous protection des témoins pour bonnes idées.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "Je n'arrive même pas à sortir de mon burrito de couverture bien confortable.",
+    "tags": ["spirituel"]
   },
   {
     "id": 123,
-    "text": "Ce serait un rêve devenu réalité. Dommage que je sois réveillé pour dire non.",
-    "tags": ["Spirituel"]
+    "text": "Je garde mon énergie pour une sieste légendaire.",
+    "tags": ["spirituel"]
   },
   {
     "id": 124,
-    "text": "Tu l'as présenté d'une manière si séduisante que je préfère l'admirer de loin.",
-    "tags": ["Bienveillant", "Spirituel"]
+    "text": "Je suis trop paresseux pour inventer une bonne excuse, alors ce sera simplement non.",
+    "tags": ["sarcastique"]
   },
   {
     "id": 125,
-    "text": "Quelle offre généreuse ! Je la refuse avec une générosité égale.",
-    "tags": ["Spirituel"]
+    "text": "Quitter cet endroit nécessite un préavis de vingt-quatre heures.",
+    "tags": ["spirituel"]
   },
   {
     "id": 126,
-    "text": "Je suis certain que ce sera un grand succès, mais je préfère l'admirer depuis les tribunes.",
-    "tags": ["Bienveillant", "Spirituel"]
+    "text": "Aujourd'hui, j'économise mon énergie sans raison particulière.",
+    "tags": ["spirituel"]
   },
   {
     "id": 127,
-    "text": "Ça a l'air passionnant ! Je suis déjà fatigué rien qu'en y pensant.",
-    "tags": ["Spirituel"]
+    "text": "Je pourrais, mais ça ressemble à un effort, et j'y suis allergique.",
+    "tags": ["spirituel"]
   },
   {
     "id": 128,
-    "text": "J'ai déjà mis mon pyjama, donc la réponse est non.",
-    "tags": ["Spirituel"]
+    "text": "Je rencontre actuellement des difficultés techniques à l'idée de me lever et partir.",
+    "tags": ["spirituel"]
   },
   {
     "id": 129,
-    "text": "Mon canapé a imposé une interdiction de voyage, et je respecte les règles.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "Je m'entraîne pour un marathon où aucun muscle ne doit être utilisé.",
+    "tags": ["spirituel"]
   },
   {
     "id": 130,
-    "text": "Je n'arrive même pas à sortir de mon burrito de couverture bien confortable.",
-    "tags": ["Spirituel"]
+    "text": "Je dois trouver un moment pour me laver les cheveux avant la fin de la décennie.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 131,
-    "text": "Je garde mon énergie pour une sieste légendaire.",
-    "tags": ["Spirituel"]
+    "text": "Je dois dégivrer l'iceberg qui s'est formé dans mon congélateur.",
+    "tags": ["spirituel"]
   },
   {
     "id": 132,
-    "text": "Je suis trop paresseux pour inventer une bonne excuse, alors ce sera simplement non.",
-    "tags": ["Sarcastique"]
+    "text": "Malheureusement, je dois repasser mes sous-vêtements ce soir-là.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 133,
-    "text": "Quitter cet endroit nécessite un préavis de vingt-quatre heures.",
-    "tags": ["Spirituel"]
+    "text": "Je dois m'occuper de mon jardin de fleurs en plastique.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 134,
-    "text": "Aujourd'hui, j'économise mon énergie sans raison particulière.",
-    "tags": ["Spirituel"]
+    "text": "Mon poisson doit sortir prendre l'air, et c'est prioritaire.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 135,
-    "text": "Je pourrais, mais ça ressemble à un effort, et j'y suis allergique.",
-    "tags": ["Spirituel"]
+    "text": "Malheureusement, je dois changer les roulettes de ma chaise de bureau.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 136,
-    "text": "Je rencontre actuellement des difficultés techniques à l'idée de me lever et partir.",
-    "tags": ["Spirituel"]
+    "text": "Je regarde actuellement un marathon où je fais le ménage uniquement dans mon imagination.",
+    "tags": ["spirituel"]
   },
   {
     "id": 137,
-    "text": "Je m'entraîne pour un marathon où aucun muscle ne doit être utilisé.",
-    "tags": ["Spirituel"]
+    "text": "La vaisselle a menacé de se rebeller si je l'abandonnais encore une fois.",
+    "tags": ["spirituel"]
   },
   {
     "id": 138,
-    "text": "Je dois trouver un moment pour me laver les cheveux avant la fin de la décennie.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "Mon réfrigérateur et moi avons une séance de thérapie de couple à ce moment-là.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 139,
-    "text": "Je dois dégivrer l'iceberg qui s'est formé dans mon congélateur.",
-    "tags": ["Spirituel"]
+    "text": "Je dois malheureusement annuler parce que je réorganise mon zoo de chaussettes.",
+    "tags": ["spirituel"]
   },
   {
     "id": 140,
-    "text": "Malheureusement, je dois repasser mes sous-vêtements ce soir-là.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "Dans un univers parallèle, je l'ai déjà fait. Pas dans celui-ci.",
+    "tags": ["spirituel"]
   },
   {
     "id": 141,
-    "text": "Je dois m'occuper de mon jardin de fleurs en plastique.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "Peut-être que j'y réfléchirai dans une prochaine vie, mais la version actuelle de moi dit non.",
+    "tags": ["spirituel"]
   },
   {
     "id": 142,
-    "text": "Mon poisson doit sortir prendre l'air, et c'est prioritaire.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "Dans un univers parallèle, je suis déjà en train de le faire. Dommage que nous soyons dans celui-ci.",
+    "tags": ["spirituel"]
   },
   {
     "id": 143,
-    "text": "Malheureusement, je dois changer les roulettes de ma chaise de bureau.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "J'ai demandé à mon autre moi. Lui aussi a dit non.",
+    "tags": ["spirituel"]
   },
   {
     "id": 144,
-    "text": "Je regarde actuellement un marathon où je fais le ménage uniquement dans mon imagination.",
-    "tags": ["Spirituel"]
+    "text": "Si je me clone, j'enverrai le clone. D'ici là, la réponse est non.",
+    "tags": ["spirituel"]
   },
   {
     "id": 145,
-    "text": "La vaisselle a menacé de se rebeller si je l'abandonnais encore une fois.",
-    "tags": ["Spirituel"]
+    "text": "J'ai consulté mon moi du futur, et il s'est contenté de lever les yeux au ciel. Je passe mon tour.",
+    "tags": ["spirituel"]
   },
   {
     "id": 146,
-    "text": "Mon réfrigérateur et moi avons une séance de thérapie de couple à ce moment-là.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "Je suis coincé dans une boucle temporelle où je dis constamment non.",
+    "tags": ["spirituel"]
   },
   {
     "id": 147,
-    "text": "Je dois malheureusement annuler parce que je réorganise ma collection de chaussettes.",
-    "tags": ["Spirituel"]
+    "text": "Dans une ligne temporelle alternative, j'ai dit oui, et cela a déclenché une apocalypse zombie.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 148,
-    "text": "Dans un univers parallèle, je l'ai déjà fait. Pas dans celui-ci.",
-    "tags": ["Spirituel"]
+    "text": "Mon double maléfique serait peut-être intéressé. Dommage, il est lui aussi occupé.",
+    "tags": ["spirituel"]
   },
   {
     "id": 149,
-    "text": "Peut-être que j'y réfléchirai dans une prochaine vie, mais la version actuelle de moi dit non.",
-    "tags": ["Spirituel"]
+    "text": "Dans un univers parallèle, je suis beaucoup plus serviable. Ce n'est pas celui-ci.",
+    "tags": ["spirituel"]
   },
   {
     "id": 150,
-    "text": "Dans un univers parallèle, je suis déjà en train de le faire. Dommage que nous soyons dans celui-ci.",
-    "tags": ["Spirituel"]
+    "text": "Je pourrais, mais ça ressemble étrangement à du travail.",
+    "tags": ["spirituel"]
   },
   {
     "id": 151,
-    "text": "J'ai demandé à mon autre moi. Lui aussi a dit non.",
-    "tags": ["Spirituel"]
+    "text": "Ma motivation pour ça est actuellement dans le coma.",
+    "tags": ["spirituel"]
   },
   {
     "id": 152,
-    "text": "Si je me clone, j'enverrai le clone. D'ici là, la réponse est non.",
-    "tags": ["Spirituel"]
+    "text": "Je pourrais participer, mais qui va tenir ce mur debout pendant ce temps ?",
+    "tags": ["spirituel"]
   },
   {
     "id": 153,
-    "text": "J'ai consulté mon moi du futur, et il s'est contenté de lever les yeux au ciel. Je passe mon tour.",
-    "tags": ["Spirituel"]
+    "text": "Cette demande dépasse largement ma grille salariale actuelle de zéro euro.",
+    "tags": ["spirituel"]
   },
   {
     "id": 154,
-    "text": "Je suis coincé dans une boucle temporelle où je dis constamment non.",
-    "tags": ["Spirituel"]
+    "text": "L'envie est là, mais mon agenda dit non.",
+    "tags": ["professionnel", "spirituel", "bienveillant"]
   },
   {
     "id": 155,
-    "text": "Dans une ligne temporelle alternative, j'ai dit oui, et cela a déclenché une apocalypse zombie.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "Je préfère ne pas défier le destin en essayant quelque chose de nouveau aujourd'hui.",
+    "tags": ["spirituel"]
   },
   {
     "id": 156,
-    "text": "Mon double maléfique serait peut-être intéressé. Dommage, il est lui aussi occupé.",
-    "tags": ["Spirituel"]
+    "text": "Moi, faire ça ? Ce serait un rebondissement que personne n'a demandé.",
+    "tags": ["sarcastique", "spirituel"]
   },
   {
     "id": 157,
-    "text": "Dans un univers parallèle, je suis beaucoup plus serviable. Ce n'est pas celui-ci.",
-    "tags": ["Spirituel"]
+    "text": "Je pratique actuellement la distanciation sociale avec cette idée en particulier.",
+    "tags": ["spirituel"]
   },
   {
     "id": 158,
-    "text": "Je pourrais, mais ça ressemble étrangement à du travail.",
-    "tags": ["Spirituel"]
+    "text": "Je souffre d'une affection qui m'empêche de dire oui. Elle s'appelle le bon sens.",
+    "tags": ["sarcastique", "spirituel"]
   },
   {
     "id": 159,
-    "text": "Ma motivation pour ça est actuellement dans le coma.",
-    "tags": ["Spirituel"]
+    "text": "Mon médecin m'a prescrit davantage de vitamine N. N comme non.",
+    "tags": ["spirituel"]
   },
   {
     "id": 160,
-    "text": "Je suis presque certain que je réussirais à tout gâcher de façon spectaculaire, alors évitons ça.",
-    "tags": ["Sarcastique"]
+    "text": "Je souffre actuellement d'un cas aigu de 'pas aujourd'hui'.",
+    "tags": ["spirituel"]
   },
   {
     "id": 161,
-    "text": "Je pourrais participer, mais qui va tenir ce mur debout pendant ce temps ?",
-    "tags": ["Spirituel"]
-  },
-  {
-    "id": 162,
-    "text": "Cette demande dépasse largement ma grille salariale actuelle de zéro euro.",
-    "tags": ["Spirituel"]
-  },
-  {
-    "id": 163,
-    "text": "L'envie est là, mais mon agenda dit non.",
-    "tags": ["Professionnel", "Spirituel"]
-  },
-  {
-    "id": 164,
-    "text": "Je préfère ne pas défier le destin en essayant quelque chose de nouveau aujourd'hui.",
-    "tags": ["Spirituel"]
-  },
-  {
-    "id": 165,
-    "text": "Si je participe, je risque surtout de faire baisser la moyenne.",
-    "tags": ["Sarcastique", "Spirituel"]
-  },
-  {
-    "id": 166,
-    "text": "Moi, faire ça ? Ce serait un rebondissement que personne n'a demandé.",
-    "tags": ["Sarcastique", "Spirituel"]
-  },
-  {
-    "id": 167,
-    "text": "Je pratique actuellement la distanciation sociale avec cette idée en particulier.",
-    "tags": ["Spirituel"]
-  },
-  {
-    "id": 168,
-    "text": "Je souffre d'une affection qui m'empêche de dire oui. Elle s'appelle le bon sens.",
-    "tags": ["Sarcastique", "Spirituel"]
-  },
-  {
-    "id": 169,
-    "text": "Mon médecin m'a prescrit davantage de vitamine N. N comme non.",
-    "tags": ["Spirituel"]
-  },
-  {
-    "id": 170,
-    "text": "Je souffre actuellement d'un cas aigu de 'pas aujourd'hui'.",
-    "tags": ["Spirituel"]
-  },
-  {
-    "id": 171,
     "text": "Mentalement, je suis déjà en vacances.",
     "tags": []
   },
   {
+    "id": 162,
+    "text": "On m'a prescrit du repos complet jusqu'à nouvel ordre. Mon médecin s'appelle le Dr Oetker.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 163,
+    "text": "Je souffre d'une phobie chronique de l'engagement.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 164,
+    "text": "Je sens que je tombe malade. Cette maladie s'appelle la flemme.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 165,
+    "text": "J'ai déjà un rendez-vous avec un oreiller et une couverture.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 166,
+    "text": "Mon thérapeute m'a conseillé d'éviter les choses qui me rendent malheureux. Je crois que ça en fait partie.",
+    "tags": ["sarcastique"]
+  },
+  {
+    "id": 167,
+    "text": "Je traverse actuellement une urgence personnelle appelée temps pour moi.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 168,
+    "text": "Je suis en pleine négociation pour la paix mondiale. Dans un jeu vidéo.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 169,
+    "text": "Mon alter ego de super-héros a besoin d'un jour de congé. Moi aussi.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 170,
+    "text": "Je suis en mission secrète pour éviter précisément ce que tu me proposes.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 171,
+    "text": "Je viendrais bien, mais qui va sauver le monde pendant ce temps ?",
+    "tags": ["spirituel"]
+  },
+  {
     "id": 172,
-    "text": "On m'a prescrit du repos complet jusqu'à nouvel ordre. Mon médecin s'appelle le Dr Seuss.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "Je suis occupé à organiser une sieste mondiale.",
+    "tags": ["spirituel"]
   },
   {
     "id": 173,
-    "text": "Je souffre d'une phobie chronique de l'engagement.",
-    "tags": ["Spirituel"]
+    "text": "Je dois empêcher mon canapé de s'envoler. C'est une mission de la plus haute importance.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 174,
-    "text": "Je sens que je tombe malade. Cette maladie s'appelle la flemme.",
-    "tags": ["Spirituel"]
+    "text": "Le destin des chips que je vais bientôt manger repose entre mes mains. Je ne peux pas les abandonner.",
+    "tags": ["spirituel"]
   },
   {
     "id": 175,
-    "text": "J'ai déjà un rendez-vous avec un oreiller et une couverture.",
-    "tags": ["Spirituel"]
+    "text": "J'ai été officiellement nommé gardien du salon pour aujourd'hui.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 176,
-    "text": "Mon thérapeute m'a conseillé d'éviter les choses qui me rendent malheureux. Je crois que ça en fait partie.",
-    "tags": ["Sarcastique"]
+    "text": "Je combats actuellement un dragon invisible chez moi. Ça prend plus de temps que prévu.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 177,
-    "text": "Je traverse actuellement une urgence personnelle appelée temps pour moi.",
-    "tags": ["Spirituel"]
+    "text": "Crois-moi, je te rends service en disant non.",
+    "tags": ["sarcastique"]
   },
   {
     "id": 178,
-    "text": "Je dois sauver le monde de l'ennui en restant chez moi.",
-    "tags": ["Spirituel"]
+    "text": "Ma participation est livrée avec une étiquette d'avertissement. Je préfère t'épargner ça.",
+    "tags": ["spirituel"]
   },
   {
     "id": 179,
-    "text": "Je suis en pleine négociation pour la paix mondiale. Dans un jeu vidéo.",
-    "tags": ["Spirituel"]
+    "text": "J'aimerais participer, mais je me spécialise surtout dans les refus créatifs.",
+    "tags": ["spirituel"]
   },
   {
     "id": 180,
-    "text": "Mon alter ego de super-héros a besoin d'un jour de congé. Moi aussi.",
-    "tags": ["Spirituel"]
+    "text": "Je suis franchement mauvais dans ce domaine. Sauf si tu cherches un exemple de ce qu'il ne faut pas faire.",
+    "tags": ["spirituel"]
   },
   {
     "id": 181,
-    "text": "Je suis en mission secrète pour éviter précisément ce que tu me proposes.",
-    "tags": ["Spirituel"]
+    "text": "Tu mérites quelqu'un qui dise oui sans avoir besoin de trois excuses au préalable.",
+    "tags": ["spirituel"]
   },
   {
     "id": 182,
-    "text": "Je viendrais bien, mais qui va sauver le monde pendant ce temps ?",
-    "tags": ["Spirituel"]
+    "text": "Mon historique personnel suggère que je ferais mieux de passer mon tour.",
+    "tags": ["spirituel"]
   },
   {
     "id": 183,
-    "text": "Je suis occupé à organiser une sieste mondiale.",
-    "tags": ["Spirituel"]
+    "text": "Je suis la mauvaise personne pour cette mission, mais la bonne personne pour dire non.",
+    "tags": ["spirituel"]
   },
   {
     "id": 184,
-    "text": "Je dois empêcher mon canapé de s'envoler. C'est une mission de la plus haute importance.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "Si tu cherches quelqu'un pour tout saboter, je suis parfait. Sinon, je passe mon tour.",
+    "tags": ["sarcastique", "spirituel"]
   },
   {
     "id": 185,
-    "text": "Le destin des chips que je vais bientôt manger repose entre mes mains. Je ne peux pas les abandonner.",
-    "tags": ["Spirituel"]
+    "text": "Mon biscuit chinois a littéralement dit « non » hier soir.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 186,
-    "text": "J'ai été officiellement nommé gardien du salon pour aujourd'hui.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "La prophétie avait prédit que je refuserais précisément cela.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 187,
-    "text": "Je combats actuellement un dragon invisible chez moi. Ça prend plus de temps que prévu.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "Toutes mes cartes de tarot ont poussé un soupir collectif quand le sujet est arrivé sur la table.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 188,
-    "text": "Tu ne veux vraiment pas de moi dans cette histoire. Ma spécialité, c'est de tout faire dérailler.",
-    "tags": ["Sarcastique", "Spirituel"]
+    "text": "J'ai consulté ma boule de cristal, et elle a dit « bof ».",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 189,
-    "text": "Pour les projets, je suis comme un chat noir. Tout le monde est plus en sécurité si je reste à l'écart.",
-    "tags": ["Spirituel"]
+    "text": "Le monde des esprits me recommande de rester chez moi.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 190,
-    "text": "Crois-moi, je te rends service en disant non.",
-    "tags": ["Sarcastique"]
+    "text": "J'ai jeté des runes, et elles ont formé N-O-N.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 191,
-    "text": "Ma participation est livrée avec une étiquette d'avertissement. Je préfère t'épargner ça.",
-    "tags": ["Spirituel"]
+    "text": "Ma boule magique numéro 8 dit : « Les perspectives ne sont pas bonnes. »",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 192,
-    "text": "J'aimerais participer, mais je me spécialise surtout dans les refus créatifs.",
-    "tags": ["Spirituel"]
+    "text": "J'ai lu dans les feuilles de thé, et elles m'ont dit d'éviter ça à tout prix.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 193,
-    "text": "Je suis franchement mauvais dans ce domaine. Sauf si tu cherches un exemple de ce qu'il ne faut pas faire.",
-    "tags": ["Spirituel"]
+    "text": "Une voyante m'a mis en garde contre ce genre de demandes.",
+    "tags": ["absurde", "spirituel"]
   },
   {
     "id": 194,
-    "text": "Tu mérites quelqu'un qui dise oui sans avoir besoin de trois excuses au préalable.",
-    "tags": ["Spirituel"]
+    "text": "À cette heure-là, je suis en couple avec mon lit.",
+    "tags": ["spirituel"]
   },
   {
     "id": 195,
-    "text": "Mon historique personnel suggère que je ferais mieux de passer mon tour.",
-    "tags": ["Spirituel"]
+    "text": "Le sommeil et moi avons un rendez-vous fixe, je ne peux pas l'annuler.",
+    "tags": ["spirituel"]
   },
   {
     "id": 196,
-    "text": "Je suis la mauvaise personne pour cette mission, mais la bonne personne pour dire non.",
-    "tags": ["Spirituel"]
+    "text": "Je le ferais bien, mais j'essaie un nouveau truc qui s'appelle dormir.",
+    "tags": ["spirituel"]
   },
   {
     "id": 197,
-    "text": "Si tu cherches quelqu'un pour tout saboter, je suis parfait. Sinon, je vais passer.",
-    "tags": ["Sarcastique", "Spirituel"]
+    "text": "J'ai déjà pris une mélatonine. Extinction des feux pour moi.",
+    "tags": ["spirituel"]
   },
   {
     "id": 198,
-    "text": "Mon biscuit chinois a littéralement dit « non » hier soir.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "J'économise toute mon énergie pour cligner des yeux et respirer.",
+    "tags": []
   },
   {
     "id": 199,
-    "text": "La prophétie avait prédit que je refuserais précisément cela.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "J'ai une grasse matinée matinale de prévue.",
+    "tags": ["spirituel"]
   },
   {
     "id": 200,
-    "text": "Toutes mes cartes de tarot ont poussé un soupir collectif quand le sujet est arrivé sur la table.",
-    "tags": ["Absurde", "Spirituel"]
+    "text": "Si ce n'est pas une sieste, ça ne m'intéresse pas.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 201,
+    "text": "Je ne peux pas, mon oreiller a besoin de moi.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 202,
+    "text": "Ne compte pas sur moi, je compte les moutons.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 203,
+    "text": "Je serai en pleine micro-sieste (qui risque de durer toute la journée).",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 204,
+    "text": "Avertissement : tout accord de ma part est nul et non avenu là où l'amusement est interdit.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 205,
+    "text": "Petits caractères : mon « oui » est livré avec 0 % d'enthousiasme.",
+    "tags": ["sarcastique"]
+  },
+  {
+    "id": 206,
+    "text": "J'ai lu les conditions générales de ma vie, et c'est écrit « non ».",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 207,
+    "text": "En acceptant, je violerais plusieurs de mes statuts personnels.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 208,
+    "text": "Selon les règles non écrites que je viens d'écrire, je dois refuser.",
+    "tags": ["professionnel", "spirituel"]
+  },
+  {
+    "id": 209,
+    "text": "Mes conditions d'utilisation m'interdisent formellement de faire ça.",
+    "tags": ["professionnel", "spirituel"]
+  },
+  {
+    "id": 210,
+    "text": "Si j'acceptais, je violerais la Convention de Genève des introvertis.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 211,
+    "text": "J'ai fait passer ta demande par mon service de conformité interne, et elle a échoué.",
+    "tags": ["professionnel"]
+  },
+  {
+    "id": 212,
+    "text": "Mon avocat (qui est imaginaire) me le déconseille.",
+    "tags": ["professionnel", "spirituel"]
+  },
+  {
+    "id": 213,
+    "text": "Le contrat que j'ai signé avec mon lit ne m'autorise rien d'autre.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 214,
+    "text": "Mon assiette est pleine, et j'ai déjà mangé ma portion de services rendus.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 215,
+    "text": "Je suis surbooké, submergé et surexcité de dire non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 216,
+    "text": "Mon agenda a pris feu spontanément à cause de trop de tâches.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 217,
+    "text": "Je gère déjà trop de crises. Une de plus, et c'est l'effondrement.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 218,
+    "text": "J'ai déjà trop dans mon assiette, et je suis au régime sans glucides (pas de tâches en plus).",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 219,
+    "text": "Je me noie sous les tâches et je n'ai pas pris mon tuba.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 220,
+    "text": "Je le ferais bien, mais je suis déjà débordé par d'autres choses que je regrette.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 221,
+    "text": "Ma liste de choses à faire et moi ne nous parlons plus. Elle est bien trop longue.",
+    "tags": ["professionnel", "spirituel"]
+  },
+  {
+    "id": 222,
+    "text": "Je suis bien trop populaire auprès des tâches que je n'ai pas encore faites.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 223,
+    "text": "Le hamster qui fait tourner la roue de ma vie est en grève pour surmenage.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 224,
+    "text": "Le correcteur orthographique me suggère d'écrire N-O-N.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 225,
+    "text": "Je t'ai écrit un poème : les roses sont rouges, les violettes sont bleues, ma réponse est non, n'en déplaise aux curieux.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 226,
+    "text": "La seule chose à laquelle je suis enclin, c'est de décliner.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 227,
+    "text": "Je vais le dire dans une langue que tu comprends : non.",
+    "tags": ["sarcastique"]
+  },
+  {
+    "id": 228,
+    "text": "Je parle couramment cinq langues, et dans toutes, la réponse est non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 229,
+    "text": "Le « oui » et moi sommes en froid en ce moment.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 230,
+    "text": "Je pourrais répondre avec une jolie formule latine, mais un simple « non » suffira.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 231,
+    "text": "En sigle, ma réponse est N.O.N.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 232,
+    "text": "Je suis pris jusqu'à la mort thermique de l'univers.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 233,
+    "text": "Mon agenda est plein pour tout le siècle prochain, désolé.",
+    "tags": ["professionnel", "spirituel"]
+  },
+  {
+    "id": 234,
+    "text": "J'ai un conflit d'horaire avec le reste de ma vie.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 235,
+    "text": "Je ne serai pas libre avant que le soleil se lève à l'ouest et se couche à l'est.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 236,
+    "text": "Repose-moi la question dans un million d'années, j'aurai peut-être le temps.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 237,
+    "text": "La vie m'a mis en attente. Prévois une longue attente.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 238,
+    "text": "Ma disponibilité est dans un état d'incertitude quantique, avec une tendance au non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 239,
+    "text": "J'ai déjà réservé mes mille prochains refus, et tu n'es que l'un d'eux.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 240,
+    "text": "Mon emploi du temps est plus serré que mon jean après les fêtes.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 241,
+    "text": "J'ai regardé mon agenda, et il s'est moqué de moi d'avoir seulement posé la question.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 242,
+    "text": "Merci d'avoir pensé à moi, mais je vais refuser de façon hilarante.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 243,
+    "text": "J'apprécie l'offre, mais je dois refuser, surtout par flemme.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 244,
+    "text": "Merci de demander, mais c'est non, mon cochon.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 245,
+    "text": "Je suis honoré que tu aies pensé à moi, mais je dois refuser, respectueusement et comiquement.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 246,
+    "text": "Accepte mes plus sincères excuses pendant que je ris en disant non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 247,
+    "text": "Malheureusement je dois passer mon tour, mais je le fais avec le sourire.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 248,
+    "text": "Ce n'est pas toi, c'est moi. Je suis juste allergique au fait de faire des choses.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 249,
+    "text": "Avec tout le respect que je te dois, je vais ghoster cette opportunité.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 250,
+    "text": "Je suis vraiment touché que tu demandes. Vraiment. Mais c'est toujours non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 251,
+    "text": "Avec tout le respect que je te dois : tu peux toujours courir.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 252,
+    "text": "J'ai oublié comment on dit oui.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 253,
+    "text": "J'ai des pertes de mémoire à court terme dès qu'il s'agit de responsabilités.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 254,
+    "text": "J'accepterais bien, mais je viens d'oublier ce que tu m'as demandé, donc... non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 255,
+    "text": "Mon cerveau supprime automatiquement ce genre de demandes.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 256,
+    "text": "J'ai une amnésie sélective pour les services à rendre.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 257,
+    "text": "J'allais aider, mais j'ai oublié de m'en soucier.",
+    "tags": []
+  },
+  {
+    "id": 258,
+    "text": "Je ne me souviens plus de la dernière fois où j'ai dit oui, et je ne vais pas commencer maintenant.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 259,
+    "text": "Pardon ? Tu as demandé quelque chose ? Non ? Parfait.",
+    "tags": ["sarcastique"]
+  },
+  {
+    "id": 260,
+    "text": "J'ai mis ta demande dans mon broyeur mental.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 261,
+    "text": "Je ne peux pas, j'apprends à mon poisson rouge à rapporter la balle pour une œuvre caritative.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 262,
+    "text": "Je consacre ce créneau à méditer sur le sens de la vie. C'est une œuvre de charité, en fait.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 263,
+    "text": "J'ai fait don de tout mon temps libre à des causes de non-action.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 264,
+    "text": "Je lance une pétition pour interdire ce genre de demandes.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 265,
+    "text": "Mon agenda est rempli de bénévolat pour l'Association des Râleurs Professionnels.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 266,
+    "text": "Je m'entraîne pour un événement caritatif : un marathon du non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 267,
+    "text": "Je sensibilise le public au mot menacé d'extinction « non » en l'utilisant souvent.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 268,
+    "text": "J'ai vendu ce créneau aux enchères au plus offrant, qui n'a rien offert.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 269,
+    "text": "Je fais une retraite silencieuse, loin de toute responsabilité.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 270,
+    "text": "J'ai donné tout mon temps libre à quelqu'un d'autre. Je suis à découvert.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 271,
+    "text": "Je suis un régime strict sans interaction sociale.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 272,
+    "text": "Je dois annuler, j'ai dépassé mon quota d'humains pour la semaine.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 273,
+    "text": "Je suis en pleine introversion, je ne peux pas m'arrêter pour ça.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 274,
+    "text": "Ma batterie sociale est à 0 %, et mon chargeur a disparu.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 275,
+    "text": "Je suis parti en aventure d'introverti (à l'intérieur, seul).",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 276,
+    "text": "Je ne peux pas sortir, je viens de me mettre à la vie d'ermite.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 277,
+    "text": "Les mondanités ne sont plus sur la table. Littéralement, j'ai renversé la table.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 278,
+    "text": "Je suis allergique à la foule, et parfois une seule personne suffit.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 279,
+    "text": "Je pratique la distanciation sociale... avec tout le monde.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 280,
+    "text": "Mon moi public est absent du bureau. Merci de ne jamais me contacter.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 281,
+    "text": "Je me suis collé au canapé par accident.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 282,
+    "text": "Mes jambes ont porté plainte pour marche excessive.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 283,
+    "text": "Mon énergie a pris la poudre d'escampette sans moi.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 284,
+    "text": "Je vis une expérience de sortie du corps et je ne suis pas encore revenu.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 285,
+    "text": "Mon énergie et moi vivons une relation à distance.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 286,
+    "text": "Je me suis réveillé avec un cas sévère de gravité aujourd'hui. Impossible de me lever.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 287,
+    "text": "Je souffre d'un magnétisme de canapé aigu.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 288,
+    "text": "Mes membres sont en grève jusqu'à nouvel ordre.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 289,
+    "text": "Je me sens aussi actif qu'un paresseux en vacances.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 290,
+    "text": "Je suis assigné à résidence par ma propre paresse.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 291,
+    "text": "Je préfèrerais me baigner dans une soupe vieille d'une semaine plutôt que de faire ça.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 292,
+    "text": "Je préfère jongler avec des tronçonneuses les yeux bandés. Ça paraît plus sûr que dire oui.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 293,
+    "text": "J'escaladerais l'Everest pieds nus avant d'accepter ça.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 294,
+    "text": "Je préfèrerais être la seule cible d'une partie de paintball plutôt que de participer.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 295,
+    "text": "Mâcher du verre me semble plus amusant que de dire oui à ça.",
+    "tags": ["sarcastique"]
+  },
+  {
+    "id": 296,
+    "text": "Je préfèrerais m'opérer moi-même les dents sans anesthésie.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 297,
+    "text": "Dire oui ? Je défierais plutôt un kangourou à un match de boxe.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 298,
+    "text": "Je préfère marcher sur des Lego pendant une heure d'affilée.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 299,
+    "text": "Je préfère le frisson de ne pas le faire, merci.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 300,
+    "text": "J'accepterais bien, mais j'ai pour principe de ne pas foncer dans des pièges évidents.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 301,
+    "text": "Je le ferais bien, mais mon compte en banque dit que je n'ai pas de quoi payer l'essence.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 302,
+    "text": "S'il n'y a pas de prix en espèces pour moi, je vais devoir refuser.",
+    "tags": ["professionnel"]
+  },
+  {
+    "id": 303,
+    "text": "Je ne travaille qu'à la commission, et cette demande ne paie même pas en pizza.",
+    "tags": ["professionnel", "spirituel"]
+  },
+  {
+    "id": 304,
+    "text": "Si tu me paies en lingots d'or, je reconsidère. Sinon, non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 305,
+    "text": "Mon comptable dit qu'un oui ne s'équilibre pas dans mes comptes.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 306,
+    "text": "J'attends qu'un riche mécène finance mes oui.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 307,
+    "text": "Ça ne rentre pas dans mon budget temps et énergie.",
+    "tags": ["professionnel"]
+  },
+  {
+    "id": 308,
+    "text": "Je suis un peu à court : à court d'argent et à court de oui.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 309,
+    "text": "Si je n'ai pas de stock-options pour ça, je ne suis pas de la partie.",
+    "tags": ["professionnel"]
+  },
+  {
+    "id": 310,
+    "text": "J'exige un acompte rien que pour envisager de dire oui.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 311,
+    "text": "J'attends un signe de l'univers... ah, le voilà : il dit non.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 312,
+    "text": "Je dois économiser mon dernier neurone.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 313,
+    "text": "Mon angoisse existentielle et moi avons déjà des projets.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 314,
+    "text": "Je suis en grève jusqu'à nouvel ordre, et c'est moi le délégué syndical.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 315,
+    "text": "J'ai un rendez-vous galant avec une pizza et une série.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 316,
+    "text": "Je célèbre la Journée nationale du Non. C'est un jour férié personnel.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 317,
+    "text": "J'ai pour principe de ne pas sauter dans des volcans, et ça me semble tout aussi dangereux.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 318,
+    "text": "Je ne peux pas venir, j'ai d'autres projets avec mon lit et mon oreiller.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 319,
+    "text": "Je teste combien de temps je peux tenir sans rien faire de productif.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 320,
+    "text": "Ma mère dit que je dois rester à la maison pour, euh, ranger le placard par ordre alphabétique.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 321,
+    "text": "Ma famille m'a réservé pour une partie de cache-cache, et c'est moi qui manque.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 322,
+    "text": "Mes enfants m'ont privé de sortie parce que j'ai essayé d'avoir une vie.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 323,
+    "text": "Je ne peux pas, les esprits de mes ancêtres seraient mécontents.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 324,
+    "text": "Mon chien ne me laisse sortir que pour les promenades, pas pour le travail.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 325,
+    "text": "Mon conjoint a déjà prévu un dîner avec moi et Netflix.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 326,
+    "text": "C'est soirée en famille, et par famille, j'entends moi et mes snacks.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 327,
+    "text": "Ce soir, je dois participer à la tradition familiale de ne rien faire.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 328,
+    "text": "Mon chat me lance son regard « n'y pense même pas ».",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 329,
+    "text": "La réunion de famille de mes poissons rouges a lieu dans mon aquarium.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 330,
+    "text": "NON, c'est juste un OUI en pleine crise d'adolescence.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 331,
+    "text": "N-O-N : trois lettres qui, ensemble, décrivent parfaitement mes projets.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 332,
+    "text": "Je vais transformer cette invitation en désinvitation.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 333,
+    "text": "On dit que deux négations valent une affirmation, mais mon unique négation tient bon.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 334,
+    "text": "Je refuse avec toutes mes consonnes et toutes mes voyelles.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 335,
+    "text": "Au cas où tu l'aurais manqué : N comme Non, O comme Oh que non, N comme Nan.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 336,
+    "text": "Ma devise est « Dis simplement non », et je suis très fidèle à ma devise.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 337,
+    "text": "Je me suis inscrit à un cours pour apprendre à dire non, et je fais juste mes devoirs.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 338,
+    "text": "Je préfère regarder l'herbe pousser à cette heure-là, désolé.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 339,
+    "text": "En fait, je comptais compter des grains de sable, ce qui me semble plus amusant.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 340,
+    "text": "J'avais hâte de réorganiser ma collection de boutons.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 341,
+    "text": "J'ai prévu un moment privilégié avec mon ventilateur de plafond.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 342,
+    "text": "J'ai un rendez-vous palpitant avec le néant absolu.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 343,
+    "text": "J'ai une liaison passionnée avec mon temps libre, et je ne peux pas le tromper.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 344,
+    "text": "J'ai une place au premier rang dans mon canapé et je compte bien en profiter.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 345,
+    "text": "Il y a une rediffusion d'une série que je n'ai jamais vue, et je ne peux pas la rater.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 346,
+    "text": "J'ai déjà promis de passer ce temps à me tourner les pouces.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 347,
+    "text": "Je dois refuser : je ne voudrais pas éclipser tout le monde par ma présence.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 348,
+    "text": "Ma grandeur serait tout simplement trop pour cet événement.",
+    "tags": ["sarcastique"]
+  },
+  {
+    "id": 349,
+    "text": "Je ne peux pas venir, les paparazzi risqueraient d'envahir ton événement.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 350,
+    "text": "Je te rends service en ne venant pas te voler la vedette.",
+    "tags": ["sarcastique"]
+  },
+  {
+    "id": 351,
+    "text": "Je suis trop cool pour ça (et par trop cool, je veux dire trop flemmard).",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 352,
+    "text": "Permets-moi de décliner avec élégance, pour que vous puissiez vous amuser sans mon écrasante génialité.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 353,
+    "text": "Je dois refuser, je suis trop occupé à être fabuleux ailleurs.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 354,
+    "text": "Je dois humblement décliner, car ma perfection est épuisante.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 355,
+    "text": "Ce jour-là, je dois rapporter l'Anneau unique au Mordor.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 356,
+    "text": "Désolé, je dois combattre Dark Vador à ce moment-là.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 357,
+    "text": "Je dois rester près du téléphone au cas où Poudlard appellerait.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 358,
+    "text": "Je viendrais bien, mais je me suis déjà porté volontaire comme tribut ailleurs.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 359,
+    "text": "Le Bat-signal vient de s'allumer, je dois aller sauver Gotham.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 360,
+    "text": "Des zombies pourraient attaquer si je sors. Je l'ai vu dans un documentaire (bon, c'était un film de zombies).",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 361,
+    "text": "Je suis en pleine négociation avec des Minions. La domination du monde ne peut pas attendre.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 362,
+    "text": "Je dois consulter le Docteur Strange (il a déjà vu que je ne viens pas).",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 363,
+    "text": "Mon patron m'a dit de ne dire oui qu'aux augmentations, donc non à tout le reste.",
+    "tags": ["professionnel", "spirituel"]
+  },
+  {
+    "id": 364,
+    "text": "J'ai épuisé tous mes jours d'arrêt maladie, alors j'appelle pour dire que je vais bien et je reste à la maison.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 365,
+    "text": "Ma prof dit que je dois apprendre à ne pas trop m'engager.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 366,
+    "text": "J'ai un truc pour le boulot... ça s'appelle éviter le boulot.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 367,
+    "text": "Dans mon agenda pro, il y a un énorme « NON » rouge à cette date.",
+    "tags": ["professionnel", "spirituel"]
+  },
+  {
+    "id": 368,
+    "text": "Je ne peux pas, j'ai une réunion importante pour fixer un tableur et méditer sur la vie.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 369,
+    "text": "Je prends un jour de congé personnel pour éviter les personnes.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 370,
+    "text": "J'ai une conférence téléphonique avec moi-même, et ça prend beaucoup de temps.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 371,
+    "text": "Mes heures sup se sont battues avec mon temps libre, et le temps libre a perdu.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 372,
+    "text": "Mes congés du non sont entrés en vigueur.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 373,
+    "text": "Si j'y vais, ça pourrait déclencher l'apocalypse. Mieux vaut ne pas prendre de risque.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 374,
+    "text": "Je dois rester là pour empêcher l'épidémie zombie de commencer (longue histoire).",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 375,
+    "text": "Je viendrais bien, mais Nostradamus a prédit que je dirais non.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 376,
+    "text": "Si je dis oui, c'est l'un des signes de l'apocalypse. Évitons ça.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 377,
+    "text": "Ma présence est le dernier sceau avant l'apocalypse, donc c'est non.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 378,
+    "text": "J'évite de provoquer un effet papillon qui mettrait fin au monde.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 379,
+    "text": "La légende dit que si j'accepte un jour, le monde finira dans un numéro de comédie musicale spectaculaire.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 380,
+    "text": "J'ai passé un pacte avec un démon pour ne jamais dire oui, et je déteste rompre un contrat.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 381,
+    "text": "L'horloge de l'apocalypse accélère chaque fois que j'envisage d'accepter.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 382,
+    "text": "Tu peux interpréter mon silence comme un non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 383,
+    "text": "En esprit, je hoche la tête, mais physiquement, je la secoue.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 384,
+    "text": "Bien sûr... que tu trouveras quelqu'un d'autre, non ?",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 385,
+    "text": "Le oui fait partie de mon vocabulaire, mais pas aujourd'hui.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 386,
+    "text": "Sur une échelle de oui à non, je suis à « pas dans un million d'années ».",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 387,
+    "text": "Je voulais dire oui, mais seul un non est sorti.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 388,
+    "text": "Considère que mon « oui » s'est perdu à la poste.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 389,
+    "text": "O-U-I sont des lettres que tu n'entendras pas de ma bouche aujourd'hui.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 390,
+    "text": "Imagine-moi en train de ne pas faire ça avec enthousiasme.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 391,
+    "text": "Tu m'imagines en train d'aider ? Maintenant, imagine l'inverse. Voilà.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 392,
+    "text": "Je me sens malchanceux, donc je ne vais pas prendre le risque de dire oui.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 393,
+    "text": "J'ai lancé les dés, et c'est tombé sur « non ».",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 394,
+    "text": "J'ai consulté Dame Fortune, elle m'a dit de rester chez moi.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 395,
+    "text": "Si j'avais un euro chaque fois que je dis non, je serais riche. D'ailleurs : non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 396,
+    "text": "Je viendrais bien, mais je suis passé sous une échelle et j'ai cassé un miroir. Je ne tente pas le diable.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 397,
+    "text": "Ma voyante dit que ce n'est pas dans mes astres, et je lui fais confiance.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 398,
+    "text": "Le destin a swipé à gauche.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 399,
+    "text": "Les étoiles se sont alignées... pour former un grand « NON ».",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 400,
+    "text": "Je ne peux pas, la météo annonce 100 % de chances que je reste à la maison.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 401,
+    "text": "Il pleut des non, et j'en suis trempé.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 402,
+    "text": "Je ne sors que par temps parfait, et ce n'est clairement pas le cas (pour moi).",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 403,
+    "text": "Je subis une grosse averse de flemme.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 404,
+    "text": "Les vents du destin ont soufflé, et je me suis pris un « non » en pleine figure.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 405,
+    "text": "Une tempête se prépare, et elle s'appelle Ma Réticence.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 406,
+    "text": "Je soupçonne qu'une tornade soudaine de responsabilités va me garder à l'intérieur.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 407,
+    "text": "Je suis un peu patraque, plus précisément sous un nuage de non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 408,
+    "text": "Prévisions pour ce jour-là : forte probabilité que je ne vienne pas.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 409,
+    "text": "Il pleut, et je n'ai pas envie de sortir et de fondre : je suis fait de sucre et de sarcasme.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 410,
+    "text": "Je pourrais dire oui, mais ce serait un mensonge.",
+    "tags": []
+  },
+  {
+    "id": 411,
+    "text": "Mon cœur dit oui, mais mon âme dit « tu plaisantes ? ».",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 412,
+    "text": "Je suis physiquement capable de le faire, juste moralement opposé (à l'effort).",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 413,
+    "text": "J'ai un conflit intérieur : une partie de moi dit non. L'autre partie dit non aussi.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 414,
+    "text": "J'ai atteint l'âge où je dis non à ce que je déteste. Et je déteste ça.",
+    "tags": ["sarcastique"]
+  },
+  {
+    "id": 415,
+    "text": "Ma volonté est coincée dans les bouchons et n'arrivera pas à temps.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 416,
+    "text": "J'y ai réfléchi. La réflexion était « non ».",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 417,
+    "text": "En théorie, je pourrais, mais restons dans la réalité, où je ne le ferai pas.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 418,
+    "text": "J'essaie d'arrêter de vouloir faire plaisir à tout le monde, et je commence maintenant.",
+    "tags": []
+  },
+  {
+    "id": 419,
+    "text": "Je viens de m'entraîner à dire « non » devant le miroir, et ça m'a semblé juste.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 420,
+    "text": "Je ne peux pas dire oui avant mon café. Et je ne compte jamais boire de café.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 421,
+    "text": "Pas de café, pas de oui.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 422,
+    "text": "J'ai un pacte avec le café : aucune décision importante sans lui. Et je n'en ai plus.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 423,
+    "text": "Je dirais oui, mais je n'ai pas atteint mon quota de café quotidien pour en assumer les conséquences.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 424,
+    "text": "Je suis dans un état décaféiné de non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 425,
+    "text": "Mon cerveau ne fonctionne qu'à la caféine, et nous subissons une coupure de courant.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 426,
+    "text": "La machine à café est en arrêt maladie, donc je suis incapable d'accepter quoi que ce soit.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 427,
+    "text": "Mon café du matin et moi avons décidé que ça ne valait pas la caféine nécessaire.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 428,
+    "text": "Je suis trop occupé à comploter la domination du monde pour venir.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 429,
+    "text": "Si je disais oui, ça pourrait ruiner mon plan diabolique.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 430,
+    "text": "Je suis au milieu d'une machination sournoise et je ne peux pas me libérer.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 431,
+    "text": "Je ne peux pas t'aider ; je suis un super-méchant en formation, et ça ruinerait ma crédibilité.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 432,
+    "text": "Je me joindrais bien à vous, mais je devrais ensuite te recruter dans mes plans, et ça ne te plairait pas.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 433,
+    "text": "Je réfléchis à comment conquérir le monde, et j'ai besoin d'une concentration totale.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 434,
+    "text": "Mes sbires ont prévu une révolte ce jour-là, et je dois être présent.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 435,
+    "text": "Je dois malheureusement décliner, j'ai beaucoup de rires diaboliques à répéter.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 436,
+    "text": "Le mal ne dort jamais, et apparemment moi non plus, mais je ne sors certainement pas.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 437,
+    "text": "Pour préserver l'équilibre de la Force, je dois refuser.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 438,
+    "text": "Mon yin et mon yang me disent de ne pas le faire.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 439,
+    "text": "Au nom de l'équilibre cosmique, je ne peux pas accepter.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 440,
+    "text": "Je fais un ajustement feng shui de ma vie qui interdit tout nouvel engagement.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 441,
+    "text": "Je dois refuser, sinon le délicat équilibre de ma paresse sera perturbé.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 442,
+    "text": "Dire oui déséquilibrerait mon ratio hebdomadaire de oui et de non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 443,
+    "text": "Je dois garder mon karma propre, et je sens qu'un oui le salirait.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 444,
+    "text": "Je dois atteindre la paix intérieure, ce qui veut dire ne pas me compliquer la journée avec ça.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 445,
+    "text": "J'ai peur que si je m'amuse, ça devienne une mauvaise habitude.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 446,
+    "text": "Si ça me plaît, je devrai recommencer, donc non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 447,
+    "text": "J'ai peur du succès, alors je dois refuser tout ce qui pourrait marcher.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 448,
+    "text": "J'ai peur de placer la barre trop haut si je dis oui et que je fais du bon travail.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 449,
+    "text": "S'amuser ? Je ne suis pas sûr de me souvenir de ce que c'est, mieux vaut ne pas prendre de risque.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 450,
+    "text": "J'évite tout ce qui pourrait me faire trop sourire.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 451,
+    "text": "J'essaie de rester mystérieux, et dire oui me rendrait trop accessible.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 452,
+    "text": "Je garde mes attentes basses en ne faisant rien.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 453,
+    "text": "J'évite de m'amuser jusqu'à nouvel ordre.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 454,
+    "text": "Me demander ça, c'est comme demander à un poisson de grimper à un arbre.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 455,
+    "text": "Moi faisant ça, ce serait comme une poule qui essaie de faire de l'algèbre.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 456,
+    "text": "Un oui de ma part serait aussi rare qu'un chat végan.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 457,
+    "text": "Cette idée et moi, c'est comme l'huile et l'eau.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 458,
+    "text": "Ma participation, ce serait comme faire entrer un carré dans un trou rond. Ça ne colle pas.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 459,
+    "text": "Ma motivation et cette tâche sont comme deux aimants qui se repoussent.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 460,
+    "text": "Ce serait comme espérer qu'un paresseux gagne le 100 mètres.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 461,
+    "text": "Que je dise oui est à peu près aussi probable que des cochons aux commandes d'un vaisseau spatial.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 462,
+    "text": "Cette demande est le beurre de cacahuète de mon allergie.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 463,
+    "text": "Je viens de réaliser que c'est un jour férié : la Journée nationale du Je-Le-Ferai-Pas.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 464,
+    "text": "Je célèbre une fête personnelle appelée Nonvembre.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 465,
+    "text": "Ce jour-là, je suis réservé pour la Fête du Non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 466,
+    "text": "Je me suis déjà engagé pour la Fête anti-travail.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 467,
+    "text": "Je célèbre la Journée du contraire en faisant l'inverse de ce que tu demandes.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 468,
+    "text": "Désolé, c'est mon jour de repos annuel... comme le sabbat, mais pour la paresse.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 469,
+    "text": "Je ne fête que les événements avec du gâteau, donc sans gâteau, c'est non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 470,
+    "text": "Cette date tombe en plein pendant mon apéro prolongé.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 471,
+    "text": "C'est l'anniversaire de mon doudou, ce qui est pratiquement une fête nationale pour moi.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 472,
+    "text": "J'ai envie de dire oui, mais mon bon sens hurle « non » en boucle.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 473,
+    "text": "Mon cœur dit peut-être, mais mon cerveau a brandi un énorme drapeau rouge.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 474,
+    "text": "Mon instinct s'est mis à danser la Macarena quand tu as demandé (c'est une danse du non).",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 475,
+    "text": "Chaque fibre de mon être fait la ola en l'honneur du non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 476,
+    "text": "La petite voix responsable dans ma tête et la grande voix paresseuse sont d'accord : non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 477,
+    "text": "J'ai demandé à mon bon sens, et il a ri aux éclats.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 478,
+    "text": "Mon cerveau a surligné ta demande et a appuyé sur Supprimer.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 479,
+    "text": "Ma conscience me hanterait si je disais oui.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 480,
+    "text": "Même l'ange sur mon épaule dit : « Nan, mec. »",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 481,
+    "text": "Ma voix intérieure hurle juste « NOOOON », façon Dark Vador.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 482,
+    "text": "Je ne procrastine pas : je dis non de manière proactive, à l'avance.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 483,
+    "text": "Je repousse ma décision jusqu'à la fin des temps. Spoiler : c'est non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 484,
+    "text": "Pourquoi faire aujourd'hui ce qu'on peut éviter indéfiniment ?",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 485,
+    "text": "Mon agenda indique juste « Non » à chaque page cette semaine.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 486,
+    "text": "Je mets ta demande sur ma liste de tâches, juste après « apprendre la téléportation ».",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 487,
+    "text": "Je suis en train de reporter ma procrastination à plus tard.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 488,
+    "text": "J'attends la dernière minute, et elle n'est pas encore arrivée.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 489,
+    "text": "J'ai pensé le faire plus tard, mais plus tard est déjà complet.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 490,
+    "text": "Je suis sur une belle lancée de procrastination, je ne peux pas m'arrêter maintenant.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 491,
+    "text": "Je reporte mon oui à une année qui n'existe pas.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 492,
+    "text": "J'aiderais bien, mais alors tu aurais deux personnes qui ont besoin d'aide.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 493,
+    "text": "Je ne suis pas sûr que tu puisses te permettre les dégâts que je ferais en essayant.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 494,
+    "text": "Mon aide est garantie satisfait ou remboursé, mais tu n'en veux pas.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 495,
+    "text": "Je suis la dernière personne qui devrait faire ça. Littéralement, je suis le dernier de la file.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 496,
+    "text": "J'ai essayé un truc similaire une fois. Disons que les pompiers ont dû intervenir.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 497,
+    "text": "Si je le fais, tu passeras plus de temps à corriger mes erreurs.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 498,
+    "text": "Ma compétence est en vacances en ce moment.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 499,
+    "text": "J'excelle dans la procrastination, pas dans l'action.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 500,
+    "text": "Je me porterais volontaire, mais mes frais d'incompétence sont assez élevés.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 501,
+    "text": "J'aiderais bien, mais je devrais ensuite décliner légalement toute responsabilité quant au résultat.",
+    "tags": ["professionnel", "spirituel"]
+  },
+  {
+    "id": 502,
+    "text": "Ça ne m'apporte aucune joie, alors je passe.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 503,
+    "text": "Cette idée ne me donne pas de bonnes vibes.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 504,
+    "text": "Je ne ressens pas une forte attraction gravitationnelle vers ça.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 505,
+    "text": "Mon niveau d'intérêt se situe entre zéro et le négatif.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 506,
+    "text": "Si j'avais encore moins d'intérêt, je serais dans le coma.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 507,
+    "text": "Ma curiosité a quitté la pièce en entendant cette idée.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 508,
+    "text": "Je suis sûr que c'est fascinant, mais ma capacité d'attention n'est pas d'accord.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 509,
+    "text": "Je garde mon enthousiasme pour quelque chose de plus ennuyeux.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 510,
+    "text": "Je me suis endormi à mi-chemin de la réflexion.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 511,
+    "text": "J'ai essayé de m'enthousiasmer et je me suis claqué un muscle.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 512,
+    "text": "L'État m'a placé dans un programme de protection des témoins contre ce genre d'événements.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 513,
+    "text": "Mon conseiller de probation dit que je n'ai le droit de travailler que sur ma paresse.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 514,
+    "text": "La DGSI a appelé : un oui de ma part serait un risque pour la sécurité nationale.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 515,
+    "text": "Je viendrais bien, mais le juge de ma vie m'a condamné à rester chez moi.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 516,
+    "text": "On m'a retiré mon permis de m'amuser.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 517,
+    "text": "J'aimerais bien obéir, mais j'ai reçu des ordres stricts de moi-même de ne pas le faire.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 518,
+    "text": "Le fantôme de la reine d'Angleterre m'a ordonné de rester chez moi (je n'obéis qu'aux ordres royaux).",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 519,
+    "text": "L'île où je suis exilé ne me permet pas de sortir pour des événements.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 520,
+    "text": "Je suis contractuellement tenu de refuser selon les conditions de mes choix de vie.",
+    "tags": ["professionnel", "spirituel"]
+  },
+  {
+    "id": 521,
+    "text": "La police m'a dit que je suis trop intéressant pour les rassemblements ordinaires.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 522,
+    "text": "Je suis trop vieux pour ce genre d'engagement.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 523,
+    "text": "Je crois que j'ai atteint l'âge où je dis simplement non à ce genre de choses.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 524,
+    "text": "À mon âge, mon bouton « je m'en soucie » est cassé.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 525,
+    "text": "Je fais ma crise de la quarantaine, et dire oui n'en fait pas partie.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 526,
+    "text": "Je suis dans ma phase rebelle où je ne fais que ce que je veux, donc non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 527,
+    "text": "Je canalise le vieux grincheux qui sommeille en moi et je reste à la maison.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 528,
+    "text": "Je revis ma rébellion d'ado en disant non à tout.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 529,
+    "text": "De mon temps, on n'était pas obligé de faire ce qu'on ne voulait pas (et je compte bien continuer).",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 530,
+    "text": "Je m'entraîne pour mon avenir de vieil ermite grincheux.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 531,
+    "text": "Je vieillis comme un bon vin, c'est-à-dire de plus en plus têtu quand il s'agit de dire non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 532,
+    "text": "Ma marraine la fée m'a dit de rester à la maison, sinon je me transforme en citrouille.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 533,
+    "text": "J'attends le prince charmant avec une pizza, donc je ne peux aller nulle part.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 534,
+    "text": "Je ne peux pas venir, le grand méchant loup est à ma porte (il vend des assurances, apparemment).",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 535,
+    "text": "Je suis sous un sortilège de sommeil que seuls le temps (et ne pas faire ça) peuvent briser.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 536,
+    "text": "J'ai perdu ma pantoufle de verre et je ne peux pas sortir sans chaussures correctes.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 537,
+    "text": "Je suis coincé dans un conte de fées, et accepter ça ne fait pas partie de l'histoire.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 538,
+    "text": "Je dois surveiller le frigo ce soir. Les snacks comptent sur moi.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 539,
+    "text": "J'ai consacré ce moment à une glace qui a besoin de compagnie.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 540,
+    "text": "Je fais le plein de glucides pour un marathon de ne-pas-faire-ça.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 541,
+    "text": "J'ai un dîner en tête-à-tête avec une pizza, et elle serait jalouse si j'annulais.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 542,
+    "text": "Je ne peux pas sortir : mon frigo vient d'ouvrir une bouteille de vin, et ce serait impoli de ne pas trinquer.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 543,
+    "text": "Je teste la théorie selon laquelle on peut survivre uniquement avec des chips. Impossible d'interrompre ça.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 544,
+    "text": "Mon four et moi prévoyons de faire un gâteau entier et de le manger.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 545,
+    "text": "J'ai promis d'aider mon pop-corn à éclater. C'est un processus très exigeant.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 546,
+    "text": "Je le ferais bien, mais je viens de commencer un repas de cinq plats pour une personne (moi).",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 547,
+    "text": "J'apprends à cuisiner des plats invisibles, et ça prend énormément de temps.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 548,
+    "text": "Je dois rester d'astreinte au cas où Netflix aurait besoin que je regarde quelque chose.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 549,
+    "text": "Je suis de garde en tant que patate de canapé de la famille.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 550,
+    "text": "Cette semaine, c'est moi le désigné pour rester à la maison.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 551,
+    "text": "Je suis juré au tribunal de ma propre paresse.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 552,
+    "text": "Je suis le contact d'urgence de ma télé, je dois donc rester joignable.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 553,
+    "text": "Je me suis engagé à rester à la maison en cas d'urgence de grignotage.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 554,
+    "text": "Je suis cobaye pour une étude sur la grasse matinée, et j'ai une séance à ce moment-là.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 555,
+    "text": "Je fais partie d'un projet top secret appelé Projet Non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 556,
+    "text": "J'ai un devoir à accomplir : empêcher mon canapé de se sentir seul.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 557,
+    "text": "Ma voiture a décidé de prendre un jour de congé.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 558,
+    "text": "Les transports en commun de mon salon sont actuellement hors service.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 559,
+    "text": "J'ai essayé de partir, mais ma porte ne m'a pas laissé faire (on a négocié, et je suis resté).",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 560,
+    "text": "Mon GPS m'a conseillé de rester chez moi pour éviter les mauvaises décisions.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 561,
+    "text": "Mon poney de covoiturage est malade. Oui, c'est un poney, ne pose pas de questions.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 562,
+    "text": "J'irais bien à vélo, mais mon vélo s'est moqué de moi.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 563,
+    "text": "Uber ne me conduit pas vers les mauvaises idées.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 564,
+    "text": "J'ai raté le train de pensée qui m'aurait fait y aller.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 565,
+    "text": "Mon balai est au garage (Halloween l'a achevé).",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 566,
+    "text": "Tous les chemins mènent à ce que je reste chez moi.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 567,
+    "text": "Mon assurance ne couvre pas les situations où je fais ça.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 568,
+    "text": "Je dois rester dans un environnement sûr, et cet événement me semble risqué (pour ma santé mentale).",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 569,
+    "text": "La médecine du travail a classé cette activité comme dangereuse pour moi.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 570,
+    "text": "J'attends que ma combinaison en papier bulle arrive avant de tenter ce genre de choses.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 571,
+    "text": "Ça m'a l'air dangereux pour mon bien-être (surtout mon bien-être mental).",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 572,
+    "text": "Je n'utilise des engins lourds (comme mon canapé) que sous surveillance, donc je ne peux pas venir.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 573,
+    "text": "La dernière fois que j'ai essayé, je me suis coupé l'âme avec une feuille de papier.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 574,
+    "text": "Pour des raisons de sécurité, je dois me tenir à l'écart de ce genre d'émotions.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 575,
+    "text": "Mon ange gardien a demandé une ordonnance d'éloignement contre ce projet.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 576,
+    "text": "Je préfère ne pas abîmer ma joie de vivre en disant oui.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 577,
+    "text": "J'ai transcendé le besoin de ce genre d'activités.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 578,
+    "text": "Je me concentre sur le chemin du rien faire, pas sur la destination de cette tâche.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 579,
+    "text": "Ma crise existentielle et moi avons décidé que non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 580,
+    "text": "Dans la grande tapisserie de la vie, je suis le fil qui passe son tour.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 581,
+    "text": "J'ai compris que le sens de la vie n'est pas de faire ça, donc ça va.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 582,
+    "text": "Je préfère chercher le sens de la vie plutôt que venir.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 583,
+    "text": "Je pense, donc je suis... pas partant.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 584,
+    "text": "Ma philosophie actuelle : si ça nécessite un pantalon, c'est non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 585,
+    "text": "Je pratique le wu wei (le non-agir) selon le taoïsme, je dois donc décliner.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 586,
+    "text": "Faire ou ne pas faire, telle est la question. Et ma réponse : ne pas faire.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 587,
+    "text": "Je me suis entraîné pendant des années auprès d'un maître du non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 588,
+    "text": "Je suis ceinture noire de Non-jitsu.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 589,
+    "text": "Je me prépare depuis toujours à dire non à cette demande précise.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 590,
+    "text": "J'ai suivi un séminaire sur l'affirmation de soi, et je brûle d'utiliser ce que j'ai appris : non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 591,
+    "text": "Mes réflexes sont affûtés pour refuser automatiquement les invitations.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 592,
+    "text": "Je me suis inscrit à un atelier « Dis simplement non », et je dois m'entraîner.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 593,
+    "text": "Je fais partie d'une société secrète où l'on ne communique que par des refus.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 594,
+    "text": "Mon réflexe, c'est non, et mes réflexes sont particulièrement vifs aujourd'hui.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 595,
+    "text": "Dire non, c'est mon cardio.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 596,
+    "text": "J'ai répété mon « non » toute la semaine pour une occasion comme celle-ci.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 597,
+    "text": "« Non » est mon deuxième prénom. Pas officiellement, mais spirituellement.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 598,
+    "text": "Je viens d'une longue lignée d'experts du refus.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 599,
+    "text": "Mon test ADN est revenu : je suis à 100 % pas partant.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 600,
+    "text": "Je suis génétiquement prédisposé à dire non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 601,
+    "text": "Je suis né pour dire non. C'était mon premier mot, et je n'ai jamais arrêté.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 602,
+    "text": "J'ai une maladie génétique rare qui me fait faire des poussées de refus.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 603,
+    "text": "Mon animal totem est un paresseux, et il me dit de ne pas bouger.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 604,
+    "text": "Enfant, j'ai juré d'éviter tout ce qui ressemble à ça.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 605,
+    "text": "Mon coach de vie m'a conseillé d'éliminer les sources de stress, à commencer par celle-ci.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 606,
+    "text": "Mes amis feraient une crise cardiaque si je me mettais soudain à dire oui.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 607,
+    "text": "Ce serait un mauvais précédent si je commençais à accepter des demandes raisonnables.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 608,
+    "text": "Si je commence à dire oui maintenant, où est-ce que ça va s'arrêter ? À la domination du monde ? Mieux vaut pas.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 609,
+    "text": "Dire oui une seule fois pourrait me donner une réputation de personne serviable, et ça, pas question.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 610,
+    "text": "Je ne peux pas infliger un tel choc de responsabilité à mon organisme. Ordre du médecin.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 611,
+    "text": "J'ai peur qu'un oui maintenant ouvre les vannes des attentes.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 612,
+    "text": "Si je disais oui, les gens s'attendraient à ce que je recommence. Grands dieux, non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 613,
+    "text": "Accepter ça déconcerterait tous ceux qui me connaissent comme un esquiveur professionnel.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 614,
+    "text": "Ma marque, c'est « la déception fiable », et je dois rester cohérent.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 615,
+    "text": "On peut remettre ça à plus tard, et puis perdre la date pour toujours ?",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 616,
+    "text": "Notons-le pour le 30 février.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 617,
+    "text": "Je viendrai le 32 de ce mois.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 618,
+    "text": "Et si je venais la prochaine fois... dans un univers parallèle ?",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 619,
+    "text": "Peut-être une autre fois, quand les poules auront des dents.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 620,
+    "text": "Je serai là en esprit. Plus précisément, dans l'esprit de « pas là ».",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 621,
+    "text": "Disons que j'étais là dans notre imagination et restons-en là.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 622,
+    "text": "Je suis là par la pensée, juste pas en chair et en os.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 623,
+    "text": "Je te préviens quand je suis libre. (Ne m'attends pas.)",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 624,
+    "text": "Je suis en mission dans un jeu vidéo, et la vraie vie ne fait pas le poids.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 625,
+    "text": "Je le ferais bien, mais il me manque un point d'XP pour passer au niveau supérieur en ne-rien-faire.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 626,
+    "text": "Ma guilde sur World of Warcraft a besoin que je farme des potions de Non.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 627,
+    "text": "Je suis au milieu d'une partie de Tetris à hauts enjeux (oui, c'est très sérieux).",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 628,
+    "text": "J'ai promis à mes amis en ligne de garder le serveur en vie en restant connecté.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 629,
+    "text": "Je travaille mes compétences de gamer ; les quêtes de la vraie vie attendront.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 630,
+    "text": "Ma manette a rendu l'âme, et mon envie de sortir avec elle.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 631,
+    "text": "Je joue actuellement le rôle d'un reclus.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 632,
+    "text": "Je suis occupé à battre un nouveau record d'introversion.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 633,
+    "text": "Je n'ai rien à me mettre qui irait avec l'air de regret que j'aurais si j'y allais.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 634,
+    "text": "Tous mes vêtements sont allergiques aux activités en extérieur.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 635,
+    "text": "Ma garde-robe et moi avons un accord : elle ne voit que le canapé.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 636,
+    "text": "J'irais bien, mais j'ai déjà enfilé mon pyjama.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 637,
+    "text": "Je ne trouve pas la motivation pour m'habiller. Je crois que je l'ai donnée à une association.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 638,
+    "text": "Le code vestimentaire ressemble à « effort », donc je passe.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 639,
+    "text": "Je ne vais qu'aux événements où le pyjama est accepté comme tenue de soirée.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 640,
+    "text": "Je suis coincé dans le Narnia de mon placard et je ne peux pas en sortir.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 641,
+    "text": "Désolé, rien dans mon placard ne crie « c'est parti ». Tout crie « reste chez toi ».",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 642,
+    "text": "Mon chien a mangé mes devoirs, puis il a réclamé une suite.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 643,
+    "text": "Un poisson a-t-il besoin d'un vélo ? C'est à peu près le besoin que j'ai de faire ça.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 644,
+    "text": "Les poules ont-elles des dents ? C'est seulement à ce moment-là que je le ferais.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 645,
+    "text": "Le ciel est-il vert ? Non ? Voilà ma réponse.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 646,
+    "text": "Serait-il sage d'accepter ? Le Conseil de Moi-Même dit non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 647,
+    "text": "C'est le moment où je dis oui ? Non ? Tant mieux, parce que je ne le dirai pas.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 648,
+    "text": "Est-ce que j'ai l'air de quelqu'un qui ferait ça ? Exact, non.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 649,
+    "text": "C'est la Journée du contraire ? Parce que sinon, ma réponse est non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 650,
+    "text": "Est-ce que je viens de m'entendre me porter volontaire ? Non, et ça va rester comme ça.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 651,
+    "text": "C'est une question piège ? Parce que je réponds comme si c'en était une : non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 652,
+    "text": "Si je viens ? Je te répondrai quand l'eau ne mouillera plus.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 653,
+    "text": "Je vais te donner ma réponse en danse contemporaine. *danse un NON*",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 654,
+    "text": "Si je savais chanter, je te chanterais « je dis nooon » façon opéra.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 655,
+    "text": "Imagine-moi crier théâtralement « Je décline ! » dans un grand mouvement de cape.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 656,
+    "text": "Je t'écris un haïku en guise de réponse : « Absolument pas / Indubitablement non / Toujours non, pardon ».",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 657,
+    "text": "Imagine un avion qui écrit « NON » dans le ciel au-dessus de ta maison. C'est ma réponse.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 658,
+    "text": "Insérer un son d'orchestre : tadam tadam NON.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 659,
+    "text": "Je lance des confettis, et les confettis forment le mot « NON ».",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 660,
+    "text": "Je lève une pancarte avec un 0, comme 0 % de chances.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 661,
+    "text": "Moment d'impro : je joue quelqu'un qui dit non. Fin de la scène.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 662,
+    "text": "*Sortie théâtrale avec monologue de refus*",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 663,
+    "text": "J'ai été enlevé par des extraterrestres hier, et ils m'ont donné l'ordre strict d'éviter ça.",
+    "tags": ["absurde"]
+  },
+  {
+    "id": 664,
+    "text": "Des extraterrestres m'ont invité à une fête galactique, et j'ai déjà répondu oui.",
+    "tags": ["absurde"]
+  },
+  {
+    "id": 665,
+    "text": "Je ne peux pas venir, je suis le guide touristique des extraterrestres sur Terre, et ils sont très exigeants.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 666,
+    "text": "Les extraterrestres ont emporté mon enthousiasme en repartant.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 667,
+    "text": "Je suis candidat à la présidence du Club de la Procrastination, et ma campagne me prend beaucoup de temps.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 668,
+    "text": "Mon envie de participer a mystérieusement disparu au moment où tu as demandé.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 669,
+    "text": "J'ai joué à la loterie de l'intérêt, et j'ai perdu.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 670,
+    "text": "J'ai une peur irrationnelle d'apprécier mes obligations par accident, alors je les évite.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 671,
+    "text": "Comme dit le mème : ain't nobody got time for that.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 672,
+    "text": "Je suis tellement enfoncé dans ma zone de confort que je n'en vois même plus la sortie.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 673,
+    "text": "J'ai atteint mon quota de non pour la journée.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 674,
+    "text": "Mon agenda vient de demander une ordonnance d'éloignement contre les nouveaux événements.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 675,
+    "text": "Je suis en couple depuis longtemps avec l'annulation de projets.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 676,
+    "text": "Je ressens le JOMO (Joy Of Missing Out, la joie de manquer quelque chose) pour cet événement.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 677,
+    "text": "Version inversée de Nike : « Just don't do it. »",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 678,
+    "text": "Je préfère regretter de ne pas l'avoir fait que de regretter de l'avoir fait.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 679,
+    "text": "J'applique ma version de la loi de Murphy : tout ce qui peut être évité le sera.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 680,
+    "text": "Ma réponse est comme le chat de Schrödinger : à la fois oui et non, jusqu'à ce que tu comprennes que c'est juste non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 681,
+    "text": "YOLO, et c'est justement pour ça que je dis non : je tiens trop à mon unique vie.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 682,
+    "text": "Mon appli d'horoscope vient de m'envoyer une notification : « Aujourd'hui est un bon jour pour dire non. »",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 683,
+    "text": "Si dire non était une discipline olympique, j'aurais la médaille d'or.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 684,
+    "text": "Je porte mon refus comme une médaille.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 685,
+    "text": "Je vais devoir refuser plus vite qu'un guépard sous boisson énergisante.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 686,
+    "text": "Je dirais oui, mais je devrais sortir de ma rêverie, et la réalité est bien moins agréable.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 687,
+    "text": "Le destin vient de se glisser dans mes DM avec un gros « non ».",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 688,
+    "text": "Mon cerveau est plein d'informations inutiles ; il n'y a plus de place pour de nouvelles tâches.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 689,
+    "text": "Si je t'aide, je serais fier de moi, et je ne supporte pas autant d'émotions.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 690,
+    "text": "Je te laisse deux choix : non, ou nan. À toi de voir.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 691,
+    "text": "Faisons un QCM. Je choisis la réponse D : ça n'arrivera pas.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 692,
+    "text": "Vois le bon côté : au moins, je suis constant dans mes refus.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 693,
+    "text": "Considère ça comme un « non » servi avec une garniture de sarcasme.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 694,
+    "text": "Je suis coincé dans un trou noir de procrastination et je ne peux pas m'en échapper à temps.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 695,
+    "text": "Je ne dis oui que pendant les éclipses solaires, et il n'y en a aucune de prévue.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 696,
+    "text": "Le mot « oui » me donne de l'urticaire ; j'évite une réaction allergique.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 697,
+    "text": "J'ai fait un rêve où je disais oui, et je me suis réveillé en sueur. Pas question de le faire en vrai.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 698,
+    "text": "Le temps que tu poses la question, j'avais déjà décidé que c'était non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 699,
+    "text": "Désolé, je ne t'entends pas avec tout le bruit que je fais en ne faisant pas ça.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 700,
+    "text": "Je crois que la connexion est mauvaise. Si tu m'as demandé quelque chose, la réponse est un grésillement... autrement dit, non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 701,
+    "text": "J'ai mal entendu, j'ai cru que tu disais « on va prendre l'apéro ? ». Comme ce n'est pas le cas, ça ne m'intéresse pas.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 702,
+    "text": "Mon correcteur automatique a transformé ta demande en « non ». Bizarre, non ?",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 703,
+    "text": "J'ai bien reçu ton message, mais mon filtre antispam l'a classé dans « tâches indésirables ».",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 704,
+    "text": "Je crois que tu t'es trompé de numéro : la personne qui dit oui n'est pas disponible.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 705,
+    "text": "Je parle couramment le sarcasme, donc j'interprète ta question comme un non catégorique.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 706,
+    "text": "Je te mets en attente... *ne reprend jamais l'appel*",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 707,
+    "text": "Je n'ai pas reçu la note de service disant que j'étais censé m'en soucier.",
+    "tags": ["sarcastique"]
+  },
+  {
+    "id": 708,
+    "text": "Je rencontre des difficultés techniques pour m'en soucier.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 709,
+    "text": "Les dieux de la procrastination exigent que je sacrifie cette tâche en ne la faisant pas.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 710,
+    "text": "« Non » est une phrase complète, et c'est ma réponse définitive.",
+    "tags": ["professionnel"]
+  },
+  {
+    "id": 711,
+    "text": "J'ai peur qu'accepter déclenche une apocalypse zombie, alors je joue la sécurité.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 712,
+    "text": "Mon sens d'araignée picote, et il me dit de ne pas faire ça.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 713,
+    "text": "On dit qu'il faut suivre ses rêves, et mon rêve, c'est de ne pas faire ça.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 714,
+    "text": "Je suis juste le conseil « fais ce que tu aimes », et j'aime dire non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 715,
+    "text": "Pas aujourd'hui, Satan. En fait, aucun jour.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 716,
+    "text": "Ma procrastination fait un travail formidable ; je ne voudrais pas casser son élan.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 717,
+    "text": "NON veut dire Nouvelles Occasions de Ne rien faire.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 718,
+    "text": "J'ai parié que je pouvais dire non à tout pendant une semaine. Je suis sur le point de gagner.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 719,
+    "text": "Je mène une expérience sociale où je dis non et j'observe ce qui se passe.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 720,
+    "text": "L'une de mes bêtes noires, c'est de faire des choses, alors je n'en fais pas.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 721,
+    "text": "La vie est courte, et je préfère la gaspiller à ma façon, pas avec ça.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 722,
+    "text": "J'ai déjà atteint mon quota de mauvaises décisions du mois ; dire oui le dépasserait.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 723,
+    "text": "J'adorerais participer, mais je suis mort à l'intérieur, alors je ne peux pas.",
+    "tags": ["sarcastique"]
+  },
+  {
+    "id": 724,
+    "text": "J'ai le syndrome du personnage principal, et mon arc narratif n'inclut pas ça.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 725,
+    "text": "Le temps est une ressource non renouvelable, et je choisis de ne pas en dépenser pour ça.",
+    "tags": ["professionnel", "spirituel"]
+  },
+  {
+    "id": 726,
+    "text": "Mon essai gratuit pour faire des choses a expiré, et je ne peux pas me payer l'abonnement.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 727,
+    "text": "Je suis un régime strict « zéro engagement ».",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 728,
+    "text": "Je fais du jeûne intermittent de responsabilités ; aujourd'hui, c'est jour de jeûne.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 729,
+    "text": "Je ne dis oui que le 29 février, et on n'est pas le 29 février.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 730,
+    "text": "Je ne peux pas risquer de débloquer ma forme ultime en me rendant utile.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 731,
+    "text": "Je dois préserver mon aura de mystère en ne venant pas.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 732,
+    "text": "Je ne peux pas laisser les gens découvrir que j'ai du temps libre.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 733,
+    "text": "J'ai utilisé toute ma volonté pour sortir du lit ce matin.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 734,
+    "text": "Ma vie est un livre dont vous êtes le héros, et je suis allé directement à la page où je dis non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 735,
+    "text": "Par les pouvoirs qui me sont conférés, je dis officiellement non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 736,
+    "text": "Moi, moi-même et je avons tenu une réunion et décidé à l'unanimité de décliner.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 737,
+    "text": "Je vois ta demande, et je relance d'un non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 738,
+    "text": "Mon enthousiasme est en rupture de stock, et la date de livraison ne cesse d'être repoussée.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 739,
+    "text": "Je me remets encore de la dernière fois où j'ai dit oui.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 740,
+    "text": "Ce n'est pas de la procrastination si je n'ai jamais eu l'intention de le faire.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 741,
+    "text": "Je n'ai pas choisi la vie du non ; c'est la vie du non qui m'a choisi.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 742,
+    "text": "L'effort n'est actuellement pas pris en charge par mon système d'exploitation.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 743,
+    "text": "Mon assistant personnel (qui est imaginaire) a déjà refusé pour moi.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 744,
+    "text": "Je préfère rester un message d'absence sous forme humaine.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 745,
+    "text": "Je me suis perdu en route vers le oui et j'ai atterri au non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 746,
+    "text": "Si je dis oui, je devrai vraiment le faire. Évitons ça.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 747,
+    "text": "Dans le voyage du héros de ma vie, j'en suis à l'étape du « refus de l'appel ».",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 748,
+    "text": "Je suis en congé sabbatique de tout ce qui ressemble à du travail.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 749,
+    "text": "Ma bonne résolution du Nouvel An était de dire non plus souvent. Je commence maintenant.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 750,
+    "text": "J'ai fait une évaluation des risques, et le résultat est « non ».",
+    "tags": ["professionnel", "spirituel"]
+  },
+  {
+    "id": 751,
+    "text": "J'ai une réputation à tenir, celle de dire non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 752,
+    "text": "Mon intuition me dit qu'aujourd'hui n'est pas le jour où je commence à rendre service.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 753,
+    "text": "Rien que d'y penser, j'ai eu un mal de dos fantôme. Je passe.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 754,
+    "text": "Si j'avais un euro pour chaque fois que je dis non, j'aurais beaucoup d'euros.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 755,
+    "text": "J'assiste à une réunion du Club social antisocial (j'en suis le seul membre).",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 756,
+    "text": "Le disque dur de mon cerveau est plein, il n'y a pas de place pour cette tâche.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 757,
+    "text": "Je viendrais bien, mais j'essaie un nouveau truc où je ne viens pas.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 758,
+    "text": "J'ai le regret de t'informer que je vais vigoureusement ne pas faire ça.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 759,
+    "text": "Je vis par procuration à travers ceux qui disent oui, comme ça je n'ai pas à le faire.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 760,
+    "text": "Miroir, mon beau miroir, dois-je le faire ? « Même pas en rêve, oublie cette affaire. »",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 761,
+    "text": "Je ne peux pas dire oui, ça mettrait en péril ma place au Panthéon des procrastinateurs.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 762,
+    "text": "La probabilité que je fasse ça approche du zéro absolu.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 763,
+    "text": "Mon engagement envers le rien-faire serait jaloux si je faisais autre chose.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 764,
+    "text": "Ma compétence clé, c'est d'éviter les choses, et je dois vraiment m'y concentrer.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 765,
+    "text": "Il me manque l'enthousiasme nécessaire pour faire semblant d'y réfléchir.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 766,
+    "text": "Je suis plutôt du genre « observer de loin » que « participer ».",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 767,
+    "text": "Mon cerveau est comme un perroquet qui ne connaît qu'un mot : « non ».",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 768,
+    "text": "J'écris un livre intitulé « 101 façons de dire non ». Merci pour la matière.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 769,
+    "text": "Je mens très mal, alors je ne vais pas faire semblant de vouloir faire ça.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 770,
+    "text": "« Non. » Je donne cinq étoiles à cette réponse.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 771,
+    "text": "« Non », de ma part, avec amour.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 772,
+    "text": "Que le non soit avec toi.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 773,
+    "text": "Dire non, c'est mon superpouvoir, et je l'utilise pour sauver mon temps libre.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 774,
+    "text": "J'ai fait un burn-out rien qu'en entendant parler de ça, alors je refuse à titre préventif.",
+    "tags": ["professionnel"]
+  },
+  {
+    "id": 775,
+    "text": "J'applique le principe du moindre effort, ce qui veut dire que je dois refuser.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 776,
+    "text": "Ma vie est une sitcom sur l'art d'éviter les responsabilités, et je ne peux pas sortir de mon rôle.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 777,
+    "text": "J'ai vérifié ma disponibilité, et le test est revenu négatif.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 778,
+    "text": "Je vais faire comme si je n'avais pas entendu cette demande et continuer à ne pas la faire.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 779,
+    "text": "Pas possible, dit de la manière la plus gentille qui soit.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 780,
+    "text": "Je prends une année pour ma santé mentale (à partir de maintenant), donc je dois refuser.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 781,
+    "text": "Je refuse de répondre au motif que cela pourrait mener à du vrai travail.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 782,
+    "text": "Soyons honnêtes : on sait tous les deux que je ne vais pas le faire.",
+    "tags": ["sarcastique"]
+  },
+  {
+    "id": 783,
+    "text": "Je vais me défiler pour raisons personnelles (raison personnelle : je n'ai pas envie).",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 784,
+    "text": "Sans vouloir me vanter, je suis vraiment doué pour ne pas faire les choses.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 785,
+    "text": "Imagine un diagramme de Venn de mon emploi du temps et de ta demande : ils ne se croisent pas.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 786,
+    "text": "J'ai trop d'onglets ouverts dans mon cerveau, et aucun ne concerne ça.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 787,
+    "text": "J'ai une liste de choses à ne pas faire, et ça arrive en tête.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 788,
+    "text": "Je suis surbooké de sous-performance.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 789,
+    "text": "Cette demande dépasse ma grille salariale émotionnelle.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 790,
+    "text": "Mon enthousiasme s'est déclaré en faillite, donc je ne peux pas investir là-dedans.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 791,
+    "text": "Mon agenda est rempli de cases vides réservées à moi-même.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 792,
+    "text": "Je ne t'ignore pas, je te donne un non ferme.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 793,
+    "text": "Si je prends une chose de plus, je deviendrai officiellement un exemple à ne pas suivre.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 794,
+    "text": "Vois mon refus comme une leçon gratuite pour apprendre à gérer le rejet.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 795,
+    "text": "J'admire ta persévérance, mais c'est toujours non.",
+    "tags": ["bienveillant"]
+  },
+  {
+    "id": 796,
+    "text": "Je vis déjà sur la voie rapide du rien-faire, je ne peux pas ralentir pour ça.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 797,
+    "text": "Je ne peux pas venir, je suis extrêmement occupé à ne pas être occupé.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 798,
+    "text": "Si je t'aide, je me sentirai obligé d'aider les autres, et c'est une pente glissante que j'évite.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 799,
+    "text": "L'univers m'a dit de me faire plaisir, et je le prends comme un signe pour rester chez moi.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 800,
+    "text": "Personne ne m'a jamais accusé d'être trop serviable, et je ne compte pas commencer maintenant.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 801,
+    "text": "J'ai peur du changement, alors je m'en tiens au non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 802,
+    "text": "Ma vie est comme une tour de Jenga : une chose de plus, et tout s'effondre.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 803,
+    "text": "Je n'ai pas la bande passante (ni aucune autre bande) pour ça.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 804,
+    "text": "La vie est courte, et ma liste de siestes est longue.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 805,
+    "text": "Franchement, ma chère, c'est le cadet de mes soucis (de le faire).",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 806,
+    "text": "J'ai essayé de voir les choses de ton point de vue, mais je dois quand même dire non.",
+    "tags": ["bienveillant"]
+  },
+  {
+    "id": 807,
+    "text": "Ce n'est pas le bon moment, surtout parce que je n'ai pas envie de le faire.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 808,
+    "text": "Je suis en mode furtif social, je dois donc décliner toutes les invitations.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 809,
+    "text": "J'ai une maladie chronique qui s'appelle la flemmingite.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 810,
+    "text": "Je choisis l'illumination du canapé plutôt que des entreprises terrestres comme celle-là.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 811,
+    "text": "Je suis hors service pour une durée indéterminée.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 812,
+    "text": "Je suis en plein rituel très délicat de non-action.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 813,
+    "text": "Et si je te promettais d'y réfléchir ? (Je ne le ferai pas, mais ça fait poli.)",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 814,
+    "text": "J'ai déjà un engagement : un concours de regard avec mon mur.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 815,
+    "text": "Je serai occupé à explorer les grands espaces intérieurs.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 816,
+    "text": "Le canapé m'a accepté comme l'un des siens, et je ne peux pas trahir sa confiance.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 817,
+    "text": "Le « non » est le nouveau « oui ». Je suis juste la tendance.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 818,
+    "text": "Les chances que je fasse ça sont à peu près les mêmes que de gagner au loto sans jouer.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 819,
+    "text": "Ce n'est pas sur ma liste de choses à faire avant de mourir, c'est sur ma liste de choses dont je me fiche.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 820,
+    "text": "Excuse-moi, mon cerveau est actuellement en panne.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 821,
+    "text": "S'il y avait un prix pour éviter de participer, je serais le grand favori.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 822,
+    "text": "Mon destin est ailleurs, plus précisément sur mon canapé.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 823,
+    "text": "On ne me fait pas dire oui comme ça.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 824,
+    "text": "Si je dis oui, je devrai arrêter de me plaindre d'être débordé, et ça, pas question.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 825,
+    "text": "Mon énergie fonctionne à l'énergie solaire, et il fait nuit.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 826,
+    "text": "Je me sacrifie pour l'équipe en ne participant pas.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 827,
+    "text": "Je mets le « pro » dans « procrastination », et je ne vais pas gâcher ma série.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 828,
+    "text": "Même mon ombre a décidé de rester à la maison, alors moi aussi.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 829,
+    "text": "Heureusement, j'ai une assurance procrastination. Elle couvre ce genre de situations.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 830,
+    "text": "Ce n'est pas mon cirque, et ce ne sont pas mes singes, donc ce n'est pas mon numéro.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 831,
+    "text": "L'esprit est prompt, mais la chair a déjà commandé à emporter et s'est installée.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 832,
+    "text": "Ma volonté de faire ça est en réparation.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 833,
+    "text": "Je pourrais énumérer mille raisons de dire non, mais je vais t'épargner ça.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 834,
+    "text": "Je refuse maintenant pour éviter de refuser plus tard.",
+    "tags": ["bienveillant", "spirituel"]
+  },
+  {
+    "id": 835,
+    "text": "Je me choisis moi plutôt que cet engagement, donc non.",
+    "tags": []
+  },
+  {
+    "id": 836,
+    "text": "Je t'épargne un oui à moitié et te donne un non sincère.",
+    "tags": ["bienveillant", "spirituel"]
+  },
+  {
+    "id": 837,
+    "text": "Si ma vie était un film, ce serait le moment où je dis non et où le générique défile.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 838,
+    "text": "Je ferme la porte à cette idée (au sens propre comme au figuré).",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 839,
+    "text": "Mon intuition a crié « non » si fort que j'ai dû répondre en conséquence.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 840,
+    "text": "La réponse que tu cherches n'est pas disponible pour le moment (réessaie jamais).",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 841,
+    "text": "Pour citer une réponse célèbre : « Non. »",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 842,
+    "text": "J'exerce mon droit de dire non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 843,
+    "text": "Je n'ai jamais été aussi sûr de quelque chose que de dire non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 844,
+    "text": "Je me suis réveillé ce matin et j'ai décidé que c'était une journée « non ».",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 845,
+    "text": "Aujourd'hui, je ne parle qu'à la forme négative.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 846,
+    "text": "Ma mission : zéro engagement.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 847,
+    "text": "Même ma montre connectée me dit de ne pas bouger.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 848,
+    "text": "Je choisis Netflix plutôt que le stress, désolé.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 849,
+    "text": "Non, de la manière la plus sincère et la plus drôle possible.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 850,
+    "text": "Mon agenda est en grève.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 851,
+    "text": "Je me choisis, donc je te dis non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 852,
+    "text": "Je rends service à tout le monde en m'en tenant à ce que je fais de mieux : dire non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 853,
+    "text": "Dire non fait partie de ma routine de bien-être.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 854,
+    "text": "C'est un non sans culpabilité.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 855,
+    "text": "Si je t'aidais, je te priverais de l'occasion de le faire toi-même.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 856,
+    "text": "Mon emploi du temps est en mode avion.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 857,
+    "text": "Je suis en paix avec le fait de dire non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 858,
+    "text": "Négatif. Point.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 859,
+    "text": "Je dois protéger ma santé mentale à tout prix, donc non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 860,
+    "text": "Je ne suis pas allé aussi loin pour m'arrêter là. En fait, je ne viens pas du tout.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 861,
+    "text": "C'est un non du comité composé de moi, moi-même et je.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 862,
+    "text": "Je dois décliner, j'ai atteint mon seuil de « je m'en soucie ».",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 863,
+    "text": "Même si je le voulais, je ne pourrais pas. Et je ne le veux pas.",
+    "tags": ["sarcastique"]
+  },
+  {
+    "id": 864,
+    "text": "Je vais saisir l'occasion de ne rien faire à la place.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 865,
+    "text": "Mon envie de participer a quitté le bâtiment.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 866,
+    "text": "Ta demande a été rejetée pour manque d'intérêt de ma part.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 867,
+    "text": "Partons du principe que j'ai dit non et passons à autre chose.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 868,
+    "text": "Je suis actuellement hors service. Merci de réessayer jamais.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 869,
+    "text": "Hélas, je dois décliner.",
+    "tags": ["professionnel", "bienveillant"]
+  },
+  {
+    "id": 870,
+    "text": "Refuser cette demande me met en joie.",
+    "tags": ["sarcastique", "spirituel"]
+  },
+  {
+    "id": 871,
+    "text": "Je pourrais peut-être être convaincu, mais je dirais probablement non quand même à la fin.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 872,
+    "text": "J'ai une objection philosophique à faire ça.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 873,
+    "text": "Si j'étais encore plus indifférent, je serais une statue.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 874,
+    "text": "Je dois prioriser mes priorités, qui sont actuellement dormir et grignoter.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 875,
+    "text": "Mon agenda a une fonction « non » intégrée.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 876,
+    "text": "Dire oui enfreindrait les lois de la physique dans mon univers personnel.",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 877,
+    "text": "À ce stade, dire oui me paraîtrait tout simplement faux.",
+    "tags": ["bienveillant"]
+  },
+  {
+    "id": 878,
+    "text": "Je me suis promis de rester inutile cette semaine.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 879,
+    "text": "Ma paresse est en pleine floraison, et je ne peux pas la déraciner pour ça.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 880,
+    "text": "Je suis allergique aux obligations et je fais des poussées d'excuses.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 881,
+    "text": "Je passe mon tour et je laisse le karma récompenser mon honnêteté.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 882,
+    "text": "Vois mon « non » comme un acte de bienveillance envers moi-même.",
+    "tags": []
+  },
+  {
+    "id": 883,
+    "text": "J'exerce ma liberté de choix, et je choisis non.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 884,
+    "text": "Je travaille dur à ne rien faire du tout.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 885,
+    "text": "J'aiderais bien, mais ça contredirait la mission de ma vie.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 886,
+    "text": "Non, mais j'apprécie ton optimisme.",
+    "tags": ["bienveillant", "professionnel"]
+  },
+  {
+    "id": 887,
+    "text": "Je suis ceinture noire d'évitement, et je ne voudrais pas la gâcher (donc non).",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 888,
+    "text": "Je suis dans le Programme de protection du Non (je dis non, puis je me cache).",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 889,
+    "text": "Je dois rester à la maison pour m'assurer que la gravité continue de fonctionner. (Il faut bien que quelqu'un le fasse.)",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 890,
+    "text": "Si je pars, qui va garder le fort ? (Le fort, c'est mon canapé.)",
+    "tags": ["absurde", "spirituel"]
+  },
+  {
+    "id": 891,
+    "text": "Je fais un audit de ma vie, et les engagements inutiles n'ont pas passé la sélection.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 892,
+    "text": "Refuser ça fait en fait partie de mon plan quinquennal.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 893,
+    "text": "Je ne t'ignore pas, je te donne un « non » très clair.",
+    "tags": []
+  },
+  {
+    "id": 894,
+    "text": "Pas mon cirque, pas mes singes, donc clairement pas mon numéro.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 895,
+    "text": "Je me suis réveillé ce matin en me disant : « Et si on ne le faisait pas ? »",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 896,
+    "text": "Imagine que je t'ai donné une excuse brillante, et considère le « non » comme sous-entendu.",
+    "tags": ["spirituel"]
+  },
+  {
+    "id": 897,
+    "text": "Mon agenda a organisé une petite manifestation quand je l'ai consulté.",
+    "tags": ["bienveillant", "spirituel", "professionnel"]
+  },
+  {
+    "id": 898,
+    "text": "Merci de me le demander, mais je vais passer mon tour cette fois-ci.",
+    "tags": ["bienveillant", "professionnel"]
+  },
+  {
+    "id": 899,
+    "text": "Merci d'avoir pensé à moi, mais je ne peux pas m'engager pour le moment.",
+    "tags": ["bienveillant"]
+  },
+  {
+    "id": 900,
+    "text": "Ça me touche beaucoup, mais je dois dire non.",
+    "tags": ["bienveillant", "professionnel"]
+  },
+  {
+    "id": 901,
+    "text": "J'espère que tout se passera merveilleusement bien, mais je ne pourrai pas être là.",
+    "tags": ["bienveillant"]
+  },
+  {
+    "id": 902,
+    "text": "J'apprécie sincèrement l'invitation, mais je vais devoir décliner.",
+    "tags": ["bienveillant", "professionnel"]
+  },
+  {
+    "id": 903,
+    "text": "Je suis honoré que tu me le proposes, mais ce n'est pas quelque chose que je peux prendre en charge.",
+    "tags": ["bienveillant", "professionnel"]
+  },
+  {
+    "id": 904,
+    "text": "Je t'encourage de loin, mais je passe mon tour cette fois.",
+    "tags": ["bienveillant", "spirituel"]
+  },
+  {
+    "id": 905,
+    "text": "Ma réponse est non, mais ma reconnaissance est oui.",
+    "tags": ["bienveillant", "spirituel"]
+  },
+  {
+    "id": 906,
+    "text": "Cela sort de mes priorités actuelles.",
+    "tags": ["professionnel"]
+  },
+  {
+    "id": 907,
+    "text": "Je n'ai pas la capacité de prendre ça en charge pour le moment.",
+    "tags": ["professionnel"]
+  },
+  {
+    "id": 908,
+    "text": "Malheureusement, je ne pourrai pas soutenir cette initiative.",
+    "tags": ["professionnel"]
+  },
+  {
+    "id": 909,
+    "text": "Ce n'est pas quelque chose auquel je peux m'engager pour le moment.",
+    "tags": ["professionnel"]
+  },
+  {
+    "id": 910,
+    "text": "Je vais devoir décliner pour me concentrer sur mes engagements actuels.",
+    "tags": ["professionnel"]
+  },
+  {
+    "id": 911,
+    "text": "J'apprécie l'opportunité, mais je vais devoir passer mon tour.",
+    "tags": ["professionnel", "bienveillant"]
+  },
+  {
+    "id": 912,
+    "text": "Cela ne correspond pas à mes objectifs actuels.",
+    "tags": ["professionnel"]
+  },
+  {
+    "id": 913,
+    "text": "Vu ma charge de travail actuelle, je ne peux pas accorder à ceci l'attention qu'il mérite.",
+    "tags": ["professionnel", "bienveillant"]
+  },
+  {
+    "id": 914,
+    "text": "Ma bande passante est entrée dans un programme d'économie.",
+    "tags": ["professionnel", "spirituel"]
+  },
+  {
+    "id": 915,
+    "text": "Mon agenda a examiné la proposition et l'a respectueusement déclinée.",
+    "tags": ["professionnel", "spirituel"]
+  },
+  {
+    "id": 916,
+    "text": "Les ressources actuelles ont été affectées ailleurs. Par ressources, j'entends moi.",
+    "tags": ["professionnel", "spirituel"]
+  },
+  {
+    "id": 917,
+    "text": "La demande est raisonnable. Ma disponibilité, non.",
+    "tags": ["professionnel", "spirituel"]
   }
 ]

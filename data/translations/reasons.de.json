@@ -36,7 +36,7 @@
   },
   {
     "id": 8,
-    "text": "Ich weiß das Angebot zu schätzen, aber ich kann mich dazu nicht verpflichten.",
+    "text": "Ich weiß das Angebot zu schätzen, aber ich kann mich dafür nicht freiwillig melden.",
     "tags": ["professionell", "freundlich"]
   },
   {
@@ -236,767 +236,4352 @@
   },
   {
     "id": 48,
-    "text": "Wenn ich mich darauf einlasse, könnte das Raum-Zeit-Kontinuum Schaden nehmen.",
-    "tags": ["absurd", "geistreich"]
-  },
-  {
-    "id": 49,
-    "text": "Das könnte einen Zeitparadoxon auslösen. Lieber kein Risiko eingehen.",
-    "tags": ["absurd", "geistreich"]
-  },
-  {
-    "id": 50,
-    "text": "Ich kann nicht. Ich bin damit beschäftigt, eine Zukunft zu verhindern, in der ich tatsächlich Ja sage.",
-    "tags": ["geistreich"]
-  },
-  {
-    "id": 51,
     "text": "Mein Kalender steht derzeit in perfekter Ausrichtung mit Jupiter, und die Sterne sagen Nein.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 52,
-    "text": "Ich bin ziemlich sicher, dass Ja-Sagen in dieser Galaxie verboten ist.",
-    "tags": ["absurd", "geistreich"]
-  },
-  {
-    "id": 53,
-    "text": "Das Multiversum würde mir niemals verzeihen, wenn ich dem zustimme.",
-    "tags": ["absurd", "geistreich"]
-  },
-  {
-    "id": 54,
-    "text": "Alle Zeitlinien, in denen ich Ja sage, enden im Chaos. Ich entscheide mich daher für Vernunft.",
-    "tags": ["geistreich"]
-  },
-  {
-    "id": 55,
+    "id": 49,
     "text": "Dem zuzustimmen wäre wie durch null zu teilen. Gefährlich und nicht zu empfehlen.",
     "tags": ["geistreich"]
   },
   {
-    "id": 56,
-    "text": "Wenn ich dazu Ja sage, verursacht das einen Fehler in der Matrix.",
-    "tags": ["absurd", "geistreich"]
-  },
-  {
-    "id": 57,
+    "id": 50,
     "text": "Ich bin für das nächste Jahrzehnt damit beschäftigt, Produktivität vorzutäuschen.",
     "tags": ["geistreich"]
   },
   {
-    "id": 58,
+    "id": 51,
     "text": "Ich würde ja helfen, aber ich bin gerade damit beschäftigt, Deckenplatten zu zählen.",
     "tags": ["geistreich"]
   },
   {
-    "id": 59,
+    "id": 52,
     "text": "Leider sortiere ich gerade meine Sockenschublade nach Farbe und Gefühlslage.",
     "tags": ["geistreich"]
   },
   {
-    "id": 60,
+    "id": 53,
     "text": "Ich habe einen Termin mit meinem Sofa, und es akzeptiert keine Absagen.",
     "tags": ["geistreich"]
   },
   {
-    "id": 61,
+    "id": 54,
     "text": "Mein Kalender erinnert mich genau dann daran, ins Leere zu starren.",
     "tags": ["geistreich"]
   },
   {
-    "id": 62,
+    "id": 55,
     "text": "Mein Terminplan ist voll. Ich alphabetisiere gerade meine Snacks.",
     "tags": ["geistreich"]
   },
   {
-    "id": 63,
+    "id": 56,
     "text": "Ich muss dringend ein sehr anspruchsvolles Projekt namens 'nichts tun' abschließen.",
     "tags": ["geistreich"]
   },
   {
-    "id": 64,
+    "id": 57,
     "text": "Ich habe bereits eine Verabredung, um Farbe beim Trocknen zuzusehen.",
     "tags": ["geistreich"]
   },
   {
-    "id": 65,
+    "id": 58,
     "text": "Ich trainiere gerade für die Weltmeisterschaft im Aufschieben.",
     "tags": ["geistreich"]
   },
   {
-    "id": 66,
+    "id": 59,
     "text": "Ich kann nicht. Ich muss an der feierlichen Eröffnung meines Kühlschranks teilnehmen.",
     "tags": ["geistreich"]
   },
   {
-    "id": 67,
+    "id": 60,
     "text": "Ich würde helfen, aber mein imaginärer Freund braucht mich dringender.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 68,
+    "id": 61,
     "text": "Ich kann nicht. Mein Haustier-Stein macht gerade eine emotionale Krise durch.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 69,
+    "id": 62,
     "text": "Mein Goldfisch heiratet an diesem Tag. Da muss ich natürlich dabei sein.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 70,
+    "id": 63,
     "text": "Ich habe meiner imaginären Katze versprochen, heute Abend zu Hause zu bleiben.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 71,
+    "id": 64,
     "text": "Mein persönliches Schutz-Einhorn hält das für keine gute Idee.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 72,
+    "id": 65,
     "text": "Ich muss auf die imaginären Kinder meines imaginären Freundes aufpassen.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 73,
+    "id": 66,
     "text": "Leider habe ich mich als Vorkoster für die neue Diät meines Haustiers verpflichtet.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 74,
+    "id": 67,
     "text": "Mein Haustier-Drache hat einen Tierarzttermin, den ich unmöglich verpassen kann.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 75,
+    "id": 68,
     "text": "Mein Papagei hat mir wegen schlechten Benehmens Hausarrest gegeben, daher kann ich nicht kommen.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 76,
+    "id": 69,
     "text": "Ich habe meine Zeitmaschine einem Freund geliehen und kann deshalb nicht zurückreisen, um meinen Nachmittag freizuräumen.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 77,
+    "id": 70,
     "text": "Ich habe feierlich geschworen, jede Form von Produktivität zu vermeiden.",
     "tags": ["geistreich"]
   },
   {
-    "id": 78,
+    "id": 71,
     "text": "Es widerspricht meiner persönlichen Religion, heute etwas Nützliches zu tun.",
     "tags": ["sarkastisch", "geistreich"]
   },
   {
-    "id": 79,
+    "id": 72,
     "text": "Mein Psychologe hat mir geraten, Aktivitäten zu vermeiden, die versehentlich Spaß machen könnten.",
     "tags": ["sarkastisch", "geistreich"]
   },
   {
-    "id": 80,
+    "id": 73,
     "text": "Ich habe einen Eid geschworen, zufällig jede Anfrage abzulehnen.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 81,
-    "text": "Ich funktioniere momentan nur mit Kaffee und Verdrängung, und der Kaffee ist alle.",
+    "id": 74,
+    "text": "Ich funktioniere momentan nur mit Kaffee und Sarkasmus, und der Kaffee ist alle.",
     "tags": ["geistreich"]
   },
   {
-    "id": 82,
+    "id": 75,
     "text": "Ich bin allergisch gegen jede Form von Verantwortung.",
     "tags": ["geistreich"]
   },
   {
-    "id": 83,
+    "id": 76,
     "text": "Ich habe ein ärztliches Attest, das mir ausdrücklich verbietet zu helfen.",
     "tags": ["geistreich"]
   },
   {
-    "id": 84,
+    "id": 77,
     "text": "Ich würde gern helfen, aber ich versuche gerade, meine Hilfsbereitschaftsserie zu beenden.",
     "tags": ["geistreich"]
   },
   {
-    "id": 85,
+    "id": 78,
     "text": "Mein Aufschiebe-Coach sagt, ich bin noch nicht bereit für echte Aufgaben.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 86,
+    "id": 79,
     "text": "Ich habe für die Dauer der Fastenzeit auf Ja-Sagen verzichtet, und die ist noch nicht vorbei.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 87,
-    "text": "Ich habe die persönliche Regel, an allen Tagen Nein zu sagen, die auf einen Buchstaben enden.",
+    "id": 80,
+    "text": "Ich habe die persönliche Regel, an allen Tagen Nein zu sagen, die auf 'g' enden.",
     "tags": ["geistreich"]
   },
   {
-    "id": 88,
+    "id": 81,
     "text": "Mein Smartphone-Kalender hat gerade einen Facepalm gemacht, als ich das überhaupt in Erwägung gezogen habe.",
     "tags": ["geistreich"]
   },
   {
-    "id": 89,
+    "id": 82,
     "text": "Ich muss erst meinen Status auf 'beschäftigt damit, genau das nicht zu tun' aktualisieren.",
     "tags": ["geistreich"]
   },
   {
-    "id": 90,
+    "id": 83,
     "text": "Alle aktuellen Trends deuten eindeutig auf Nein hin.",
     "tags": ["geistreich"]
   },
   {
-    "id": 91,
+    "id": 84,
     "text": "Ich kann nicht. Ich habe Netflix versprochen, zu Hause zu bleiben.",
     "tags": ["geistreich"]
   },
   {
-    "id": 92,
+    "id": 85,
     "text": "Mein Motivations-WLAN hat die Verbindung verloren.",
     "tags": ["geistreich"]
   },
   {
-    "id": 93,
-    "text": "Ich warte darauf, dass mein Handy vollständig geladen ist. Vorher kann ich unmöglich etwas tun.",
+    "id": 86,
+    "text": "Ich warte darauf, dass mein Handy auf 101 % geladen ist. Vorher kann ich unmöglich etwas tun.",
     "tags": ["geistreich"]
   },
   {
-    "id": 94,
+    "id": 87,
     "text": "In meiner Bio steht 'sagt oft Nein', und ich muss meiner Marke treu bleiben.",
     "tags": ["geistreich"]
   },
   {
-    "id": 95,
+    "id": 88,
     "text": "Ich bin gerade damit beschäftigt, Motivation zu googeln. Bisher ohne Erfolg.",
     "tags": ["geistreich"]
   },
   {
-    "id": 96,
+    "id": 89,
     "text": "Ich bin in einem Internet-Kaninchenbau verschwunden und finde den Ausgang nicht mehr.",
     "tags": ["geistreich"]
   },
   {
-    "id": 97,
+    "id": 90,
     "text": "Ich kann nicht kommen. Ich habe ein Zoom-Meeting mit meinem Sofa.",
     "tags": ["geistreich"]
   },
   {
-    "id": 98,
-    "text": "Ich würde ja gern, aber ich bevorzuge es, es nicht zu tun.",
+    "id": 91,
+    "text": "Ich würde ja gern, aber ich lasse es lieber.",
     "tags": ["geistreich"]
   },
   {
-    "id": 99,
+    "id": 92,
     "text": "Meine Antwort ist ein frisch gebackenes Nein, speziell für dich zubereitet.",
     "tags": ["geistreich"]
   },
   {
-    "id": 100,
+    "id": 93,
     "text": "Ich habe sorgfältig darüber nachgedacht und bin bei einem entschlossenen Nein gelandet.",
     "tags": []
   },
   {
-    "id": 101,
+    "id": 94,
     "text": "Nicht einmal für kostenlose Donuts.",
     "tags": []
   },
   {
-    "id": 102,
-    "text": "Das ist der Teil, in dem ich Nein sage und wir beide weitermachen.",
+    "id": 95,
+    "text": "Das ist der Teil, in dem ich Nein sage und wir beide das Thema abhaken.",
     "tags": []
   },
   {
-    "id": 103,
+    "id": 96,
     "text": "Lass mich kurz in meinen Kalender schauen... Interessant, da steht ein dauerhaftes Nein.",
     "tags": ["sarkastisch", "geistreich"]
   },
   {
-    "id": 104,
+    "id": 97,
     "text": "Ich fühle mich geehrt, dass du gefragt hast, aber ich lehne mit Stil ab.",
     "tags": ["geistreich"]
   },
   {
-    "id": 105,
+    "id": 98,
     "text": "Mein Ja-Kontingent für dieses Jahr ist bereits ausgeschöpft.",
     "tags": ["geistreich"]
   },
   {
-    "id": 106,
+    "id": 99,
     "text": "Ich bin viel zu cool, um dazu Ja zu sagen.",
     "tags": ["sarkastisch"]
   },
   {
-    "id": 107,
+    "id": 100,
     "text": "Wie man so schön sagt: Nein, nein und nochmals nein.",
     "tags": ["sarkastisch"]
   },
   {
-    "id": 108,
+    "id": 101,
     "text": "Du willst eigentlich gar nicht, dass ich Ja sage. Glaub mir, das ist besser für alle Beteiligten.",
     "tags": ["sarkastisch", "geistreich"]
   },
   {
-    "id": 109,
+    "id": 102,
     "text": "Als ich das letzte Mal Ja gesagt habe, hat es vierzig Tage lang geregnet. Das Risiko gehe ich nicht noch einmal ein.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 110,
+    "id": 103,
     "text": "Ich habe meinem zukünftigen Ich versprochen, genau hierzu Nein zu sagen.",
     "tags": ["geistreich"]
   },
   {
-    "id": 111,
+    "id": 104,
     "text": "Wenn ich zustimmen würde, müsste ich das später meinem Therapeuten erklären.",
     "tags": ["geistreich"]
   },
   {
-    "id": 112,
+    "id": 105,
     "text": "Meine bisherigen Erfahrungen mit Ja-Sagen waren traumatisch.",
     "tags": ["geistreich"]
   },
   {
-    "id": 113,
+    "id": 106,
     "text": "Ja-Sagen steht auf meiner Liste der Dinge, mit denen ich aufhören möchte.",
     "tags": ["geistreich"]
   },
   {
-    "id": 114,
+    "id": 107,
     "text": "Ich könnte schon, aber dann müsste ich zugeben, dass ich mich geirrt habe, als ich behauptete, alles zu hassen.",
     "tags": ["sarkastisch", "geistreich"]
   },
   {
-    "id": 115,
+    "id": 108,
     "text": "Das Universum hat mir ein eindeutiges Zeichen gegeben, Nein zu sagen. Es war ein Leuchtschild in Neonfarben.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 116,
+    "id": 109,
     "text": "Ich habe einmal Ja gesagt. Das endete nicht gut. Lamas waren beteiligt.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 117,
+    "id": 110,
     "text": "Mein Bauchgefühl und ich haben abgestimmt. Das Ergebnis war einstimmig: Nein.",
     "tags": ["geistreich"]
   },
   {
-    "id": 118,
+    "id": 111,
     "text": "Klingt nach einer großartigen Gelegenheit... für jemand anderen.",
     "tags": ["sarkastisch", "geistreich"]
   },
   {
-    "id": 119,
+    "id": 112,
     "text": "Was für eine fantastische Idee! Schade, dass ich nicht dabei sein kann. Oder eigentlich auch nicht.",
     "tags": ["sarkastisch"]
   },
   {
-    "id": 120,
+    "id": 113,
     "text": "Ich beneide wirklich die Menschen, die dazu Ja sagen werden.",
     "tags": ["sarkastisch"]
   },
   {
-    "id": 121,
+    "id": 114,
     "text": "Ich mag die Idee wirklich, aber dieses Mal passe ich.",
     "tags": ["professionell", "freundlich"]
   },
   {
-    "id": 122,
+    "id": 115,
     "text": "Brillanter Plan! Leider lebe ich im Zeugenschutzprogramm für gute Ideen.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 123,
+    "id": 116,
     "text": "Das wäre ein wahr gewordener Traum. Schade nur, dass ich wach bin und Nein sage.",
     "tags": ["geistreich"]
   },
   {
-    "id": 124,
+    "id": 117,
     "text": "Du hast ein so schönes Bild davon gezeichnet, dass ich es lieber aus der Ferne bewundere.",
-    "tags": ["freundlich", "geistreich"]
+    "tags": ["sarkastisch", "geistreich"]
   },
   {
-    "id": 125,
+    "id": 118,
     "text": "Was für ein großzügiges Angebot! Ich lehne ebenso großzügig ab.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 119,
+    "text": "Ich bin sicher, dass das ein voller Erfolg wird, aber ich bewundere es lieber von der Seitenlinie aus.",
     "tags": ["geistreich"]
   },
   {
-    "id": 126,
-    "text": "Ich bin sicher, dass das ein voller Erfolg wird, aber ich bewundere es lieber von der Seitenlinie aus.",
-    "tags": ["freundlich", "geistreich"]
-  },
-  {
-    "id": 127,
+    "id": 120,
     "text": "Klingt spannend! Ich bin schon vom Gedanken daran müde geworden.",
     "tags": ["geistreich"]
   },
   {
-    "id": 128,
+    "id": 121,
     "text": "Ich habe bereits meinen Pyjama angezogen, also lautet die Antwort Nein.",
     "tags": ["geistreich"]
   },
   {
-    "id": 129,
+    "id": 122,
     "text": "Mein Sofa hat ein Reiseverbot verhängt, und ich halte mich an die Regeln.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 130,
+    "id": 123,
     "text": "Ich schaffe es nicht einmal, meinen gemütlichen Decken-Burrito zu verlassen.",
     "tags": ["geistreich"]
   },
   {
-    "id": 131,
+    "id": 124,
     "text": "Ich spare meine Energie für ein episches Nickerchen auf.",
     "tags": ["geistreich"]
   },
   {
-    "id": 132,
+    "id": 125,
     "text": "Ich bin zu faul, mir eine gute Ausrede auszudenken, also einfach Nein.",
     "tags": ["sarkastisch"]
   },
   {
-    "id": 133,
+    "id": 126,
     "text": "Das Verlassen dieses Ortes erfordert eine Vorankündigung von 24 Stunden.",
     "tags": ["geistreich"]
   },
   {
-    "id": 134,
+    "id": 127,
     "text": "Heute betreibe ich Energiesparen ohne besonderen Anlass.",
     "tags": ["geistreich"]
   },
   {
-    "id": 135,
+    "id": 128,
     "text": "Ich könnte schon, aber das klingt nach Anstrengung, und dagegen bin ich allergisch.",
     "tags": ["geistreich"]
   },
   {
-    "id": 136,
+    "id": 129,
     "text": "Ich habe derzeit technische Probleme damit, mich von hier wegzubewegen.",
     "tags": ["geistreich"]
   },
   {
-    "id": 137,
+    "id": 130,
     "text": "Ich trainiere gerade für einen Marathon im Nichtstun.",
     "tags": ["geistreich"]
   },
   {
-    "id": 138,
+    "id": 131,
     "text": "Ich muss mir irgendwann in diesem Jahrzehnt die Haare waschen.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 139,
+    "id": 132,
     "text": "Ich muss den Eisberg in meinem Gefrierschrank abtauen.",
     "tags": ["geistreich"]
   },
   {
-    "id": 140,
+    "id": 133,
     "text": "Leider muss ich an diesem Abend meine Unterwäsche bügeln.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 141,
+    "id": 134,
     "text": "Ich muss mich um meinen Garten aus Plastikblumen kümmern.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 142,
-    "text": "Mein Fisch muss Gassi geführt werden, und das hat Vorrang.",
+    "id": 135,
+    "text": "Mein Fisch muss Gassi gehen, und das hat Vorrang.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 143,
+    "id": 136,
     "text": "Leider muss ich die Reifen meines Bürostuhls wechseln.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 144,
+    "id": 137,
     "text": "Ich schaue gerade eine Marathonserie, in der ich Hausarbeit nur in Gedanken erledige.",
     "tags": ["geistreich"]
   },
   {
-    "id": 145,
+    "id": 138,
     "text": "Das Geschirr hat mit Aufstand gedroht, falls ich es noch einmal allein lasse.",
     "tags": ["geistreich"]
   },
   {
-    "id": 146,
+    "id": 139,
     "text": "Mein Kühlschrank und ich haben zu diesem Zeitpunkt Paartherapie.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 147,
+    "id": 140,
     "text": "Ich muss leider absagen, weil ich gerade meinen Sockenzoo neu organisiere.",
     "tags": ["geistreich"]
   },
   {
-    "id": 148,
+    "id": 141,
     "text": "In einem alternativen Universum habe ich das bereits getan. Nur nicht in diesem.",
     "tags": ["geistreich"]
   },
   {
-    "id": 149,
+    "id": 142,
     "text": "Vielleicht denke ich im nächsten Leben darüber nach, aber mein aktuelles Ich sagt Nein.",
     "tags": ["geistreich"]
   },
   {
-    "id": 150,
+    "id": 143,
     "text": "In einer Parallelwelt mache ich das bereits. Schade nur, dass wir in dieser hier sind.",
     "tags": ["geistreich"]
   },
   {
-    "id": 151,
+    "id": 144,
     "text": "Ich habe mein alternatives Ich gefragt. Es hat ebenfalls Nein gesagt.",
     "tags": ["geistreich"]
   },
   {
-    "id": 152,
+    "id": 145,
     "text": "Wenn ich mich klone, schicke ich den Klon. Bis dahin lautet die Antwort Nein.",
     "tags": ["geistreich"]
   },
   {
-    "id": 153,
+    "id": 146,
     "text": "Ich habe mein zukünftiges Ich gefragt, und es hat nur die Augen verdreht. Ich passe.",
     "tags": ["geistreich"]
   },
   {
-    "id": 154,
+    "id": 147,
     "text": "Ich stecke in einer Zeitschleife fest, in der ich ständig Nein sage.",
     "tags": ["geistreich"]
   },
   {
-    "id": 155,
+    "id": 148,
     "text": "In einer alternativen Zeitlinie habe ich Ja gesagt, und das führte zu einer Zombie-Apokalypse.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 156,
+    "id": 149,
     "text": "Mein böser Zwilling wäre vielleicht interessiert. Schade nur, dass er ebenfalls beschäftigt ist.",
     "tags": ["geistreich"]
   },
   {
-    "id": 157,
+    "id": 150,
     "text": "In irgendeinem Paralleluniversum bin ich deutlich hilfsbereiter. Dieses Universum hier ist es nicht.",
     "tags": ["geistreich"]
   },
   {
-    "id": 158,
+    "id": 151,
     "text": "Ich könnte schon, aber das klingt verdächtig nach Arbeit.",
     "tags": ["geistreich"]
   },
   {
-    "id": 159,
+    "id": 152,
     "text": "Meine Motivation dafür liegt derzeit im Koma.",
     "tags": ["geistreich"]
   },
   {
-    "id": 160,
-    "text": "Ich bin ziemlich sicher, dass ich das auf spektakuläre Weise ruinieren würde, also lieber nicht.",
-    "tags": ["sarkastisch"]
-  },
-  {
-    "id": 161,
+    "id": 153,
     "text": "Ich könnte teilnehmen, aber wer hält dann hier die Wand fest?",
     "tags": ["geistreich"]
   },
   {
-    "id": 162,
+    "id": 154,
     "text": "Diese Anfrage liegt deutlich über meiner Gehaltsstufe von exakt null Euro.",
     "tags": ["geistreich"]
   },
   {
-    "id": 163,
+    "id": 155,
     "text": "Der Wille ist da, aber mein Kalender sagt Nein.",
-    "tags": ["professionell", "geistreich"]
+    "tags": ["professionell", "geistreich", "freundlich"]
   },
   {
-    "id": 164,
+    "id": 156,
     "text": "Ich möchte das Schicksal heute nicht herausfordern, indem ich etwas Neues ausprobiere.",
     "tags": ["geistreich"]
   },
   {
-    "id": 165,
-    "text": "Wenn ich mitmache, senke ich wahrscheinlich nur den Durchschnitt.",
-    "tags": ["sarkastisch", "geistreich"]
-  },
-  {
-    "id": 166,
+    "id": 157,
     "text": "Ich soll das machen? Das wäre eine Wendung, um die niemand gebeten hat.",
     "tags": ["sarkastisch", "geistreich"]
   },
   {
-    "id": 167,
+    "id": 158,
     "text": "Ich praktiziere derzeit soziale Distanzierung gegenüber genau dieser Idee.",
     "tags": ["geistreich"]
   },
   {
-    "id": 168,
+    "id": 159,
     "text": "Ich leide an einer Erkrankung, die mich am Ja-Sagen hindert. Sie heißt gesunder Menschenverstand.",
     "tags": ["sarkastisch", "geistreich"]
   },
   {
-    "id": 169,
+    "id": 160,
     "text": "Mein Arzt hat mir mehr Vitamin N verschrieben. N wie Nein.",
     "tags": ["geistreich"]
   },
   {
-    "id": 170,
+    "id": 161,
     "text": "Ich habe einen akuten Fall von Heute-nicht-Syndrom.",
     "tags": ["geistreich"]
   },
   {
-    "id": 171,
+    "id": 162,
     "text": "Mental bin ich bereits im Urlaub.",
     "tags": []
   },
   {
-    "id": 172,
-    "text": "Mir wurde bis auf Weiteres Bettruhe verordnet. Mein Arzt heißt Dr. Seuss.",
+    "id": 163,
+    "text": "Mir wurde bis auf Weiteres Bettruhe verordnet. Mein Arzt heißt Dr. Oetker.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 173,
+    "id": 164,
     "text": "Ich leide an chronischer Verpflichtungsphobie.",
     "tags": ["geistreich"]
   },
   {
-    "id": 174,
+    "id": 165,
     "text": "Ich werde gerade krank. Die Krankheit heißt Faulheit.",
     "tags": ["geistreich"]
   },
   {
-    "id": 175,
+    "id": 166,
     "text": "Ich habe bereits ein Treffen mit einem Kissen und einer Decke geplant.",
     "tags": ["geistreich"]
   },
   {
-    "id": 176,
+    "id": 167,
     "text": "Mein Therapeut hat mir geraten, Dinge zu vermeiden, die mich unglücklich machen. Ich glaube, das zählt dazu.",
     "tags": ["sarkastisch"]
   },
   {
-    "id": 177,
+    "id": 168,
     "text": "Ich habe gerade einen persönlichen Notfall namens Me-Time.",
     "tags": ["geistreich"]
   },
   {
-    "id": 178,
-    "text": "Ich muss die Welt vor Langeweile retten, indem ich zu Hause bleibe.",
-    "tags": ["geistreich"]
-  },
-  {
-    "id": 179,
+    "id": 169,
     "text": "Ich befinde mich mitten in Friedensverhandlungen für die Welt. In einem Computerspiel.",
     "tags": ["geistreich"]
   },
   {
-    "id": 180,
+    "id": 170,
     "text": "Mein Superhelden-Alter-Ego braucht einen freien Tag. Und ich auch.",
     "tags": ["geistreich"]
   },
   {
-    "id": 181,
+    "id": 171,
     "text": "Ich bin auf einer geheimen Mission, genau das zu vermeiden, wonach du gerade gefragt hast.",
     "tags": ["geistreich"]
   },
   {
-    "id": 182,
+    "id": 172,
     "text": "Ich würde gern kommen, aber wer rettet dann die Welt?",
     "tags": ["geistreich"]
   },
   {
-    "id": 183,
+    "id": 173,
     "text": "Ich bin beschäftigt damit, einen weltweiten Mittagsschlaf zu organisieren.",
     "tags": ["geistreich"]
   },
   {
-    "id": 184,
+    "id": 174,
     "text": "Ich muss verhindern, dass mein Sofa davonfliegt. Das ist eine wichtige Aufgabe.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 185,
+    "id": 175,
     "text": "Das Schicksal der Chips, die ich gleich essen werde, liegt in meinen Händen. Ich kann sie nicht im Stich lassen.",
     "tags": ["geistreich"]
   },
   {
-    "id": 186,
+    "id": 176,
     "text": "Ich wurde heute offiziell zum Wächter des Wohnzimmers ernannt.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 187,
+    "id": 177,
     "text": "Ich kämpfe zu Hause gegen einen unsichtbaren Drachen. Das dauert länger als erwartet.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 188,
-    "text": "Du willst mich wirklich nicht dabei haben. Meine Spezialität ist es, Dinge zu ruinieren.",
-    "tags": ["sarkastisch", "geistreich"]
-  },
-  {
-    "id": 189,
-    "text": "Für Projekte bin ich wie eine schwarze Katze. Es ist sicherer, wenn ich fernbleibe.",
-    "tags": ["geistreich"]
-  },
-  {
-    "id": 190,
+    "id": 178,
     "text": "Glaub mir, ich tue dir einen Gefallen, indem ich Nein sage.",
     "tags": ["sarkastisch"]
   },
   {
-    "id": 191,
+    "id": 179,
     "text": "Meine Teilnahme kommt mit einem Warnhinweis. Ich erspare dir das lieber.",
     "tags": ["geistreich"]
   },
   {
-    "id": 192,
+    "id": 180,
     "text": "Ich würde gern mitmachen, aber eigentlich bin ich nur hier, um kreative Absagen zu liefern.",
     "tags": ["geistreich"]
   },
   {
-    "id": 193,
+    "id": 181,
     "text": "Ich bin darin tatsächlich ziemlich schlecht. Es sei denn, du brauchst ein Beispiel dafür, wie man es nicht macht.",
     "tags": ["geistreich"]
   },
   {
-    "id": 194,
+    "id": 182,
     "text": "Du verdienst jemanden, der Ja sagt, ohne vorher drei Ausreden zu liefern.",
     "tags": ["geistreich"]
   },
   {
-    "id": 195,
+    "id": 183,
     "text": "Meine bisherige Bilanz spricht dafür, dass ich diesmal lieber passe.",
     "tags": ["geistreich"]
   },
   {
-    "id": 196,
+    "id": 184,
     "text": "Ich bin die falsche Person für diese Aufgabe, aber genau die richtige Person, um Nein zu sagen.",
     "tags": ["geistreich"]
   },
   {
-    "id": 197,
+    "id": 185,
     "text": "Wenn du jemanden brauchst, der alles sabotiert, bin ich perfekt. Ansonsten passe ich.",
     "tags": ["sarkastisch", "geistreich"]
   },
   {
-    "id": 198,
+    "id": 186,
     "text": "Mein Glückskeks hat gestern Abend tatsächlich 'Nein' gesagt.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 199,
+    "id": 187,
     "text": "Die Prophezeiung hat vorhergesagt, dass ich genau das ablehnen würde.",
     "tags": ["absurd", "geistreich"]
   },
   {
-    "id": 200,
+    "id": 188,
     "text": "Alle meine Tarotkarten haben kollektiv geseufzt, als dieses Thema aufkam.",
     "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 189,
+    "text": "Ich habe in meine Kristallkugel geschaut, und sie sagte 'nö'.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 190,
+    "text": "Die Geisterwelt empfiehlt mir, zu Hause zu bleiben.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 191,
+    "text": "Ich habe Runen geworfen, und sie ergaben N-E-I-N.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 192,
+    "text": "Meine magische Billardkugel sagt: 'Die Aussichten sind nicht so gut.'",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 193,
+    "text": "Ich habe im Teesatz gelesen, und da stand, ich soll das um jeden Preis vermeiden.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 194,
+    "text": "Eine Hellseherin hat mich vor genau solchen Anfragen gewarnt.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 195,
+    "text": "Zu der Zeit bin ich in einer festen Beziehung mit meinem Bett.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 196,
+    "text": "Der Schlaf und ich haben ein festes Date, das kann ich nicht absagen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 197,
+    "text": "Ich würde ja, aber ich probiere gerade dieses neue Ding namens Schlafen aus.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 198,
+    "text": "Ich habe schon ein Melatonin genommen. Bei mir gehen die Lichter aus.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 199,
+    "text": "Ich spare meine ganze Energie fürs Blinzeln und Atmen.",
+    "tags": []
+  },
+  {
+    "id": 200,
+    "text": "Ich habe einen frühen Morgen voller Ausschlafen vor mir.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 201,
+    "text": "Wenn es kein Nickerchen ist, bin ich nicht interessiert.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 202,
+    "text": "Ich kann nicht, mein Kopfkissen braucht mich.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 203,
+    "text": "Ohne mich. Ich zähle lieber Schäfchen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 204,
+    "text": "Da stecke ich mitten in meinem Powernap (der eventuell den ganzen Tag dauert).",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 205,
+    "text": "Haftungsausschluss: Jede Zusage meinerseits ist ungültig, wo Spaß verboten ist.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 206,
+    "text": "Das Kleingedruckte: Mein 'Ja' kommt mit 0 % Begeisterung.",
+    "tags": ["sarkastisch"]
+  },
+  {
+    "id": 207,
+    "text": "Ich habe die AGB meines Lebens gelesen, und da steht 'nö'.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 208,
+    "text": "Wenn ich zusage, verstoße ich gegen mehrere meiner persönlichen Satzungen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 209,
+    "text": "Laut den ungeschriebenen Regeln, die ich gerade geschrieben habe, muss ich ablehnen.",
+    "tags": ["professionell", "geistreich"]
+  },
+  {
+    "id": 210,
+    "text": "Meine Nutzungsbedingungen verbieten mir das ausdrücklich.",
+    "tags": ["professionell", "geistreich"]
+  },
+  {
+    "id": 211,
+    "text": "Wenn ich zusagen würde, verstieße ich gegen die Genfer Konvention der Introvertierten.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 212,
+    "text": "Ich habe die Anfrage durch meine interne Compliance-Prüfung geschickt, und sie ist durchgefallen.",
+    "tags": ["professionell"]
+  },
+  {
+    "id": 213,
+    "text": "Mein Anwalt (der imaginär ist) rät davon ab.",
+    "tags": ["professionell", "geistreich"]
+  },
+  {
+    "id": 214,
+    "text": "Der Vertrag mit meinem Bett erlaubt mir nichts anderes.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 215,
+    "text": "Mein Teller ist voll, und die Portion Gefälligkeiten habe ich schon aufgegessen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 216,
+    "text": "Ich bin überbucht, überfordert und überglücklich, Nein zu sagen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 217,
+    "text": "Mein Kalender ist wegen zu vieler Aufgaben spontan in Flammen aufgegangen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 218,
+    "text": "Ich manage schon zu viele Krisen. Noch eine, und es gibt eine Kernschmelze.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 219,
+    "text": "Ich habe zu viel auf dem Teller, und ich mache Low Carb (keine Extra-Aufgaben).",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 220,
+    "text": "Ich ertrinke in Aufgaben und habe meinen Schnorchel vergessen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 221,
+    "text": "Ich würde ja, aber ich stecke schon bis zum Hals in anderen Dingen, die ich bereue.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 222,
+    "text": "Meine To-do-Liste und ich reden nicht mehr miteinander. Sie ist einfach zu lang.",
+    "tags": ["professionell", "geistreich"]
+  },
+  {
+    "id": 223,
+    "text": "Ich bin viel zu beliebt bei Aufgaben, die ich noch nicht erledigt habe.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 224,
+    "text": "Der Hamster in meinem Lebensrad streikt wegen Überarbeitung.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 225,
+    "text": "Die Rechtschreibprüfung schlägt vor, dass ich N-E-I-N sage.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 226,
+    "text": "Ich habe dir ein Gedicht geschrieben: Rosen sind rot, Veilchen sind blau, meine Antwort ist Nein, das weißt du genau.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 227,
+    "text": "Das Einzige, wozu ich geneigt bin, ist eine Absage.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 228,
+    "text": "Ich sag's in einer Sprache, die du verstehst: Nein.",
+    "tags": ["sarkastisch"]
+  },
+  {
+    "id": 229,
+    "text": "Ich spreche fließend fünf Sprachen, und in allen lautet die Antwort Nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 230,
+    "text": "'Ja' und ich sprechen gerade nicht miteinander.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 231,
+    "text": "Ich könnte mit einer schicken lateinischen Floskel antworten, aber ein schlichtes 'Nein' tut's auch.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 232,
+    "text": "Als Abkürzung lautet meine Antwort N.E.I.N.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 233,
+    "text": "Ich bin ausgebucht bis zum Wärmetod des Universums.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 234,
+    "text": "Mein Kalender ist das ganze nächste Jahrhundert voll, sorry.",
+    "tags": ["professionell", "geistreich"]
+  },
+  {
+    "id": 235,
+    "text": "Ich habe einen Terminkonflikt mit dem Rest meines Lebens.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 236,
+    "text": "Ich habe erst Zeit, wenn die Sonne im Westen auf- und im Osten untergeht.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 237,
+    "text": "Frag mich in einer Million Jahren wieder, vielleicht habe ich dann Zeit.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 238,
+    "text": "Das Leben hat mich in die Warteschleife gesteckt. Rechne mit langer Wartezeit.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 239,
+    "text": "Meine Verfügbarkeit befindet sich in einem Zustand quantenmechanischer Unschärfe, mit Tendenz zu Nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 240,
+    "text": "Ich habe meine nächsten tausend Absagen vorgebucht, und du bist nur eine davon.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 241,
+    "text": "Mein Terminplan sitzt enger als meine Jeans nach Weihnachten.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 242,
+    "text": "Ich habe in meinen Kalender geschaut, und er hat mich ausgelacht, weil ich überhaupt gefragt habe.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 243,
+    "text": "Danke, dass du an mich gedacht hast, aber ich werde urkomisch absagen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 244,
+    "text": "Ich weiß das Angebot zu schätzen, aber ich muss ablehnen, hauptsächlich aus Faulheit.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 245,
+    "text": "Danke der Nachfrage, aber: kommt nicht in Frage.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 246,
+    "text": "Es ehrt mich, dass du an mich gedacht hast, aber ich muss respektvoll und komödiantisch ablehnen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 247,
+    "text": "Bitte nimm meine aufrichtigste Entschuldigung an, während ich lache und Nein sage.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 248,
+    "text": "Leider muss ich passen, aber ich tue es mit einem Lächeln.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 249,
+    "text": "Es liegt nicht an dir, es liegt an mir. Ich bin einfach allergisch gegen das Erledigen von Dingen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 250,
+    "text": "Bei allem Respekt, ich werde diese Gelegenheit ghosten.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 251,
+    "text": "Ich bin wirklich gerührt, dass du fragst. Wirklich. Trotzdem nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 252,
+    "text": "Bei allem Respekt: Das kommt nicht in die Tüte.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 253,
+    "text": "Ich habe vergessen, wie man Ja sagt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 254,
+    "text": "Mein Kurzzeitgedächtnis setzt aus, wenn es um Verantwortung geht.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 255,
+    "text": "Ich würde zusagen, aber ich habe gerade vergessen, was du gefragt hast, also... nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 256,
+    "text": "Mein Gehirn löscht solche Anfragen automatisch.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 257,
+    "text": "Ich habe eine selektive Amnesie, was Gefallen angeht.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 258,
+    "text": "Ich wollte helfen, aber dann habe ich vergessen, dass es mich interessiert.",
+    "tags": []
+  },
+  {
+    "id": 259,
+    "text": "Ich weiß nicht mehr, wann ich zuletzt Ja gesagt habe, und ich fange jetzt nicht damit an.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 260,
+    "text": "Wie bitte? Hast du was gefragt? Nein? Prima.",
+    "tags": ["sarkastisch"]
+  },
+  {
+    "id": 261,
+    "text": "Ich habe deine Anfrage in meinen mentalen Aktenvernichter gesteckt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 262,
+    "text": "Ich kann nicht, ich bringe meinem Goldfisch für einen guten Zweck das Apportieren bei.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 263,
+    "text": "Ich widme diese Zeit dem Nachdenken über den Sinn des Lebens. Eigentlich ist das ein Wohltätigkeitsprojekt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 264,
+    "text": "Ich habe meine gesamte Freizeit Nichtstun-Projekten gespendet.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 265,
+    "text": "Ich starte gerade eine Petition, um solche Anfragen zu verbieten.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 266,
+    "text": "Mein Kalender ist voll mit Ehrenamt beim Verein der Professionellen Neinsager e. V.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 267,
+    "text": "Ich trainiere für einen Benefizlauf: einen Marathon im Neinsagen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 268,
+    "text": "Ich schaffe Bewusstsein für das vom Aussterben bedrohte Wort 'Nein', indem ich es oft benutze.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 269,
+    "text": "Ich habe den Termin an den Höchstbietenden versteigert, und der hat nichts geboten.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 270,
+    "text": "Ich mache ein Schweige-Retreat, weit weg von jeder Verantwortung.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 271,
+    "text": "Ich habe meine ganze Freizeit an jemand anderen verschenkt. Ich bin im Minus.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 272,
+    "text": "Ich mache eine strikte Diät ohne soziale Kontakte.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 273,
+    "text": "Ich muss absagen. Mein Kontingent an Menschen für diese Woche ist aufgebraucht.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 274,
+    "text": "Ich bin gerade so introvertiert, ich kann jetzt nicht unterbrechen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 275,
+    "text": "Mein soziales Akku steht auf 0 %, und das Ladekabel ist weg.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 276,
+    "text": "Ich bin auf einem Introvertierten-Abenteuer (drinnen, allein).",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 277,
+    "text": "Ich kann nicht raus. Ich lebe seit Kurzem als Einsiedler.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 278,
+    "text": "Geselligkeit ist vom Tisch. Wortwörtlich, ich habe den Tisch umgeworfen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 279,
+    "text": "Ich bin allergisch gegen Menschenmengen, und manchmal zählt schon eine Person.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 280,
+    "text": "Ich übe Social Distancing... von allen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 281,
+    "text": "Mein öffentliches Ich ist außer Haus. Bitte melde dich nie.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 282,
+    "text": "Ich habe mich versehentlich am Sofa festgeklebt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 283,
+    "text": "Meine Beine haben Beschwerde wegen übermäßigen Gehens eingereicht.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 284,
+    "text": "Mein Elan ist losgezogen, aber ohne mich.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 285,
+    "text": "Ich habe gerade eine außerkörperliche Erfahrung und bin noch nicht zurück.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 286,
+    "text": "Meine Energie und ich führen gerade eine Fernbeziehung.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 287,
+    "text": "Ich bin heute mit einem schweren Fall von Schwerkraft aufgewacht. Ich komme nicht hoch.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 288,
+    "text": "Ich leide an akutem Sofamagnetismus.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 289,
+    "text": "Meine Gliedmaßen streiken bis auf Weiteres.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 290,
+    "text": "Ich bin ungefähr so aktiv wie ein Faultier im Urlaub.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 291,
+    "text": "Ich stehe unter Hausarrest, verhängt von meiner eigenen Faulheit.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 292,
+    "text": "Ich bade lieber in einer Woche alter Suppe, als das zu tun.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 293,
+    "text": "Ich jongliere lieber blind mit Kettensägen. Scheint sicherer als Ja zu sagen.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 294,
+    "text": "Ich würde eher barfuß den Mount Everest besteigen, als dem zuzustimmen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 295,
+    "text": "Ich wäre lieber die einzige Zielscheibe bei einem Paintball-Spiel, als mitzumachen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 296,
+    "text": "Glas kauen klingt ehrlich gesagt lustiger, als dazu Ja zu sagen.",
+    "tags": ["sarkastisch"]
+  },
+  {
+    "id": 297,
+    "text": "Ich würde lieber meine eigene Zahn-OP ohne Betäubung machen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 298,
+    "text": "Ja sagen? Eher fordere ich ein Känguru zum Boxkampf heraus.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 299,
+    "text": "Ich laufe lieber eine Stunde am Stück über Legosteine.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 300,
+    "text": "Ich bevorzuge den Nervenkitzel, es nicht zu tun, danke.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 301,
+    "text": "Ich würde zusagen, aber ich laufe grundsätzlich nicht in offensichtliche Fallen.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 302,
+    "text": "Ich würde ja, aber mein Kontostand sagt, ich kann mir das Benzin dorthin nicht leisten.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 303,
+    "text": "Wenn es für mich kein Preisgeld gibt, muss ich ablehnen.",
+    "tags": ["professionell"]
+  },
+  {
+    "id": 304,
+    "text": "Ich arbeite nur auf Provision, und diese Anfrage zahlt nicht mal in Pizza.",
+    "tags": ["professionell", "geistreich"]
+  },
+  {
+    "id": 305,
+    "text": "Wenn du mich in Goldbarren bezahlst, denke ich noch mal drüber nach. Sonst nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 306,
+    "text": "Mein Steuerberater sagt, ein Ja geht in meiner Buchhaltung nicht auf.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 307,
+    "text": "Ich warte auf einen reichen Mäzen, der meine Jas finanziert.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 308,
+    "text": "Das passt nicht in mein Zeit- und Energiebudget.",
+    "tags": ["professionell"]
+  },
+  {
+    "id": 309,
+    "text": "Ich bin gerade etwas klamm: knapp bei Kasse und knapp bei Jas.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 310,
+    "text": "Wenn es dafür keine Aktienoptionen gibt, bin ich raus.",
+    "tags": ["professionell"]
+  },
+  {
+    "id": 311,
+    "text": "Ich verlange eine Anzahlung, nur um über ein Ja nachzudenken.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 312,
+    "text": "Ich warte auf ein Zeichen des Universums... ah, da ist es: Da steht Nein.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 313,
+    "text": "Ich muss meine letzte verbliebene Gehirnzelle schonen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 314,
+    "text": "Meine Existenzangst und ich haben schon Pläne.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 315,
+    "text": "Ich streike bis auf Weiteres, und ich bin die Gewerkschaftsvorsitzende.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 316,
+    "text": "Ich habe ein heißes Date mit einer Pizza und einer Serie.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 317,
+    "text": "Ich feiere den Nationalen Nein-Tag. Das ist mein persönlicher Feiertag.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 318,
+    "text": "Ich springe grundsätzlich nicht in Vulkane, und das hier fühlt sich ähnlich gefährlich an.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 319,
+    "text": "Kann nicht, ich habe schon Pläne mit meinem Bett und meinem Kissen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 320,
+    "text": "Ich teste, wie lange ich ohne irgendetwas Produktives auskomme.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 321,
+    "text": "Meine Mutter sagt, ich muss zu Hause bleiben und, äh, die Speisekammer alphabetisch sortieren.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 322,
+    "text": "Meine Familie hat mich für Verstecken eingeplant, und ich bin derjenige, der fehlt.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 323,
+    "text": "Meine Kinder haben mir Hausarrest gegeben, weil ich versucht habe, ein Leben zu haben.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 324,
+    "text": "Ich kann nicht, die Geister meiner Ahnen wären verstimmt.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 325,
+    "text": "Mein Hund lässt mich nur zum Gassigehen raus, nicht zum Arbeiten.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 326,
+    "text": "Mein Partner hat schon ein Abendessen mit mir und Netflix geplant.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 327,
+    "text": "Heute ist Familienabend, und mit Familie meine ich mich und meine Snacks.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 328,
+    "text": "Ich muss heute Abend an der Familientradition des Nichtstuns teilnehmen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 329,
+    "text": "Meine Katze wirft mir diesen 'Wehe, du gehst raus'-Blick zu.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 330,
+    "text": "Das Familientreffen meiner Goldfische findet in meinem Aquarium statt.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 331,
+    "text": "NEIN ist nur ein JA in der Trotzphase.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 332,
+    "text": "N-E-I-N: vier Buchstaben, die meine Pläne perfekt beschreiben.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 333,
+    "text": "Ich mache aus dieser Einladung eine Ausladung.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 334,
+    "text": "Man sagt, doppelte Verneinung ergibt Bejahung, aber mein einfaches Nein bleibt stehen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 335,
+    "text": "Ich lehne mit allen Konsonanten und Vokalen ab, die ich habe.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 336,
+    "text": "Falls du es verpasst hast: N wie Nein, E wie Echt nicht, I wie Im Leben nicht, N wie Nochmals nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 337,
+    "text": "Mein Motto ist 'Sag einfach Nein', und ich bin meinem Motto sehr treu.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 338,
+    "text": "Ich habe einen Kurs im Neinsagen belegt und mache gerade meine Hausaufgaben.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 339,
+    "text": "Ich schaue zu der Zeit lieber dem Gras beim Wachsen zu, sorry.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 340,
+    "text": "Eigentlich wollte ich Sandkörner zählen, und das klingt lustiger.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 341,
+    "text": "Ich habe mich schon darauf gefreut, meine Knopfsammlung neu zu sortieren.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 342,
+    "text": "Ich habe Quality Time mit meinem Deckenventilator eingeplant.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 343,
+    "text": "Ich habe ein aufregendes Date mit absolut nichts.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 344,
+    "text": "Ich habe eine leidenschaftliche Affäre mit meiner Freizeit und kann sie nicht betrügen.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 345,
+    "text": "Ich habe einen Platz in der ersten Reihe auf meinem Sofa und gedenke, ihn zu nutzen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 346,
+    "text": "Da läuft eine Wiederholung einer Serie, die ich noch nie gesehen habe, die kann ich nicht verpassen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 347,
+    "text": "Ich habe schon versprochen, die Zeit mit Daumendrehen zu verbringen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 348,
+    "text": "Ich muss absagen. Ich will mit meiner Anwesenheit niemanden in den Schatten stellen.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 349,
+    "text": "Meine Großartigkeit wäre einfach zu viel für diese Veranstaltung.",
+    "tags": ["sarkastisch"]
+  },
+  {
+    "id": 350,
+    "text": "Ich kann nicht kommen. Sonst stürmen womöglich Paparazzi deine Veranstaltung.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 351,
+    "text": "Ich tue dir einen Gefallen, indem ich nicht komme und allen die Show stehle.",
+    "tags": ["sarkastisch"]
+  },
+  {
+    "id": 352,
+    "text": "Ich bin zu cool dafür (und mit zu cool meine ich zu faul).",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 353,
+    "text": "Erlaube mir, elegant abzusagen, damit ihr ohne meine überwältigende Großartigkeit Spaß haben könnt.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 354,
+    "text": "Ich muss absagen. Ich bin zu beschäftigt damit, woanders fabelhaft zu sein.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 355,
+    "text": "Ich muss demütig ablehnen, denn meine Perfektion ist anstrengend.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 356,
+    "text": "Ich muss an dem Tag den Einen Ring nach Mordor zurückbringen.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 357,
+    "text": "Sorry, da kämpfe ich gegen Darth Vader.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 358,
+    "text": "Ich muss am Telefon sitzen, falls Hogwarts anruft.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 359,
+    "text": "Ich würde ja, aber ich habe mich schon woanders freiwillig als Tribut gemeldet.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 360,
+    "text": "Das Bat-Signal leuchtet gerade, ich muss Gotham retten.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 361,
+    "text": "Wenn ich das Haus verlasse, könnten Zombies angreifen. Hab ich in einer Doku gesehen (okay, es war ein Zombiefilm).",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 362,
+    "text": "Ich verhandle gerade mit ein paar Minions. Die Weltherrschaft kann nicht warten.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 363,
+    "text": "Ich muss mich mit Doctor Strange beraten (er hat schon vorausgesehen, dass ich nicht komme).",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 364,
+    "text": "Mein Chef hat gesagt, ich soll nur zu Gehaltserhöhungen Ja sagen, also Nein zu allem anderen.",
+    "tags": ["professionell", "geistreich"]
+  },
+  {
+    "id": 365,
+    "text": "Ich habe alle Krankheitstage aufgebraucht, also melde ich mich gesund und bleibe zu Hause.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 366,
+    "text": "Meine Lehrerin sagt, ich soll mich darauf konzentrieren, mir nicht zu viel aufzuhalsen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 367,
+    "text": "Ich habe da so ein Arbeitsding... es heißt Arbeit vermeiden.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 368,
+    "text": "In meinem Arbeitskalender steht an dem Tag ein großes rotes NÖ.",
+    "tags": ["professionell", "geistreich"]
+  },
+  {
+    "id": 369,
+    "text": "Ich kann nicht, ich habe ein wichtiges Meeting, in dem ich auf eine Tabelle starre und über das Leben nachdenke.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 370,
+    "text": "Ich nehme mir einen persönlichen Tag, um Personen zu meiden.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 371,
+    "text": "Ich habe eine Telefonkonferenz mit mir selbst, und die dauert sehr lange.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 372,
+    "text": "Meine Überstunden haben sich mit meiner Freizeit geprügelt, und die Freizeit hat verloren.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 373,
+    "text": "Mein Nein-Urlaub ist in Kraft getreten.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 374,
+    "text": "Wenn ich gehe, löse ich vielleicht die Apokalypse aus. Lieber kein Risiko.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 375,
+    "text": "Ich muss hierbleiben, um den Ausbruch der Zombieseuche zu verhindern (lange Geschichte).",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 376,
+    "text": "Ich würde kommen, aber Nostradamus hat vorhergesagt, dass ich Nein sage.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 377,
+    "text": "Wenn ich Ja sage, ist das eines der Zeichen der Apokalypse. Lass uns das vermeiden.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 378,
+    "text": "Meine Teilnahme ist das letzte Siegel vor der Apokalypse, also ganz klar nein.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 379,
+    "text": "Ich will keinen Schmetterlingseffekt auslösen, der die Welt untergehen lässt.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 380,
+    "text": "Der Legende nach endet die Welt in einer spektakulären Musicalnummer, wenn ich jemals zusage.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 381,
+    "text": "Ich habe einen Pakt mit einem Dämon geschlossen, nie Ja zu sagen, und ich breche ungern Verträge.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 382,
+    "text": "Die Weltuntergangsuhr tickt jedes Mal schneller, wenn ich überlege, zuzusagen.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 383,
+    "text": "Du darfst mein Schweigen als Nein verstehen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 384,
+    "text": "Im Geiste nicke ich, aber körperlich schüttle ich den Kopf.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 385,
+    "text": "Klar... doch wohl jemand anderes, oder?",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 386,
+    "text": "Ja steht in meinem Wortschatz, nur nicht heute.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 387,
+    "text": "Auf einer Skala von Ja bis Nein bin ich bei 'nicht in einer Million Jahren'.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 388,
+    "text": "Ich wollte Ja sagen, aber heraus kam nur Nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 389,
+    "text": "Mein 'Ja' ist wohl auf dem Postweg verloren gegangen.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 390,
+    "text": "J-A sind Buchstaben, die du heute nicht von mir hören wirst.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 391,
+    "text": "Stell dir vor, wie ich das begeistert nicht tue.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 392,
+    "text": "Stellst du dir vor, wie ich helfe? Jetzt stell dir das Gegenteil vor. Na bitte.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 393,
+    "text": "Ich habe eine Pechsträhne, also riskiere ich lieber kein Ja.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 394,
+    "text": "Ich habe gewürfelt, und es kam 'Nein' raus.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 395,
+    "text": "Ich habe Fortuna befragt, und sie meinte, ich soll zu Hause bleiben.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 396,
+    "text": "Wenn ich für jedes Nein einen Euro bekäme, wäre ich reich. Apropos: Nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 397,
+    "text": "Ich würde mitmachen, aber ich bin aus Versehen unter einer Leiter durchgelaufen und habe einen Spiegel zerbrochen. Ich riskiere nichts.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 398,
+    "text": "Meine Wahrsagerin sagt, es steht nicht in meinen Sternen, und darauf vertraue ich.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 399,
+    "text": "Das Schicksal hat hier nach links gewischt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 400,
+    "text": "Die Sterne haben sich aufgereiht... zu einem großen NEIN.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 401,
+    "text": "Ich kann nicht. Der Wetterbericht sagt eine 100-prozentige Wahrscheinlichkeit voraus, dass ich zu Hause bleibe.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 402,
+    "text": "Es regnet Neins, und ich bin klatschnass.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 403,
+    "text": "Ich gehe nur bei perfektem Wetter raus, und das ist es eindeutig nicht (für mich).",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 404,
+    "text": "Bei mir geht gerade ein heftiger Platzregen aus Faulheit nieder.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 405,
+    "text": "Die Winde des Schicksals haben geweht, und mir ist ein 'Nein' ins Gesicht geflogen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 406,
+    "text": "Ein Sturm zieht auf, und er heißt Meine Unlust.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 407,
+    "text": "Ich vermute, ein plötzlicher Tornado an Verpflichtungen wird mich drinnen halten.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 408,
+    "text": "Ich bin etwas angeschlagen, genauer gesagt unter einer Nein-Wolke.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 409,
+    "text": "Die Vorhersage für den Tag: hohe Wahrscheinlichkeit, dass ich nicht auftauche.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 410,
+    "text": "Es regnet, und ich will nicht rausgehen und schmelzen. Ich bin aus Zucker und Sarkasmus.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 411,
+    "text": "Ich könnte Ja sagen, aber das wäre gelogen.",
+    "tags": []
+  },
+  {
+    "id": 412,
+    "text": "Mein Herz sagt Ja, aber meine Seele sagt: 'Ist das dein Ernst?'",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 413,
+    "text": "Körperlich wäre ich dazu in der Lage, nur moralisch dagegen (gegen Anstrengung).",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 414,
+    "text": "Ich habe einen inneren Konflikt: Ein Teil von mir sagt Nein. Der andere Teil sagt auch Nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 415,
+    "text": "Ich bin in einem Alter, in dem ich einfach Nein zu Dingen sage, die ich hasse. Und ich hasse das hier.",
+    "tags": ["sarkastisch"]
+  },
+  {
+    "id": 416,
+    "text": "Meine Willenskraft steckt im Stau und schafft es nicht rechtzeitig.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 417,
+    "text": "Ich habe darüber nachgedacht. Der Gedanke war 'Nein'.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 418,
+    "text": "Theoretisch könnte ich, aber bleiben wir in der Realität, wo ich es nicht tue.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 419,
+    "text": "Ich versuche, weniger ein People-Pleaser zu sein, und fange jetzt damit an.",
+    "tags": []
+  },
+  {
+    "id": 420,
+    "text": "Ich habe gerade vor dem Spiegel Nein sagen geübt, und es fühlte sich richtig an.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 421,
+    "text": "Vor meinem Kaffee kann ich nicht Ja sagen. Und ich habe nicht vor, jemals Kaffee zu trinken.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 422,
+    "text": "Kein Kaffee, kein Ja.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 423,
+    "text": "Ich habe einen Pakt mit dem Kaffee: keine wichtigen Entscheidungen ohne ihn. Und der Kaffee ist alle.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 424,
+    "text": "Ich würde Ja sagen, aber ich habe meine tägliche Kaffeequote noch nicht erreicht, um die Folgen auszuhalten.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 425,
+    "text": "Ich befinde mich in einem entkoffeinierten Zustand des Neins.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 426,
+    "text": "Mein Gehirn läuft nur mit Koffein, und wir haben gerade Stromausfall.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 427,
+    "text": "Die Kaffeemaschine hat sich krankgemeldet, also kann ich keinem Vorschlag zustimmen.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 428,
+    "text": "Mein Morgenkaffee und ich haben beschlossen, dass das hier das Koffein nicht wert ist.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 429,
+    "text": "Ich bin zu beschäftigt mit der Planung der Weltherrschaft, um zu kommen.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 430,
+    "text": "Wenn ich Ja sage, könnte das meinen bösen Plan ruinieren.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 431,
+    "text": "Ich stecke mitten in einem hinterhältigen Plan und komme nicht los.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 432,
+    "text": "Ich kann dir nicht helfen. Ich bin Superschurke in Ausbildung, und das würde meinen Ruf ruinieren.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 433,
+    "text": "Ich würde mitmachen, aber dann müsste ich dich für meine Pläne rekrutieren, und das würde dir nicht gefallen.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 434,
+    "text": "Ich brainstorme gerade, wie ich die Welt übernehme, und brauche volle Konzentration.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 435,
+    "text": "Meine Minions haben für den Tag einen Aufstand geplant, und ich muss dabei sein.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 436,
+    "text": "Ich muss leider absagen, ich habe noch viele diabolische Lacher einzuüben.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 437,
+    "text": "Das Böse schläft nie, und ich anscheinend auch nicht. Aber raus gehe ich definitiv nicht.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 438,
+    "text": "Um das Gleichgewicht der Macht zu wahren, muss ich ablehnen.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 439,
+    "text": "Mein Yin und Yang sagen mir, ich soll es lassen.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 440,
+    "text": "Um des kosmischen Gleichgewichts willen kann ich nicht zustimmen.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 441,
+    "text": "Ich nehme gerade eine Feng-Shui-Anpassung meines Lebens vor, die neue Verpflichtungen verbietet.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 442,
+    "text": "Ich muss ablehnen, sonst gerät das empfindliche Gleichgewicht meiner Faulheit durcheinander.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 443,
+    "text": "Ein Ja würde mein wöchentliches Ja-Nein-Verhältnis aus dem Gleichgewicht bringen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 444,
+    "text": "Ich muss mein Karma sauber halten, und ich spüre, dass ein Ja es trüben würde.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 445,
+    "text": "Ich muss inneren Frieden finden, und das heißt, mir den Tag nicht damit zu verkomplizieren.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 446,
+    "text": "Ich fürchte, wenn ich Spaß habe, wird es zur schlechten Angewohnheit.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 447,
+    "text": "Wenn es mir am Ende gefällt, muss ich es wieder tun, also nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 448,
+    "text": "Ich habe Angst vor Erfolg, also muss ich alles ablehnen, was klappen könnte.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 449,
+    "text": "Ich fürchte, ich lege die Messlatte zu hoch, wenn ich zusage und gute Arbeit leiste.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 450,
+    "text": "Spaß? Ich weiß gar nicht mehr, was das ist. Lieber nichts riskieren.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 451,
+    "text": "Ich meide alles, was mich zu viel lächeln lassen könnte.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 452,
+    "text": "Ich versuche, geheimnisvoll zu bleiben, und ein Ja würde mich zu zugänglich machen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 453,
+    "text": "Ich halte meine Erwartungen niedrig, indem ich nichts tue.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 454,
+    "text": "Ich meide Spaß bis auf Weiteres.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 455,
+    "text": "Mich darum zu bitten ist, als würde man einen Fisch bitten, auf einen Baum zu klettern.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 456,
+    "text": "Ich und das tun? Das wäre wie ein Huhn, das Algebra versucht.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 457,
+    "text": "Ein Ja von mir wäre so ungewöhnlich wie eine Katze, die vegan wird.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 458,
+    "text": "Die Idee und ich passen zusammen wie Öl und Wasser.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 459,
+    "text": "Meine Teilnahme wäre wie ein eckiger Klotz in einem runden Loch. Passt einfach nicht.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 460,
+    "text": "Meine Motivation und diese Aufgabe sind wie zwei Magnete, die sich abstoßen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 461,
+    "text": "Das wäre, als würde man erwarten, dass ein Faultier den 100-Meter-Lauf gewinnt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 462,
+    "text": "Dass ich Ja sage, ist ungefähr so wahrscheinlich wie Schweine, die ein Raumschiff steuern.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 463,
+    "text": "Diese Anfrage ist die Erdnussbutter zu meiner Allergie.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 464,
+    "text": "Mir ist gerade eingefallen, dass Feiertag ist: der Nationale Mach-ich-nicht-Tag.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 465,
+    "text": "Ich begehe einen persönlichen Feiertag namens Neinvember.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 466,
+    "text": "Ich bin an dem Tag beim Fest des Neins gebucht.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 467,
+    "text": "Ich habe mich schon für den Anti-Arbeits-Feiertag verpflichtet.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 468,
+    "text": "Ich feiere den Gegenteiltag, indem ich das Gegenteil von dem tue, worum du bittest.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 469,
+    "text": "Sorry, das ist mein jährlicher Ruhetag... wie der Sabbat, nur für Faulheit.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 470,
+    "text": "Ich feiere nur Anlässe mit Kuchen, also ohne Kuchen: nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 471,
+    "text": "Der Termin kollidiert mit meinem verlängerten Feierabend.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 472,
+    "text": "Mein Kuscheltier hat Geburtstag, und das ist für mich praktisch ein Nationalfeiertag.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 473,
+    "text": "Ich will Ja sagen, aber mein gesunder Menschenverstand schreit immer wieder 'Nein'.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 474,
+    "text": "Mein Herz sagt vielleicht, aber mein Gehirn hat eine riesige rote Flagge gehisst.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 475,
+    "text": "Mein Bauchgefühl hat angefangen, Macarena zu tanzen, als du gefragt hast (das ist ein Nein-Tanz).",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 476,
+    "text": "Jede Faser meines Körpers macht gerade die La-Ola-Welle zu Ehren des Neins.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 477,
+    "text": "Die kleine vernünftige Stimme in meinem Kopf und die laute faule sind sich einig: nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 478,
+    "text": "Ich habe mein Urteilsvermögen gefragt, und es hat hysterisch gelacht.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 479,
+    "text": "Mein Gehirn hat die Anfrage markiert und auf Entfernen gedrückt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 480,
+    "text": "Mein Gewissen würde mich heimsuchen, wenn ich Ja sagen würde.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 481,
+    "text": "Sogar das Engelchen auf meiner Schulter sagt: 'Nee, Alter.'",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 482,
+    "text": "Meine innere Stimme schreit nur 'NEEEEIN', im Darth-Vader-Stil.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 483,
+    "text": "Ich prokrastiniere nicht. Ich sage proaktiv im Voraus Nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 484,
+    "text": "Ich vertage meine Entscheidung bis ans Ende aller Zeiten. Spoiler: Es wird ein Nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 485,
+    "text": "Warum heute etwas tun, was man auf unbestimmte Zeit vermeiden kann?",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 486,
+    "text": "In meinem Planer steht diese Woche auf jeder Seite nur 'Nö'.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 487,
+    "text": "Ich setze die Anfrage auf meine To-do-Liste, direkt hinter 'Teleportieren lernen'.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 488,
+    "text": "Ich verschiebe gerade meine Aufschieberitis auf später.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 489,
+    "text": "Ich warte auf die letzte Minute, und die ist noch nicht gekommen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 490,
+    "text": "Ich dachte, ich mache es später, aber später ist auch schon ausgebucht.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 491,
+    "text": "Ich bin gerade so schön im Aufschieben, da kann ich jetzt nicht aufhören.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 492,
+    "text": "Ich verschiebe mein Ja auf ein Jahr, das es nicht gibt.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 493,
+    "text": "Ich würde helfen, aber dann hättest du zwei, die Hilfe brauchen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 494,
+    "text": "Ich bin nicht sicher, ob du dir den Schaden leisten kannst, den ich beim Versuch anrichten würde.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 495,
+    "text": "Meine Hilfe kommt mit Geld-zurück-Garantie, aber du willst sie nicht.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 496,
+    "text": "Ich bin der letzte Mensch, der das tun sollte. Buchstäblich, ich stehe ganz hinten in der Schlange.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 497,
+    "text": "Ich habe mal etwas Ähnliches versucht. Sagen wir einfach, die Feuerwehr war beteiligt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 498,
+    "text": "Wenn ich es mache, verbringst du mehr Zeit damit, meine Fehler auszubügeln.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 499,
+    "text": "Meine Kompetenz ist gerade im Urlaub.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 500,
+    "text": "Ich bin Weltmeister im Aufschieben, nicht im tatsächlichen Erledigen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 501,
+    "text": "Ich würde mich melden, aber meine Inkompetenzgebühr ist ziemlich hoch.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 502,
+    "text": "Ich würde helfen, aber dann müsste ich jede Haftung für das Ergebnis ausschließen.",
+    "tags": ["professionell", "geistreich"]
+  },
+  {
+    "id": 503,
+    "text": "Das löst bei mir keine Freude aus, also passe ich.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 504,
+    "text": "Die Idee besteht bei mir den Vibe-Check nicht.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 505,
+    "text": "Ich verspüre keine besonders starke Anziehungskraft in diese Richtung.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 506,
+    "text": "Mein Interesse liegt irgendwo zwischen null und minus.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 507,
+    "text": "Wenn ich noch weniger Interesse hätte, läge ich im Koma.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 508,
+    "text": "Meine Neugier hat den Raum verlassen, als ich die Idee gehört habe.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 509,
+    "text": "Bestimmt faszinierend, aber meine Aufmerksamkeitsspanne sieht das anders.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 510,
+    "text": "Ich spare meine Begeisterung für etwas Langweiligeres auf.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 511,
+    "text": "Ich bin beim Drübernachdenken eingeschlafen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 512,
+    "text": "Ich habe versucht, mich dafür zu begeistern, und mir einen Muskel gezerrt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 513,
+    "text": "Der Staat hat mich in ein Zeugenschutzprogramm gegen solche Veranstaltungen gesteckt.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 514,
+    "text": "Meine Bewährungshelferin sagt, ich darf nur am Faulsein arbeiten.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 515,
+    "text": "Der Verfassungsschutz hat angerufen. Ein Ja von mir wäre ein Sicherheitsrisiko für das Land.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 516,
+    "text": "Ich würde kommen, aber der Richter meines Lebens hat mich zu Hausbleiben verurteilt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 517,
+    "text": "Mein Führerschein fürs Spaßhaben wurde eingezogen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 518,
+    "text": "Ich würde ja gern, aber ich habe strikte Anweisungen von mir selbst, es nicht zu tun.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 519,
+    "text": "Der Geist der Queen hat mir befohlen, zu Hause zu bleiben (ich nehme nur königliche Befehle an).",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 520,
+    "text": "Die Insel, auf die ich verbannt bin, lässt mich nicht zu Veranstaltungen.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 521,
+    "text": "Laut den Bedingungen meiner Lebensentscheidungen bin ich vertraglich zur Absage verpflichtet.",
+    "tags": ["professionell", "geistreich"]
+  },
+  {
+    "id": 522,
+    "text": "Die Polizei hat gesagt, ich sei zu interessant für normale Zusammenkünfte.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 523,
+    "text": "Für diese Art von Verpflichtung bin ich zu alt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 524,
+    "text": "Ich glaube, ich bin in dem Alter, in dem man zu so etwas einfach Nein sagt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 525,
+    "text": "In meinem Alter ist der Ist-mir-nicht-egal-Knopf kaputt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 526,
+    "text": "Ich stecke in der Midlife-Crisis, und Ja sagen gehört nicht dazu.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 527,
+    "text": "Ich bin in meiner rebellischen Phase und tue nur, was ich will, also nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 528,
+    "text": "Ich kanalisiere meinen inneren Grantler und bleibe zu Hause.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 529,
+    "text": "Ich durchlebe meine Teenager-Rebellion neu, indem ich zu allem Nein sage.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 530,
+    "text": "Zu meiner Zeit mussten wir nichts tun, was wir nicht wollten (und dabei bleibt es).",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 531,
+    "text": "Ich übe für meine Zukunft als griesgrämiger alter Einsiedler.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 532,
+    "text": "Ich reife wie ein guter Wein, das heißt, ich werde immer sturer beim Neinsagen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 533,
+    "text": "Meine gute Fee hat gesagt, ich soll zu Hause bleiben, sonst werde ich zum Kürbis.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 534,
+    "text": "Ich warte auf den Prinzen, der mir Pizza bringt, also kann ich nirgendwo hin.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 535,
+    "text": "Ich kann nicht. Der böse Wolf steht vor meiner Tür (er verkauft anscheinend Versicherungen).",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 536,
+    "text": "Ich liege unter einem Schlafzauber, den nur die Zeit (und das Nichttun) brechen kann.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 537,
+    "text": "Ich habe meinen gläsernen Schuh verloren und kann ohne ordentliches Schuhwerk nicht raus.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 538,
+    "text": "Ich stecke in einem Märchen fest, und dazu Ja zu sagen, gehört nicht zur Handlung.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 539,
+    "text": "Ich muss heute Nacht den Kühlschrank bewachen. Die Snacks zählen auf mich.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 540,
+    "text": "Ich habe die Zeit einem Eis gewidmet, das Gesellschaft braucht.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 541,
+    "text": "Ich lade Kohlenhydrate für einen Marathon im Nichtstun.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 542,
+    "text": "Ich habe ein Dinner-Date mit einer Pizza, und sie wäre eifersüchtig, wenn ich absage.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 543,
+    "text": "Ich kann nicht raus. Mein Kühlschrank hat gerade eine Flasche Wein aufgemacht, und es wäre unhöflich, nicht mitzutrinken.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 544,
+    "text": "Ich teste die Theorie, dass man nur von Chips überleben kann. Das kann ich nicht unterbrechen.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 545,
+    "text": "Mein Ofen und ich haben vor, einen ganzen Kuchen zu backen und aufzuessen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 546,
+    "text": "Ich habe versprochen, meinem Popcorn beim Poppen zu helfen. Das ist ein sehr aufwendiger Prozess.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 547,
+    "text": "Ich würde ja, aber ich habe gerade ein Fünf-Gänge-Menü für eine Person (mich) angefangen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 548,
+    "text": "Ich lerne, unsichtbare Gerichte zu kochen. Das ist sehr zeitaufwendig.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 549,
+    "text": "Ich muss in Bereitschaft sein, falls Netflix mich zum Schauen braucht.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 550,
+    "text": "Ich habe Rufbereitschaft als Couch-Potato der Familie.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 551,
+    "text": "Ich bin diese Woche der designierte Zuhausebleiber.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 552,
+    "text": "Ich bin Schöffe am Gericht meiner eigenen Faulheit.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 553,
+    "text": "Ich bin der Notfallkontakt meines Fernsehers, also muss ich erreichbar bleiben.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 554,
+    "text": "Ich habe mich verpflichtet, für einen Snack-Notfall zu Hause zu bleiben.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 555,
+    "text": "Ich bin Proband in einer Ausschlafstudie und habe da eine Sitzung.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 556,
+    "text": "Ich bin Teil eines streng geheimen Projekts namens Projekt Nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 557,
+    "text": "Ich habe eine Pflicht zu erfüllen: dafür sorgen, dass sich mein Sofa nicht einsam fühlt.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 558,
+    "text": "Mein Auto hat beschlossen, sich einen freien Tag zu nehmen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 559,
+    "text": "Der öffentliche Nahverkehr in meinem Wohnzimmer ist gerade außer Betrieb.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 560,
+    "text": "Ich wollte gehen, aber meine Tür ließ mich nicht (wir haben verhandelt, und ich bin geblieben).",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 561,
+    "text": "Mein Navi hat mir empfohlen, zu Hause zu bleiben, um schlechte Entscheidungen zu vermeiden.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 562,
+    "text": "Mein Fahrgemeinschafts-Pony ist krank. Ja, es ist ein Pony, frag nicht.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 563,
+    "text": "Ich würde hinradeln, aber mein Fahrrad hat mich nur ausgelacht.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 564,
+    "text": "Uber fährt mich nicht zu schlechten Ideen.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 565,
+    "text": "Ich habe den Gedankenzug verpasst, der mich hätte hinbringen können.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 566,
+    "text": "Mein Besen ist in der Werkstatt (die Walpurgisnacht war hart).",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 567,
+    "text": "Alle Wege führen dazu, dass ich zu Hause bleibe.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 568,
+    "text": "Meine Versicherung deckt keine Schäden, die entstehen, wenn ich das mache.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 569,
+    "text": "Ich muss in einer sicheren Umgebung bleiben, und die Veranstaltung klingt riskant (für meinen Verstand).",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 570,
+    "text": "Die Berufsgenossenschaft hat diese Tätigkeit für mich als Gefährdung eingestuft.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 571,
+    "text": "Ich warte auf meinen Luftpolsteranzug, bevor ich so etwas versuche.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 572,
+    "text": "Das klingt gefährlich für mein Wohlbefinden (vor allem mein seelisches).",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 573,
+    "text": "Ich bediene schwere Maschinen (wie mein Sofa) nur unter Aufsicht, also kann ich nicht.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 574,
+    "text": "Beim letzten Versuch habe ich mir einen Papierschnitt in der Seele geholt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 575,
+    "text": "Aus Sicherheitsgründen muss ich mich von dieser Art Aufregung fernhalten.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 576,
+    "text": "Mein Schutzengel hat eine einstweilige Verfügung gegen den Plan erwirkt.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 577,
+    "text": "Ich will meinen Lebenswillen nicht durch ein Ja beschädigen.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 578,
+    "text": "Ich bin über das Bedürfnis nach solchen Aktivitäten erhaben.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 579,
+    "text": "Ich konzentriere mich auf den Weg des Nichtstuns, nicht auf das Ziel dieser Aufgabe.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 580,
+    "text": "Meine Existenzkrise und ich haben uns dagegen entschieden.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 581,
+    "text": "Im großen Teppich des Lebens bin ich der Faden, der diesmal aussetzt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 582,
+    "text": "Ich habe erkannt, dass der Sinn des Lebens nicht darin besteht, also passt das schon.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 583,
+    "text": "Ich suche lieber nach dem Sinn des Lebens, als hinzugehen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 584,
+    "text": "Ich denke, also bin ich... nicht dabei.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 585,
+    "text": "Meine aktuelle Philosophie: Wenn es eine Hose erfordert, ist es ein Nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 586,
+    "text": "Ich praktiziere Wu Wei (Nichthandeln) nach dem Taoismus, also muss ich ablehnen.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 587,
+    "text": "Tun oder nicht tun, das ist hier die Frage. Und meine Antwort lautet: nicht tun.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 588,
+    "text": "Ich habe jahrelang bei einem Meister des Neinsagens trainiert.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 589,
+    "text": "Ich habe den schwarzen Gürtel in Nein-Jitsu.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 590,
+    "text": "Ich habe mich mein ganzes Leben darauf vorbereitet, genau zu dieser Anfrage Nein zu sagen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 591,
+    "text": "Ich war auf einem Seminar für Durchsetzungsvermögen und brenne darauf, das Gelernte anzuwenden: Nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 592,
+    "text": "Meine Reflexe sind darauf trainiert, Einladungen automatisch abzulehnen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 593,
+    "text": "Ich habe mich für einen 'Sag einfach Nein'-Workshop angemeldet und muss üben.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 594,
+    "text": "Ich bin in einem Geheimbund, in dem wir nur über Absagen kommunizieren.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 595,
+    "text": "Mein Reflex ist Nein, und mein Knie zuckt heute besonders stark.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 596,
+    "text": "Neinsagen ist mein Cardio-Training.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 597,
+    "text": "Ich habe mein Nein die ganze Woche für genau so einen Anlass geprobt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 598,
+    "text": "Nein ist mein zweiter Vorname. Nicht offiziell, aber spirituell.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 599,
+    "text": "Ich stamme aus einer langen Ahnenreihe professioneller Absager.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 600,
+    "text": "Mein DNA-Test ist da: Ich bin zu 100 % nicht dabei.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 601,
+    "text": "Ich bin genetisch zum Neinsagen veranlagt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 602,
+    "text": "Ich bin zum Neinsagen geboren. Es war mein erstes Wort, und ich habe nie aufgehört.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 603,
+    "text": "Ich habe eine seltene genetische Störung, bei der ich Absagen-Ausschlag bekomme.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 604,
+    "text": "Mein Seelentier ist ein Faultier, und es sagt mir, ich soll bleiben, wo ich bin.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 605,
+    "text": "Als Kind habe ich geschworen, alles zu meiden, was so aussieht.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 606,
+    "text": "Mein Life-Coach hat mir geraten, Stressfaktoren zu eliminieren, angefangen mit diesem.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 607,
+    "text": "Meine Freunde bekämen einen Herzinfarkt, wenn ich plötzlich zu Dingen Ja sagen würde.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 608,
+    "text": "Es wäre ein schlechter Präzedenzfall, wenn ich anfinge, vernünftigen Bitten zuzustimmen.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 609,
+    "text": "Wenn ich jetzt anfange, Ja zu sagen, wo soll das enden? Weltherrschaft? Lieber nicht.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 610,
+    "text": "Ein einziges Ja könnte mir den Ruf einbringen, hilfsbereit zu sein. Das geht nicht.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 611,
+    "text": "Ich darf meinem System nicht so einen Verantwortungsschock zumuten. Ärztliche Anordnung.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 612,
+    "text": "Ich fürchte, ein Ja würde jetzt die Schleusen der Erwartungen öffnen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 613,
+    "text": "Wenn ich Ja sage, erwarten die Leute womöglich, dass ich es wieder tue. Gott bewahre.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 614,
+    "text": "Eine Zusage würde alle verwirren, die mich als professionellen Vermeider kennen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 615,
+    "text": "Meine Marke ist 'zuverlässige Enttäuschung', und ich muss konsequent bleiben.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 616,
+    "text": "Können wir das verschieben und den Termin dann für immer verlieren?",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 617,
+    "text": "Lass uns das für den 30. Februar eintragen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 618,
+    "text": "Ich komme am 32. dieses Monats dazu.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 619,
+    "text": "Wie wär's, wenn ich beim nächsten Mal dabei bin... in einem Paralleluniversum?",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 620,
+    "text": "Vielleicht ein andermal, wenn Schweine fliegen oder die Hölle zufriert, je nachdem, was zuerst passiert.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 621,
+    "text": "Ich bin im Geiste dabei. Genauer gesagt im Geiste der Abwesenheit.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 622,
+    "text": "Sagen wir einfach, ich war in unserer Fantasie da, und machen Feierabend.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 623,
+    "text": "Gedanklich bin ich da, nur nicht körperlich.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 624,
+    "text": "Ich sage Bescheid, wenn ich Zeit habe. (Bleib nicht wach.)",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 625,
+    "text": "Ich bin auf einer Mission in einem Videospiel, und das echte Leben kann da nicht mithalten.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 626,
+    "text": "Ich würde ja, aber mir fehlt nur noch ein XP zum Level-up im Nichtstun.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 627,
+    "text": "Meine Gilde in World of Warcraft braucht mich zum Farmen von Nein-Tränken.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 628,
+    "text": "Ich stecke mitten in einer Tetris-Partie mit hohem Einsatz (ja, das ist sehr ernst).",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 629,
+    "text": "Ich habe meinen Online-Freunden versprochen, den Server am Leben zu halten, indem ich online bleibe.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 630,
+    "text": "Ich trainiere meine Gaming-Skills. Die Quests im echten Leben müssen warten.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 631,
+    "text": "Mein Controller ist kaputtgegangen, und meine Lust auszugehen gleich mit.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 632,
+    "text": "Ich spiele gerade die Rolle eines Einsiedlers.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 633,
+    "text": "Ich bin damit beschäftigt, einen neuen Highscore in Introvertiertheit aufzustellen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 634,
+    "text": "Ich habe nichts anzuziehen, das zu dem reuevollen Blick passt, den ich hätte, wenn ich hinginge.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 635,
+    "text": "Alle meine Klamotten sind allergisch gegen Aktivitäten draußen.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 636,
+    "text": "Mein Kleiderschrank und ich haben eine Abmachung: Er sieht nur das Sofa.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 637,
+    "text": "Ich würde ja gehen, aber ich habe schon den Schlafanzug an.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 638,
+    "text": "Ich finde die Motivation nicht, mich schick zu machen. Ich glaube, ich habe sie gespendet.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 639,
+    "text": "Der Dresscode klingt nach 'Anstrengung', also bin ich raus.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 640,
+    "text": "Ich gehe nur zu Veranstaltungen, bei denen Schlafanzug als Abendgarderobe gilt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 641,
+    "text": "Ich stecke im Narnia meines Kleiderschranks fest und komme nicht raus.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 642,
+    "text": "Sorry, nichts in meinem Schrank schreit 'Los geht's'. Alles schreit 'Bleib zu Hause'.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 643,
+    "text": "Mein Hund hat meine Hausaufgaben gefressen und dann eine Fortsetzung verlangt.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 644,
+    "text": "Braucht ein Fisch ein Fahrrad? So sehr brauche ich das hier.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 645,
+    "text": "Können Schweine fliegen? Nur dann würde ich das tun.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 646,
+    "text": "Ist der Himmel grün? Nein? Da hast du meine Antwort.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 647,
+    "text": "Wäre es klug, zuzusagen? Der Rat meines Ichs sagt nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 648,
+    "text": "Ist das der Moment, in dem ich Ja sage? Nein? Gut, denn das tue ich nicht.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 649,
+    "text": "Sehe ich aus wie jemand, der das tun würde? Richtig, tue ich nicht.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 650,
+    "text": "Ist heute Gegenteiltag? Sonst ist meine Antwort nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 651,
+    "text": "Habe ich mich gerade freiwillig gemeldet? Nein, und dabei bleibt es.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 652,
+    "text": "Ist das eine Fangfrage? Ich antworte jedenfalls so: nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 653,
+    "text": "Ob ich komme? Das beantworte ich, wenn Wasser nicht mehr nass ist.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 654,
+    "text": "Ich überbringe meine Antwort als Ausdruckstanz. *tanzt ein NEIN*",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 655,
+    "text": "Wenn ich singen könnte, würde ich dir 'Ich sage Neeeein' als Oper vorsingen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 656,
+    "text": "Stell dir vor, wie ich dramatisch 'Ich lehne ab!' rufe und dabei meinen Umhang schwinge.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 657,
+    "text": "Ich schreibe dir ein Haiku als Antwort: 'Ganz sicher nicht, nein / Zweifellos und klar ein Nein / Leider immer noch'.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 658,
+    "text": "Stell dir ein Flugzeug vor, das NEIN über dein Haus an den Himmel schreibt. Das ist meine Antwort.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 659,
+    "text": "Orchestertusch einfügen: Dam dam daaa NEIN.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 660,
+    "text": "Ich werfe Konfetti, und das Konfetti bildet das Wort NEIN.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 661,
+    "text": "Ich halte eine Wertungstafel mit einer 0 hoch, wie 0 % Chance.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 662,
+    "text": "Improtheater: Ich spiele eine Person, die Nein sagt. Szene Ende.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 663,
+    "text": "*Dramatischer Abgang mit einem Absage-Monolog*",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 664,
+    "text": "Ich wurde gestern von Aliens entführt, und sie haben mir strikte Anweisungen gegeben, so etwas zu meiden.",
+    "tags": ["absurd"]
+  },
+  {
+    "id": 665,
+    "text": "Aliens haben mich zu einer Galaxie-Party eingeladen, und ich habe schon zugesagt.",
+    "tags": ["absurd"]
+  },
+  {
+    "id": 666,
+    "text": "Ich kann nicht. Ich bin der Fremdenführer der Aliens auf der Erde, und sie sind sehr anspruchsvoll.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 667,
+    "text": "Die Aliens haben meine Begeisterung mitgenommen, als sie abgeflogen sind.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 668,
+    "text": "Ich kandidiere für den Vorsitz im Club der Aufschieber, und der Wahlkampf ist sehr zeitaufwendig.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 669,
+    "text": "Meine Lust mitzumachen ist auf mysteriöse Weise verschwunden, genau als du gefragt hast.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 670,
+    "text": "Ich habe im Lotto des Kümmerns gespielt und verloren.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 671,
+    "text": "Ich habe eine irrationale Angst, Verpflichtungen versehentlich zu genießen, also meide ich sie.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 672,
+    "text": "Wie das Meme so schön sagt: Ain't nobody got time for that.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 673,
+    "text": "Ich stecke so tief in meiner Komfortzone, dass ich den Ausgang nicht mal sehe.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 674,
+    "text": "Mein Nein-Limit für heute ist erreicht.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 675,
+    "text": "Mein Kalender hat gerade eine einstweilige Verfügung gegen neue Termine erwirkt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 676,
+    "text": "Ich bin in einer Langzeitbeziehung mit dem Absagen von Plänen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 677,
+    "text": "Ich erlebe bei dieser Veranstaltung JOMO (Joy Of Missing Out, die Freude am Verpassen).",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 678,
+    "text": "Ich kanalisiere ein umgekehrtes Nike: 'Just don't do it.'",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 679,
+    "text": "Ich bereue lieber, es nicht getan zu haben, als es getan zu haben.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 680,
+    "text": "Nach meiner Version von Murphys Gesetz: Alles, was vermieden werden kann, wird vermieden.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 681,
+    "text": "Meine Antwort ist wie Schrödingers Katze: gleichzeitig Ja und Nein, bis du merkst, dass es einfach Nein ist.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 682,
+    "text": "YOLO, und genau deshalb sage ich Nein. Mein einziges Leben ist mir zu wertvoll.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 683,
+    "text": "Meine Horoskop-App hat mich gerade benachrichtigt: 'Heute ist ein guter Tag, um Nein zu sagen.'",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 684,
+    "text": "Wenn Neinsagen olympisch wäre, hätte ich Gold.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 685,
+    "text": "Ich trage meine Absage wie einen Orden.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 686,
+    "text": "Ich muss schneller absagen als ein Gepard auf Energydrinks.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 687,
+    "text": "Ich würde Ja sagen, aber dann müsste ich aus meinem Tagtraum aufwachen, und die Realität ist viel unangenehmer.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 688,
+    "text": "Das Schicksal ist mir gerade mit einem dicken, fetten Nein in die DMs gerutscht.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 689,
+    "text": "Mein Gehirn ist voll mit nutzlosem Wissen. Für neue Aufgaben ist kein Platz.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 690,
+    "text": "Wenn ich dir helfe, wäre ich stolz auf mich, und mit so vielen Gefühlen komme ich nicht klar.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 691,
+    "text": "Ich gebe dir zwei Optionen: Nein oder Nö. Du darfst wählen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 692,
+    "text": "Machen wir Multiple Choice draus. Ich wähle Antwort D: Wird nicht passieren.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 693,
+    "text": "Sieh es positiv: Wenigstens bin ich beim Neinsagen konsequent.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 694,
+    "text": "Betrachte das als Nein mit einer Beilage Sarkasmus.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 695,
+    "text": "Ich stecke in einem Schwarzen Loch der Prokrastination fest und komme nicht rechtzeitig raus.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 696,
+    "text": "Ich sage nur während Sonnenfinsternissen Ja, und es ist keine geplant.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 697,
+    "text": "Das Wort 'Ja' gibt mir Nesselsucht. Ich vermeide eine allergische Reaktion.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 698,
+    "text": "Ich hatte einen Traum, in dem ich Ja gesagt habe, und bin schweißgebadet aufgewacht. In echt passiert das nicht.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 699,
+    "text": "In der Zeit, die du zum Fragen gebraucht hast, habe ich mich schon für Nein entschieden.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 700,
+    "text": "Sorry, ich kann dich nicht hören, so laut ist es, wenn ich das nicht tue.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 701,
+    "text": "Ich glaube, die Verbindung ist schlecht. Falls du um etwas gebeten hast: Die Antwort ist Rauschen... also nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 702,
+    "text": "Ich habe mich verhört, ich dachte, du hättest gefragt: 'Willst du eine Currywurst?' Hast du nicht, also kein Interesse.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 703,
+    "text": "Die Autokorrektur hat deine Anfrage in 'Nein' geändert. Komisch, oder?",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 704,
+    "text": "Ich habe deine Nachricht bekommen, aber leider hat mein Spamfilter sie unter 'unerwünschte Aufgaben' abgelegt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 705,
+    "text": "Ich glaube, du hast dich verwählt. Die Person, die Ja sagt, ist nicht erreichbar.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 706,
+    "text": "Ich spreche fließend Sarkasmus, also verstehe ich deine Frage als klares Nein.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 707,
+    "text": "Ich stelle dich kurz in die Warteschleife... *holt dich nie wieder raus*",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 708,
+    "text": "Ich habe das Memo nicht bekommen, dass es mich interessieren sollte.",
+    "tags": ["sarkastisch"]
+  },
+  {
+    "id": 709,
+    "text": "Ich habe gerade technische Schwierigkeiten damit, mich darum zu scheren.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 710,
+    "text": "Die Götter der Prokrastination verlangen, dass ich diese Aufgabe opfere, indem ich sie nicht erledige.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 711,
+    "text": "Nein ist ein vollständiger Satz, und es ist meine endgültige Antwort.",
+    "tags": ["professionell"]
+  },
+  {
+    "id": 712,
+    "text": "Ich fürchte, eine Zusage könnte irgendwie eine Zombie-Apokalypse auslösen, also gehe ich auf Nummer sicher.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 713,
+    "text": "Mein Spinnensinn kribbelt und sagt mir, dass ich das lassen soll.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 714,
+    "text": "Man sagt, folge deinen Träumen, und mein Traum ist es, das nicht zu tun.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 715,
+    "text": "Ich folge nur dem Rat 'Tu, was du liebst', und ich liebe es, Nein zu sagen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 716,
+    "text": "Heute nicht, Satan. Eigentlich an keinem Tag.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 717,
+    "text": "Meine Prokrastination leistet großartige Arbeit. Ich will ihren Flow nicht unterbrechen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 718,
+    "text": "NEIN steht für: Neue Energie Im Nichtstun.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 719,
+    "text": "Ich habe gewettet, dass ich eine Woche lang zu allem Nein sagen kann. Ich bin kurz davor zu gewinnen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 720,
+    "text": "Ich führe ein soziales Experiment durch, bei dem ich Nein sage und beobachte, was passiert.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 721,
+    "text": "Etwas, das mich wirklich nervt, ist Dinge zu erledigen, also lasse ich es einfach.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 722,
+    "text": "Das Leben ist kurz, und ich verschwende es lieber auf meine Art, nicht damit.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 723,
+    "text": "Mein Kontingent an schlechten Entscheidungen für diesen Monat ist erfüllt. Ein Ja würde es überschreiten.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 724,
+    "text": "Ich würde gern mitmachen, aber ich bin innerlich tot, also geht es einfach nicht.",
+    "tags": ["sarkastisch"]
+  },
+  {
+    "id": 725,
+    "text": "Ich habe das Hauptfigur-Syndrom, und mein Handlungsbogen sieht das nicht vor.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 726,
+    "text": "Zeit ist eine nicht erneuerbare Ressource, und ich verschwende keine davon dafür.",
+    "tags": ["professionell", "geistreich"]
+  },
+  {
+    "id": 727,
+    "text": "Meine Gratis-Testphase fürs Dingeerledigen ist abgelaufen, und das Abo kann ich mir nicht leisten.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 728,
+    "text": "Ich mache eine strikte Diät ohne Verpflichtungen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 729,
+    "text": "Ich mache Intervallfasten von Verantwortung, und heute ist Fastentag.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 730,
+    "text": "Ich sage nur am 29. Februar Ja, und heute ist nicht der 29. Februar.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 731,
+    "text": "Ich kann nicht riskieren, durch Hilfsbereitschaft meine finale Form freizuschalten.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 732,
+    "text": "Ich muss meine geheimnisvolle Aura wahren, indem ich nicht auftauche.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 733,
+    "text": "Die Leute dürfen nicht herausfinden, dass ich tatsächlich Freizeit habe.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 734,
+    "text": "Ich habe heute Morgen meine ganze Willenskraft fürs Aufstehen verbraucht.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 735,
+    "text": "Mein Leben ist ein Spielbuch, und ich habe die Seite aufgeschlagen, auf der ich Nein sage.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 736,
+    "text": "Kraft meines Amtes erkläre ich hiermit offiziell: Nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 737,
+    "text": "Ich, meine Wenigkeit und ich hatten ein Meeting und haben einstimmig beschlossen abzulehnen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 738,
+    "text": "Ich sehe deine Anfrage und erhöhe um ein Nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 739,
+    "text": "Meine Begeisterung ist nicht lieferbar, und der Liefertermin verschiebt sich ständig.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 740,
+    "text": "Ich erhole mich immer noch vom letzten Mal, als ich Ja gesagt habe.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 741,
+    "text": "Es ist keine Prokrastination, wenn ich nie vorhatte, es zu tun.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 742,
+    "text": "Ich habe mir das Nein-Leben nicht ausgesucht. Das Nein-Leben hat mich ausgesucht.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 743,
+    "text": "Anstrengung wird von meinem Betriebssystem derzeit nicht unterstützt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 744,
+    "text": "Mein persönlicher Assistent (der imaginär ist) hat schon für mich abgesagt.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 745,
+    "text": "Ich bleibe lieber eine Abwesenheitsnotiz in Menschengestalt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 746,
+    "text": "Ich habe mich auf dem Weg zum Ja verlaufen und bin beim Nein gelandet.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 747,
+    "text": "Wenn ich Ja sage, müsste ich es tatsächlich tun. Das vermeiden wir lieber.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 748,
+    "text": "In der Heldenreise meines Lebens bin ich in der Phase 'Weigerung, dem Ruf zu folgen'.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 749,
+    "text": "Ich bin im Sabbatical von allem, was nach Arbeit klingt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 750,
+    "text": "Mein Neujahrsvorsatz war, öfter Nein zu sagen. Ich fange jetzt an.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 751,
+    "text": "Ich habe eine Risikobewertung gemacht, und das Ergebnis lautet 'Nein'.",
+    "tags": ["professionell", "geistreich"]
+  },
+  {
+    "id": 752,
+    "text": "Ich habe einen Ruf zu verlieren, nämlich den als Neinsager.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 753,
+    "text": "Meine Intuition sagt mir, dass heute nicht der Tag ist, an dem ich anfange, hilfsbereit zu sein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 754,
+    "text": "Allein der Gedanke daran hat mir Phantomrückenschmerzen beschert. Ich passe.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 755,
+    "text": "Wenn ich für jedes Nein einen Euro bekäme, hätte ich sehr viele Euro.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 756,
+    "text": "Ich gehe zum Treffen des Antisozialen Sozialclubs (ich bin das einzige Mitglied).",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 757,
+    "text": "Die Festplatte in meinem Gehirn ist voll. Für diese Aufgabe ist kein Platz.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 758,
+    "text": "Ich würde kommen, aber ich probiere gerade dieses neue Ding, bei dem ich es einfach lasse.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 759,
+    "text": "Ich bedaure, dir mitteilen zu müssen, dass ich das mit vollem Einsatz nicht tun werde.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 760,
+    "text": "Ich lebe stellvertretend durch andere, die Ja sagen, damit ich es nicht muss.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 761,
+    "text": "Spieglein, Spieglein an der Wand, soll ich das tun? 'Niemals, nirgends, in keinem Land.'",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 762,
+    "text": "Ich kann nicht Ja sagen. Das würde meinen Platz in der Hall of Fame der Aufschieber gefährden.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 763,
+    "text": "Die Wahrscheinlichkeit, dass ich das tue, nähert sich dem absoluten Nullpunkt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 764,
+    "text": "Mein Engagement fürs Nichtstun wäre eifersüchtig, wenn ich etwas anderes täte.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 765,
+    "text": "Meine Kernkompetenz ist das Vermeiden, und darauf muss ich mich wirklich konzentrieren.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 766,
+    "text": "Mir fehlt die nötige Begeisterung, um auch nur so zu tun, als würde ich das in Betracht ziehen.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 767,
+    "text": "Ich bin eher der Typ 'aus der Ferne beobachten' als 'mitmachen'.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 768,
+    "text": "Mein Gehirn ist wie ein Papagei, der nur ein Wort kann: 'Nein'.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 769,
+    "text": "Ich schreibe ein Buch namens '101 Arten, Nein zu sagen'. Danke für das Material.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 770,
+    "text": "Ich bin ein miserabler Lügner, also tue ich nicht so, als wollte ich das.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 771,
+    "text": "'Nein.' Ich gebe dieser Antwort fünf Sterne.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 772,
+    "text": "'Nein', von mir, mit Liebe.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 773,
+    "text": "Möge das Nein mit dir sein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 774,
+    "text": "Neinsagen ist meine Superkraft, und ich nutze sie, um meine Freizeit zu retten.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 775,
+    "text": "Ich hatte schon beim Zuhören einen Burnout, also sage ich vorsorglich ab.",
+    "tags": ["professionell"]
+  },
+  {
+    "id": 776,
+    "text": "Ich folge dem Prinzip des geringsten Aufwands, und das heißt: absagen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 777,
+    "text": "Mein Leben ist eine Sitcom über das Vermeiden von Verantwortung, und ich kann nicht aus der Rolle fallen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 778,
+    "text": "Ich habe meine Verfügbarkeit testen lassen, und das Ergebnis ist negativ.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 779,
+    "text": "Ich tue so, als hätte ich die Anfrage nicht gehört, und mache weiter damit, sie nicht zu erledigen.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 780,
+    "text": "Geht leider nicht, und das so nett wie möglich gesagt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 781,
+    "text": "Ich nehme mir ein Jahr für meine psychische Gesundheit (ab sofort), also muss ich absagen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 782,
+    "text": "Ich verweigere die Aussage, weil sie zu echter Arbeit führen könnte.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 783,
+    "text": "Seien wir ehrlich: Wir wissen beide, dass ich es nicht tun werde.",
+    "tags": ["sarkastisch"]
+  },
+  {
+    "id": 784,
+    "text": "Ich muss aus persönlichen Gründen passen (persönlicher Grund: Ich will einfach nicht).",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 785,
+    "text": "Ich will ja nicht angeben, aber ich bin richtig gut darin, Dinge nicht zu tun.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 786,
+    "text": "Stell dir ein Venn-Diagramm aus meinem Terminplan und deiner Anfrage vor. Es gibt keine Schnittmenge.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 787,
+    "text": "Ich habe zu viele Tabs im Kopf offen, und keiner davon handelt davon.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 788,
+    "text": "Ich habe eine Not-to-do-Liste, und das hier steht ganz oben.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 789,
+    "text": "Ich bin ausgebucht mit Unterforderung.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 790,
+    "text": "Diese Anfrage liegt über meiner emotionalen Gehaltsstufe.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 791,
+    "text": "Meine Begeisterung hat Insolvenz angemeldet, also kann ich da nicht investieren.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 792,
+    "text": "Mein Kalender ist voller leerer Felder, reserviert für Me-Time.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 793,
+    "text": "Ich ignoriere dich nicht. Ich gebe dir ein klares Nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 794,
+    "text": "Wenn ich noch eine Sache übernehme, werde ich offiziell zum abschreckenden Beispiel.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 795,
+    "text": "Sieh meine Absage als kostenlose Lektion im Umgang mit Ablehnung.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 796,
+    "text": "Ich bewundere deine Hartnäckigkeit, aber es bleibt bei Nein.",
+    "tags": ["freundlich"]
+  },
+  {
+    "id": 797,
+    "text": "Ich lebe schon auf der Überholspur des Nichtstuns, da kann ich dafür nicht abbremsen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 798,
+    "text": "Ich kann nicht kommen. Ich bin extrem damit beschäftigt, nicht beschäftigt zu sein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 799,
+    "text": "Wenn ich dir helfe, fühle ich mich verpflichtet, auch anderen zu helfen, und das ist eine Rutschbahn, die ich meide.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 800,
+    "text": "Das Universum hat mir gesagt, ich soll mir was gönnen, und das verstehe ich als Zeichen, zu Hause zu bleiben.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 801,
+    "text": "Niemand hat mir je vorgeworfen, zu hilfsbereit zu sein, und ich fange jetzt nicht damit an.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 802,
+    "text": "Ich habe Angst vor Veränderung, also bleibe ich beim Nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 803,
+    "text": "Mein Leben ist wie ein Jenga-Turm. Noch eine Sache, und alles stürzt ein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 804,
+    "text": "Ich habe dafür keine Bandbreite (und auch sonst keine Breite).",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 805,
+    "text": "Das Leben ist kurz, und meine Nickerchen-Liste ist lang.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 806,
+    "text": "Offen gesagt, meine Liebe, ist mir das schnurzpiepegal (das Machen, meine ich).",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 807,
+    "text": "Ich habe versucht, es aus deiner Perspektive zu sehen, aber ich muss trotzdem Nein sagen.",
+    "tags": ["freundlich"]
+  },
+  {
+    "id": 808,
+    "text": "Der Zeitpunkt passt nicht, hauptsächlich weil ich es einfach nicht machen will.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 809,
+    "text": "Ich bin im sozialen Tarnmodus, also muss ich alle Einladungen ablehnen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 810,
+    "text": "Ich habe eine chronische Erkrankung namens Null-Bock.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 811,
+    "text": "Ich wähle die Sofa-Erleuchtung statt weltlicher Bestrebungen wie dieser.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 812,
+    "text": "Ich bin auf unbestimmte Zeit außer Dienst.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 813,
+    "text": "Ich stecke mitten in einem sehr heiklen Nichtstun-Ritual.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 814,
+    "text": "Wie wäre es, wenn ich verspreche, darüber nachzudenken? (Tue ich nicht, aber es klingt höflich.)",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 815,
+    "text": "Ich habe schon einen Termin: einen Anstarrwettbewerb mit meiner Wand.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 816,
+    "text": "Ich bin damit beschäftigt, die großen Weiten von drinnen zu erkunden.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 817,
+    "text": "Das Sofa hat mich als eines der Seinen aufgenommen, und ich kann sein Vertrauen nicht missbrauchen.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 818,
+    "text": "'Nein' ist das neue 'Ja'. Ich gehe nur mit dem Trend.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 819,
+    "text": "Die Chancen, dass ich das tue, sind etwa so hoch wie ein Lottogewinn ohne Los.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 820,
+    "text": "Das steht nicht auf meiner Löffelliste, sondern auf meiner Scheißegal-Liste.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 821,
+    "text": "Entschuldige bitte, mein Gehirn ist gerade außer Betrieb.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 822,
+    "text": "Gäbe es einen Preis fürs Vermeiden von Teilnahme, wäre ich Favorit.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 823,
+    "text": "Mein Schicksal liegt woanders, genauer gesagt auf meinem Sofa.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 824,
+    "text": "Man bringt mich nicht einfach so dazu, Ja zu sagen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 825,
+    "text": "Wenn ich Ja sage, müsste ich aufhören, mich zu beschweren, dass ich so beschäftigt bin, und das geht nicht.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 826,
+    "text": "Meine Energie ist solarbetrieben, und es ist Nacht.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 827,
+    "text": "Ich opfere mich fürs Team, indem ich nicht mitmache.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 828,
+    "text": "Sogar mein Schatten hat beschlossen, zu Hause zu bleiben, also tue ich das auch.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 829,
+    "text": "Zum Glück habe ich eine Aufschieber-Versicherung. Die deckt solche Situationen ab.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 830,
+    "text": "Nicht mein Zirkus, nicht meine Affen. Also auch nicht meine Nummer.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 831,
+    "text": "Der Geist ist willig, aber das Fleisch hat schon Essen bestellt und es sich gemütlich gemacht.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 832,
+    "text": "Mein Wille dazu ist in der Werkstatt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 833,
+    "text": "Ich könnte 1000 Gründe für mein Nein aufzählen, aber das erspare ich dir.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 834,
+    "text": "Ich sage jetzt ab, um später nicht absagen zu müssen.",
+    "tags": ["freundlich", "geistreich"]
+  },
+  {
+    "id": 835,
+    "text": "Ich entscheide mich für mich statt für diese Verpflichtung, also nein.",
+    "tags": []
+  },
+  {
+    "id": 836,
+    "text": "Ich erspare dir ein halbherziges Ja und gebe dir ein ehrliches Nein.",
+    "tags": ["freundlich", "geistreich"]
+  },
+  {
+    "id": 837,
+    "text": "Wenn mein Leben ein Film wäre, käme jetzt die Stelle, an der ich Nein sage und der Abspann läuft.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 838,
+    "text": "Ich schließe die Tür zu dieser Idee (im wörtlichen und übertragenen Sinne).",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 839,
+    "text": "Meine Intuition hat so laut 'Nein' geschrien, dass ich entsprechend antworten musste.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 840,
+    "text": "Die gesuchte Antwort ist derzeit nicht verfügbar (versuche es nie wieder).",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 841,
+    "text": "Um eine berühmte Antwort zu zitieren: 'Nein.'",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 842,
+    "text": "Ich mache von meinem Recht Gebrauch, Nein zu sagen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 843,
+    "text": "Ich war mir noch nie so sicher wie bei diesem Nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 844,
+    "text": "Ich bin heute aufgewacht und habe beschlossen, dass heute ein Nein-Tag ist.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 845,
+    "text": "Heute spreche ich nur in Verneinungen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 846,
+    "text": "Ich bin auf einer Mission, null Verpflichtungen einzugehen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 847,
+    "text": "Sogar meine Smartwatch sagt mir, ich soll bleiben, wo ich bin.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 848,
+    "text": "Ich wähle Netflix statt Stress, sorry.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 849,
+    "text": "Nein, auf die herzlichste und humorvollste Art, die es gibt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 850,
+    "text": "Mein Kalender streikt.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 851,
+    "text": "Ich entscheide mich für mich, also sage ich Nein zu dir.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 852,
+    "text": "Ich tue allen einen Gefallen, indem ich bei dem bleibe, was ich gut kann: Nein sagen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 853,
+    "text": "Nein gehört zu meiner Selfcare-Routine.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 854,
+    "text": "Das ist ein Nein ohne schlechtes Gewissen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 855,
+    "text": "Wenn ich helfen würde, nähme ich dir die Chance, es selbst zu tun.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 856,
+    "text": "Mein Terminplan ist im Flugmodus.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 857,
+    "text": "Ich habe meinen Frieden mit dem Neinsagen gemacht.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 858,
+    "text": "Negativ. Punkt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 859,
+    "text": "Ich muss meinen Verstand um jeden Preis schützen, also nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 860,
+    "text": "Ich bin nicht so weit gekommen, um nur so weit zu kommen. Genau genommen komme ich gar nicht.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 861,
+    "text": "Es ist ein Nein vom Ausschuss aus ich, mir und mich.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 862,
+    "text": "Ich muss absagen. Meine Kümmer-Grenze ist erreicht.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 863,
+    "text": "Selbst wenn ich wollte, könnte ich nicht. Und ich will nicht.",
+    "tags": ["sarkastisch"]
+  },
+  {
+    "id": 864,
+    "text": "Ich nutze die Gelegenheit, stattdessen nichts zu tun.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 865,
+    "text": "Mein Wille zur Teilnahme hat das Gebäude verlassen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 866,
+    "text": "Deine Anfrage wurde wegen mangelnden Interesses meinerseits abgelehnt.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 867,
+    "text": "Gehen wir einfach davon aus, dass ich Nein gesagt habe, und machen weiter.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 868,
+    "text": "Ich bin derzeit außer Betrieb. Bitte versuche es nie wieder.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 869,
+    "text": "Ach, ich muss leider ablehnen.",
+    "tags": ["professionell", "freundlich"]
+  },
+  {
+    "id": 870,
+    "text": "Diese Anfrage abzulehnen, macht mir Freude.",
+    "tags": ["sarkastisch", "geistreich"]
+  },
+  {
+    "id": 871,
+    "text": "Vielleicht ließe ich mich überzeugen, aber am Ende würde ich wahrscheinlich trotzdem Nein sagen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 872,
+    "text": "Ich habe einen philosophischen Einwand dagegen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 873,
+    "text": "Wäre ich noch gleichgültiger, wäre ich eine Statue.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 874,
+    "text": "Ich muss meine Prioritäten priorisieren, und die sind gerade Schlafen und Snacken.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 875,
+    "text": "Mein Terminplan hat eine eingebaute Nein-Funktion.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 876,
+    "text": "Ein Ja würde in meinem persönlichen Universum die Gesetze der Physik brechen.",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 877,
+    "text": "An diesem Punkt würde sich ein Ja einfach falsch anfühlen.",
+    "tags": ["freundlich"]
+  },
+  {
+    "id": 878,
+    "text": "Ich habe mir versprochen, diese Woche konsequent nicht hilfsbereit zu sein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 879,
+    "text": "Meine Faulheit steht in voller Blüte, und dafür reiße ich sie nicht aus.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 880,
+    "text": "Ich bin allergisch gegen Verpflichtungen und bekomme Ausreden-Ausschlag.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 881,
+    "text": "Ich setze diesmal aus und lasse das Karma meine Ehrlichkeit belohnen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 882,
+    "text": "Betrachte mein Nein als Akt der Selbstfürsorge.",
+    "tags": []
+  },
+  {
+    "id": 883,
+    "text": "Ich nutze meine Entscheidungsfreiheit, und ich wähle Nein.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 884,
+    "text": "Ich arbeite hart daran, überhaupt nichts zu tun.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 885,
+    "text": "Ich würde helfen, aber das widerspräche dem Leitbild meines Lebens.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 886,
+    "text": "Nein, aber ich schätze deinen Optimismus.",
+    "tags": ["freundlich", "professionell"]
+  },
+  {
+    "id": 887,
+    "text": "Ich habe den schwarzen Gürtel im Vermeiden, und den will ich nicht verschwenden (also nein).",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 888,
+    "text": "Ich bin im Nein-Schutzprogramm (ich sage Nein und verstecke mich dann).",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 889,
+    "text": "Ich muss zu Hause bleiben und sicherstellen, dass die Schwerkraft weiter funktioniert. (Irgendwer muss es ja tun.)",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 890,
+    "text": "Wenn ich gehe, wer hält dann die Stellung? (Die Stellung ist mein Sofa.)",
+    "tags": ["absurd", "geistreich"]
+  },
+  {
+    "id": 891,
+    "text": "Ich mache gerade eine Lebensprüfung, und unnötige Verpflichtungen sind durchgefallen.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 892,
+    "text": "Das abzulehnen, ist tatsächlich Teil meines Fünfjahresplans.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 893,
+    "text": "Ich ignoriere dich nicht. Ich gebe dir ein sehr deutliches Nein.",
+    "tags": []
+  },
+  {
+    "id": 894,
+    "text": "Nicht mein Zirkus, nicht meine Affen, also definitiv nicht meine Nummer.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 895,
+    "text": "Ich bin heute aufgewacht und dachte: 'Lieber nicht.'",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 896,
+    "text": "Stell dir vor, ich hätte dir eine clevere Ausrede gegeben, und nimm das Nein als stillschweigend an.",
+    "tags": ["geistreich"]
+  },
+  {
+    "id": 897,
+    "text": "Mein Kalender hat einen kleinen Protest veranstaltet, als ich nachgesehen habe.",
+    "tags": ["freundlich", "geistreich", "professionell"]
+  },
+  {
+    "id": 898,
+    "text": "Danke für die Anfrage, aber diesmal muss ich passen.",
+    "tags": ["freundlich", "professionell"]
+  },
+  {
+    "id": 899,
+    "text": "Danke, dass du an mich gedacht hast, aber ich kann mich gerade nicht verpflichten.",
+    "tags": ["freundlich"]
+  },
+  {
+    "id": 900,
+    "text": "Das bedeutet mir viel, aber ich muss Nein sagen.",
+    "tags": ["freundlich", "professionell"]
+  },
+  {
+    "id": 901,
+    "text": "Ich hoffe, es läuft wunderbar, aber ich werde nicht dabei sein können.",
+    "tags": ["freundlich"]
+  },
+  {
+    "id": 902,
+    "text": "Ich weiß die Einladung wirklich zu schätzen, muss aber absagen.",
+    "tags": ["freundlich", "professionell"]
+  },
+  {
+    "id": 903,
+    "text": "Es ehrt mich, dass du fragst, aber das kann ich nicht übernehmen.",
+    "tags": ["freundlich", "professionell"]
+  },
+  {
+    "id": 904,
+    "text": "Ich drücke dir aus der Ferne die Daumen, aber diesmal setze ich aus.",
+    "tags": ["freundlich", "geistreich"]
+  },
+  {
+    "id": 905,
+    "text": "Meine Antwort ist Nein, aber meine Wertschätzung ist Ja.",
+    "tags": ["freundlich", "geistreich"]
+  },
+  {
+    "id": 906,
+    "text": "Das liegt außerhalb meiner aktuellen Prioritäten.",
+    "tags": ["professionell"]
+  },
+  {
+    "id": 907,
+    "text": "Ich habe derzeit nicht die Kapazität, das zu übernehmen.",
+    "tags": ["professionell"]
+  },
+  {
+    "id": 908,
+    "text": "Leider kann ich diese Initiative nicht unterstützen.",
+    "tags": ["professionell"]
+  },
+  {
+    "id": 909,
+    "text": "Dazu kann ich mich derzeit nicht verpflichten.",
+    "tags": ["professionell"]
+  },
+  {
+    "id": 910,
+    "text": "Ich muss absagen, um mich auf meine bestehenden Verpflichtungen zu konzentrieren.",
+    "tags": ["professionell"]
+  },
+  {
+    "id": 911,
+    "text": "Ich schätze die Gelegenheit, muss aber passen.",
+    "tags": ["professionell", "freundlich"]
+  },
+  {
+    "id": 912,
+    "text": "Das passt nicht zu meinen aktuellen Zielen.",
+    "tags": ["professionell"]
+  },
+  {
+    "id": 913,
+    "text": "Bei meinem aktuellen Arbeitspensum kann ich dem nicht die Aufmerksamkeit widmen, die es verdient.",
+    "tags": ["professionell", "freundlich"]
+  },
+  {
+    "id": 914,
+    "text": "Meine Bandbreite ist in ein Energiesparprogramm eingetreten.",
+    "tags": ["professionell", "geistreich"]
+  },
+  {
+    "id": 915,
+    "text": "Mein Terminplan hat den Vorschlag geprüft und respektvoll abgelehnt.",
+    "tags": ["professionell", "geistreich"]
+  },
+  {
+    "id": 916,
+    "text": "Die aktuellen Ressourcen wurden anderweitig zugewiesen. Mit Ressourcen meine ich mich.",
+    "tags": ["professionell", "geistreich"]
+  },
+  {
+    "id": 917,
+    "text": "Die Anfrage ist vernünftig. Meine Verfügbarkeit ist es nicht.",
+    "tags": ["professionell", "geistreich"]
   }
 ]

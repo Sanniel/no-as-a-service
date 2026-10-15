@@ -1,0 +1,707 @@
+[
+  {
+    "id": 189,
+    "text": "I checked my crystal ball, and it said 'nah'.",
+    "tags": [
+      "absurd",
+      "witty"
+    ]
+  },
+  {
+    "id": 190,
+    "text": "The spirit world recommends I stay home.",
+    "tags": [
+      "absurd",
+      "witty"
+    ]
+  },
+  {
+    "id": 191,
+    "text": "I threw some runes and they spelled out N-O.",
+    "tags": [
+      "absurd",
+      "witty"
+    ]
+  },
+  {
+    "id": 192,
+    "text": "My magic 8-ball said 'Outlook not so good'.",
+    "tags": [
+      "absurd",
+      "witty"
+    ]
+  },
+  {
+    "id": 193,
+    "text": "I was reading tea leaves and they said to avoid this at all costs.",
+    "tags": [
+      "absurd",
+      "witty"
+    ]
+  },
+  {
+    "id": 194,
+    "text": "A psychic warned me about requests like these.",
+    "tags": [
+      "absurd",
+      "witty"
+    ]
+  },
+  {
+    "id": 195,
+    "text": "I'm in a committed relationship with my bed at that time.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 196,
+    "text": "Sleep and I have a standing date, can't break it.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 197,
+    "text": "I would, but I'm trying this new thing called sleeping.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 198,
+    "text": "I already took a melatonin. It's lights out for me.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 199,
+    "text": "I'm saving all my energy to blink and breathe.",
+    "tags": []
+  },
+  {
+    "id": 200,
+    "text": "I have an early morning of sleeping in.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 201,
+    "text": "If it's not a nap, I'm not interested.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 202,
+    "text": "I can't; my pillow needs me.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 203,
+    "text": "Count me out, I'm counting sheep instead.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 204,
+    "text": "I'll be in the middle of my power nap (which might last all day).",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 205,
+    "text": "Disclaimer: Any agreement on my part is void where fun is prohibited.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 206,
+    "text": "Fine print: My 'yes' comes with 0% enthusiasm.",
+    "tags": [
+      "sarcastic"
+    ]
+  },
+  {
+    "id": 207,
+    "text": "I checked the terms and conditions of my life, and it says 'nope'.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 208,
+    "text": "By agreeing, I might violate several personal bylaws.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 209,
+    "text": "According to the unwritten rules I just wrote, I must decline.",
+    "tags": [
+      "professional",
+      "witty"
+    ]
+  },
+  {
+    "id": 210,
+    "text": "My user agreement strictly prohibits me from doing that.",
+    "tags": [
+      "professional",
+      "witty"
+    ]
+  },
+  {
+    "id": 211,
+    "text": "I would violate the Geneva Convention of Introverts if I agreed.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 212,
+    "text": "I ran this request through my internal compliance, and it failed.",
+    "tags": [
+      "professional"
+    ]
+  },
+  {
+    "id": 213,
+    "text": "My lawyer (who is imaginary) advises against it.",
+    "tags": [
+      "professional",
+      "witty"
+    ]
+  },
+  {
+    "id": 214,
+    "text": "The contract I signed with my bed doesn't allow me to do anything else.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 215,
+    "text": "My plate is full, and I already ate the portion of doing favors.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 216,
+    "text": "I'm overbooked, overwhelmed, and overjoyed to say no.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 217,
+    "text": "My schedule spontaneously combusted from too many tasks.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 218,
+    "text": "I'm currently managing too many crises — adding another might cause a meltdown.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 219,
+    "text": "I have too much on my plate, and I'm on a no-carb diet (no extra tasks).",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 220,
+    "text": "I'm drowning in tasks, and I didn't bring a snorkel.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 221,
+    "text": "I would, but I'm already in over my head with other regrets.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 222,
+    "text": "My to-do list and I aren't on speaking terms, it's so long.",
+    "tags": [
+      "professional",
+      "witty"
+    ]
+  },
+  {
+    "id": 223,
+    "text": "I'm way too popular with tasks I haven't done yet.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 224,
+    "text": "The hamster running my life wheel is on strike due to overwork.",
+    "tags": [
+      "absurd",
+      "witty"
+    ]
+  },
+  {
+    "id": 225,
+    "text": "'No' is just 'on' spelled backwards, and I'm off.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 226,
+    "text": "Spell check suggests I say N-O.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 227,
+    "text": "I wrote you a poem: Roses are red, violets are blue, my answer is no, no can do.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 228,
+    "text": "The only thing I'm inclined to say is a decline.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 229,
+    "text": "Let me put it in a language you understand: No.",
+    "tags": [
+      "sarcastic"
+    ]
+  },
+  {
+    "id": 230,
+    "text": "I'm fluent in 5 languages, and in all of them, the answer is no.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 231,
+    "text": "'Yes' and I aren't on speaking terms at the moment.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 232,
+    "text": "I would respond with a fancy Latin phrase for no, but plain 'no' will suffice.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 233,
+    "text": "As an acronym, my answer is N.O.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 234,
+    "text": "I'm booked until the heat death of the universe.",
+    "tags": [
+      "absurd",
+      "witty"
+    ]
+  },
+  {
+    "id": 235,
+    "text": "My calendar is filled up through the next century, sorry.",
+    "tags": [
+      "professional",
+      "witty"
+    ]
+  },
+  {
+    "id": 236,
+    "text": "I have a scheduling conflict with the rest of my life.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 237,
+    "text": "I'm not free until the sun rises in the west and sets in the east.",
+    "tags": [
+      "absurd",
+      "witty"
+    ]
+  },
+  {
+    "id": 238,
+    "text": "Check back with me in a million years, I might have time then.",
+    "tags": [
+      "sarcastic",
+      "witty"
+    ]
+  },
+  {
+    "id": 239,
+    "text": "I'm on hold with life right now; expect a long wait.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 240,
+    "text": "My availability is currently in a state of quantum uncertainty, leaning towards no.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 241,
+    "text": "I've pre-booked my next thousand refusals; you're just one of them.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 242,
+    "text": "My schedule is tighter than my jeans after the holidays.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 243,
+    "text": "I looked at my calendar, and it laughed at me for even asking.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 244,
+    "text": "Thank you for thinking of me, but I'm going to decline hilariously.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 245,
+    "text": "I appreciate the offer, but I'll have to decline, mainly out of laziness.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 246,
+    "text": "Much obliged that you asked, but no can do, buckaroo.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 247,
+    "text": "I'm honored you thought of me, but I must respectfully and comically decline.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 248,
+    "text": "Please accept my sincerest apologies as I laugh and say no.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 249,
+    "text": "Regretfully, I'll have to pass, but I'll do it with a smile.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 250,
+    "text": "It's not you, it's me. I'm just allergic to doing things.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 251,
+    "text": "Respectfully, I'm going to ghost this opportunity.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 252,
+    "text": "I'm truly touched you asked. Truly. Still no, though.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 253,
+    "text": "With all due respect, no way, José.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 254,
+    "text": "I forgot how to say yes.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 255,
+    "text": "I have short-term memory loss when it comes to responsibilities.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 256,
+    "text": "I'd agree, but I just forgot what you asked, so... no.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 257,
+    "text": "My brain auto-deletes requests like that.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 258,
+    "text": "I've got selective amnesia for favors.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 259,
+    "text": "I was going to help, but I forgot to care.",
+    "tags": []
+  },
+  {
+    "id": 260,
+    "text": "I'm sorry, I suffer from CRS (Can't Remember Saying yes).",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 261,
+    "text": "I can't remember the last time I said yes, and I won't start now.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 262,
+    "text": "What was that? Did you ask something? No? Great.",
+    "tags": [
+      "sarcastic"
+    ]
+  },
+  {
+    "id": 263,
+    "text": "I put your request in my mental shredder.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 264,
+    "text": "I can't; I'm busy teaching my goldfish to play fetch for charity.",
+    "tags": [
+      "absurd",
+      "witty"
+    ]
+  },
+  {
+    "id": 265,
+    "text": "I'm devoting that time slot to contemplating the meaning of life. It's a charity case really.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 266,
+    "text": "I've donated all my free time to non-doing causes.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 267,
+    "text": "I'm working on a petition to ban requests like this.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 268,
+    "text": "My calendar is filled with volunteer work at the Society of Professional Naysayers.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 269,
+    "text": "I'm training for a charity event: a marathon of saying no.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 270,
+    "text": "I'm raising awareness for the endangered word 'no' by using it frequently.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 271,
+    "text": "I auctioned off my time slot for that day to the highest bidder of nothing.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 272,
+    "text": "I'm doing a silent retreat away from responsibilities.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 273,
+    "text": "I gave all my free time to someone else; I'm running a deficit.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 274,
+    "text": "I'm on a strict no-social-interaction diet.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 275,
+    "text": "I have to cancel; I've exceeded my people-ing quota for the week.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 276,
+    "text": "I'm introverting so hard right now, I can't stop to do that.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 277,
+    "text": "My social battery is at 0%, and my charger is missing.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 278,
+    "text": "I'm away on an introvert adventure (indoors, alone).",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 279,
+    "text": "I can't come out; I've recently taken up hermit life.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 280,
+    "text": "Socializing is off the table, literally, I flipped the table.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 281,
+    "text": "I'm allergic to crowds, and even one person counts sometimes.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 282,
+    "text": "I'm practicing social distancing... from everyone.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 283,
+    "text": "Public me is out of office; please contact me never.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 284,
+    "text": "I accidentally glued myself to the couch.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 285,
+    "text": "My legs have filed a complaint about excessive walking.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 286,
+    "text": "My get-up-and-go got up and went without me.",
+    "tags": [
+      "witty"
+    ]
+  },
+  {
+    "id": 287,
+    "text": "I'm having an out-of-body experience and I'm not back yet.",
+    "tags": [
+      "witty"
+    ]
+  }
+]
